@@ -1,0 +1,50 @@
+{
+  "name": "Champion Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11119031038806294
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latias",
+      "gender": "MALE",
+      "level": 91,
+      "nature": "calm",
+      "ability": "rockhead",
+      "moveset": [
+        "scratch",
+        "dragonrush",
+        "moonblast",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 94,
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "willowisp",
+        "darkpulse",
+        "thrash",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

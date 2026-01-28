@@ -1,0 +1,35 @@
+{
+  "name": "Youngster Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.170479929316454
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zapdos",
+      "gender": "MALE",
+      "level": 6,
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "confusion",
+        "quickattack",
+        "tackle",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

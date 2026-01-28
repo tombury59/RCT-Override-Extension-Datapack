@@ -1,0 +1,65 @@
+{
+  "name": "Beauty Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13022987908818867
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "adamant",
+      "ability": "waterabsorb",
+      "moveset": [
+        "trickroom",
+        "icebeam",
+        "crunch",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "impish",
+      "ability": "pressure",
+      "moveset": [
+        "calmmind",
+        "doubleedge",
+        "psychic",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "lonely",
+      "ability": "soundproof",
+      "moveset": [
+        "icebeam",
+        "tailwind",
+        "takedown",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

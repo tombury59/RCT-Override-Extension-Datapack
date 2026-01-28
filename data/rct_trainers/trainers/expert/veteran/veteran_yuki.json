@@ -1,0 +1,80 @@
+{
+  "name": "Veteran Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14308903402933626
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hydreigon",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "quirky",
+      "ability": "pressure",
+      "moveset": [
+        "flashcannon",
+        "whirlwind",
+        "dragonrush",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "naive",
+      "ability": "soundproof",
+      "moveset": [
+        "megapunch",
+        "flashcannon",
+        "nastyplot",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "MALE",
+      "level": 61,
+      "nature": "bold",
+      "ability": "compoundeyes",
+      "moveset": [
+        "shadowball",
+        "icepunch",
+        "closecombat",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "brave",
+      "ability": "thickfat",
+      "moveset": [
+        "scratch",
+        "rest",
+        "zenheadbutt",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

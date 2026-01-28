@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12831050906905733
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "magneton",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "serious",
+      "ability": "static",
+      "moveset": [
+        "outrage",
+        "growth",
+        "thunderpunch",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "modest",
+      "ability": "syncronize",
+      "moveset": [
+        "thunderwave",
+        "takedown",
+        "hydropump",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "bold",
+      "ability": "intimidate",
+      "moveset": [
+        "dazzlinggleam",
+        "quickattack",
+        "scratch",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "brave",
+      "ability": "levitate",
+      "moveset": [
+        "earthquake",
+        "dragonpulse",
+        "substitute",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "naughty",
+      "ability": "voltabsorb",
+      "moveset": [
+        "shadowclaw",
+        "stunspore",
+        "moonblast",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

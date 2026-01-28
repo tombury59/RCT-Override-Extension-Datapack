@@ -1,0 +1,80 @@
+{
+  "name": "Veteran Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18476272703887933
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "poliwag",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "hasty",
+      "ability": "compoundeyes",
+      "moveset": [
+        "flareblitz",
+        "stoneedge",
+        "tailwind",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "confusion",
+        "gigaimpact",
+        "recover",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "bold",
+      "ability": "thickfat",
+      "moveset": [
+        "megapunch",
+        "tailwind",
+        "surf",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "rash",
+      "ability": "static",
+      "moveset": [
+        "quickattack",
+        "nastyplot",
+        "gigaimpact",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13874575943285328
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "entei",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "rash",
+      "ability": "rockhead",
+      "moveset": [
+        "calmmind",
+        "earthquake",
+        "flareblitz",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "adamant",
+      "ability": "swarm",
+      "moveset": [
+        "surf",
+        "icepunch",
+        "protect",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blastoise",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "sassy",
+      "ability": "soundproof",
+      "moveset": [
+        "quickattack",
+        "whirlwind",
+        "flashcannon",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

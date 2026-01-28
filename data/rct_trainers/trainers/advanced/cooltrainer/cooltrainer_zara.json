@@ -1,0 +1,80 @@
+{
+  "name": "Cooltrainer Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1424083237689313
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "registeel",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "gentle",
+      "ability": "blaze",
+      "moveset": [
+        "firepunch",
+        "airslash",
+        "stealthrock",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "gentle",
+      "ability": "sturdy",
+      "moveset": [
+        "solarbeam",
+        "shadowclaw",
+        "growth",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "lax",
+      "ability": "intimidate",
+      "moveset": [
+        "firepunch",
+        "pound",
+        "ember",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "gentle",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "thunderwave",
+        "takedown",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

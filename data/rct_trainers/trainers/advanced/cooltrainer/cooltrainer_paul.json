@@ -1,0 +1,110 @@
+{
+  "name": "Cooltrainer Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1261002452731212
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "earthquake",
+        "fireblast",
+        "sleeppowder",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "modest",
+      "ability": "syncronize",
+      "moveset": [
+        "stealthrock",
+        "psychic",
+        "quickattack",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "mild",
+      "ability": "thickfat",
+      "moveset": [
+        "focusblast",
+        "wildcharge",
+        "megakick",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "gentle",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "scratch",
+        "outrage",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "naughty",
+      "ability": "pressure",
+      "moveset": [
+        "recover",
+        "stoneedge",
+        "icepunch",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "quirky",
+      "ability": "immunity",
+      "moveset": [
+        "vinewhip",
+        "nastyplot",
+        "zenheadbutt",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

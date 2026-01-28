@@ -1,0 +1,50 @@
+{
+  "name": "Battle Girl Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14309912586681037
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "serious",
+      "ability": "innerfocus",
+      "moveset": [
+        "whirlwind",
+        "airslash",
+        "tackle",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "calm",
+      "ability": "intimidate",
+      "moveset": [
+        "thunderpunch",
+        "airslash",
+        "closecombat",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

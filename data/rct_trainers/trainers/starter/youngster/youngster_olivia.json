@@ -1,0 +1,35 @@
+{
+  "name": "Youngster Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15954456218759414
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 6,
+      "nature": "brave",
+      "ability": "keeneye",
+      "moveset": [
+        "thundershock",
+        "toxic",
+        "gigaimpact",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

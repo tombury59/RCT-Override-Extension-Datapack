@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15966427783637085
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "quiet",
+      "ability": "levitate",
+      "moveset": [
+        "thrash",
+        "stealthrock",
+        "dragonrush",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "gentle",
+      "ability": "syncronize",
+      "moveset": [
+        "scratch",
+        "willowisp",
+        "closecombat",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "impish",
+      "ability": "soundproof",
+      "moveset": [
+        "icepunch",
+        "megapunch",
+        "watergun",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "quirky",
+      "ability": "voltabsorb",
+      "moveset": [
+        "wildcharge",
+        "crunch",
+        "dazzlinggleam",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "careful",
+      "ability": "innerfocus",
+      "moveset": [
+        "ironhead",
+        "swordsdance",
+        "dragonrush",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

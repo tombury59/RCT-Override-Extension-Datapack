@@ -1,0 +1,80 @@
+{
+  "name": "Cooltrainer Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11916202610478083
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "suicune",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "serious",
+      "ability": "syncronize",
+      "moveset": [
+        "quickattack",
+        "megapunch",
+        "thundershock",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "rash",
+      "ability": "rockhead",
+      "moveset": [
+        "quickattack",
+        "stealthrock",
+        "moonblast",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "lax",
+      "ability": "static",
+      "moveset": [
+        "vinewhip",
+        "megakick",
+        "ironhead",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "hardy",
+      "ability": "rockhead",
+      "moveset": [
+        "thunderbolt",
+        "shadowclaw",
+        "closecombat",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

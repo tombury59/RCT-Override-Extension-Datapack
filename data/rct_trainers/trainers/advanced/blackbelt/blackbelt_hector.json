@@ -1,0 +1,95 @@
+{
+  "name": "Blackbelt Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18842163289265842
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "firepunch",
+        "icebeam",
+        "megakick",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "firepunch",
+        "flareblitz",
+        "calmmind",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "mild",
+      "ability": "pressure",
+      "moveset": [
+        "wildcharge",
+        "darkpulse",
+        "agility",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "modest",
+      "ability": "intimidate",
+      "moveset": [
+        "outrage",
+        "psychic",
+        "protect",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "docile",
+      "ability": "torrent",
+      "moveset": [
+        "earthquake",
+        "roar",
+        "vinewhip",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

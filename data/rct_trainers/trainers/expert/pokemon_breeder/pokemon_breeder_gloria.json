@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11604635435952768
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "brave",
+      "ability": "pressure",
+      "moveset": [
+        "doubleedge",
+        "icebeam",
+        "willowisp",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "lonely",
+      "ability": "immunity",
+      "moveset": [
+        "gigaimpact",
+        "watergun",
+        "roar",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "calmmind",
+        "doubleedge",
+        "hydropump",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "timid",
+      "ability": "soundproof",
+      "moveset": [
+        "calmmind",
+        "dragonrush",
+        "firepunch",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "hydropump",
+        "gigaimpact",
+        "recover",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10833425722261565
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 94,
+      "nature": "quiet",
+      "ability": "syncronize",
+      "moveset": [
+        "moonblast",
+        "protect",
+        "dragonrush",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "bold",
+      "ability": "immunity",
+      "moveset": [
+        "closecombat",
+        "thunderwave",
+        "focusblast",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "mild",
+      "ability": "effectspore",
+      "moveset": [
+        "takedown",
+        "stunspore",
+        "psychic",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "megakick",
+        "quickattack",
+        "rest",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "calm",
+      "ability": "syncronize",
+      "moveset": [
+        "shadowball",
+        "closecombat",
+        "pound",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "rash",
+      "ability": "thickfat",
+      "moveset": [
+        "ember",
+        "willowisp",
+        "dragonrush",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

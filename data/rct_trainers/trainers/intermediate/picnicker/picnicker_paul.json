@@ -1,0 +1,80 @@
+{
+  "name": "Picnicker Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16692690046923706
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "quiet",
+      "ability": "pressure",
+      "moveset": [
+        "icepunch",
+        "protect",
+        "tackle",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "docile",
+      "ability": "waterabsorb",
+      "moveset": [
+        "stoneedge",
+        "moonblast",
+        "recover",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "mild",
+      "ability": "syncronize",
+      "moveset": [
+        "ember",
+        "megapunch",
+        "sleeppowder",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "lax",
+      "ability": "soundproof",
+      "moveset": [
+        "thundershock",
+        "thunderpunch",
+        "icepunch",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

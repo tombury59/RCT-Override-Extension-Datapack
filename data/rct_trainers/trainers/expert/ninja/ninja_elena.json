@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1523627860604433
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "mild",
+      "ability": "keeneye",
+      "moveset": [
+        "ironhead",
+        "shadowclaw",
+        "nastyplot",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "docile",
+      "ability": "innerfocus",
+      "moveset": [
+        "vinewhip",
+        "earthquake",
+        "crunch",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "brave",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderwave",
+        "zenheadbutt",
+        "hydropump",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 78,
+      "nature": "lax",
+      "ability": "rockhead",
+      "moveset": [
+        "gigaimpact",
+        "substitute",
+        "quickattack",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "firepunch",
+        "recover",
+        "flashcannon",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

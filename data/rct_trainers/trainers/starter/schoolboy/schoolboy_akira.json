@@ -1,0 +1,35 @@
+{
+  "name": "Schoolboy Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1859985432008711
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "rash",
+      "ability": "overgrow",
+      "moveset": [
+        "earthquake",
+        "wildcharge",
+        "calmmind",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

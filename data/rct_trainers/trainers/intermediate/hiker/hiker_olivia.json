@@ -1,0 +1,65 @@
+{
+  "name": "Hiker Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16065515443340736
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "modest",
+      "ability": "effectspore",
+      "moveset": [
+        "calmmind",
+        "scratch",
+        "flamethrower",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "lonely",
+      "ability": "overgrow",
+      "moveset": [
+        "tackle",
+        "shadowball",
+        "protect",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "docile",
+      "ability": "thickfat",
+      "moveset": [
+        "substitute",
+        "energyball",
+        "thrash",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

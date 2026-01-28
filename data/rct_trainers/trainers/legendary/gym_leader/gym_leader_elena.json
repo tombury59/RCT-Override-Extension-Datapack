@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18050984252624247
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "rest",
+        "dragonrush",
+        "flareblitz",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 83,
+      "nature": "sassy",
+      "ability": "pressure",
+      "moveset": [
+        "earthquake",
+        "rest",
+        "megakick",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "MALE",
+      "level": 81,
+      "nature": "gentle",
+      "ability": "keeneye",
+      "moveset": [
+        "scratch",
+        "growth",
+        "gigaimpact",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 83,
+      "nature": "quiet",
+      "ability": "sturdy",
+      "moveset": [
+        "wildcharge",
+        "hydropump",
+        "detect",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "MALE",
+      "level": 84,
+      "nature": "docile",
+      "ability": "rockhead",
+      "moveset": [
+        "airslash",
+        "outrage",
+        "trickroom",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

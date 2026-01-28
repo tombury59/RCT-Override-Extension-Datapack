@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14650983560061887
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "quiet",
+      "ability": "torrent",
+      "moveset": [
+        "ironhead",
+        "tackle",
+        "solarbeam",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "thunderpunch",
+        "zenheadbutt",
+        "icebeam",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "lax",
+      "ability": "flashfire",
+      "moveset": [
+        "nastyplot",
+        "pound",
+        "hydropump",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "timid",
+      "ability": "sturdy",
+      "moveset": [
+        "dragonpulse",
+        "bodyslam",
+        "takedown",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "gentle",
+      "ability": "compoundeyes",
+      "moveset": [
+        "rest",
+        "thrash",
+        "flamethrower",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "serious",
+      "ability": "intimidate",
+      "moveset": [
+        "pound",
+        "recover",
+        "thrash",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

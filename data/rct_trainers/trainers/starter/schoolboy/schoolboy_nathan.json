@@ -1,0 +1,35 @@
+{
+  "name": "Schoolboy Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18607108029813885
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "serious",
+      "ability": "soundproof",
+      "moveset": [
+        "thrash",
+        "recover",
+        "ember",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

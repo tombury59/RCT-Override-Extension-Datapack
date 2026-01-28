@@ -1,0 +1,110 @@
+{
+  "name": "Beauty Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1533953602772939
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "swordsdance",
+        "ember",
+        "ironhead",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "modest",
+      "ability": "voltabsorb",
+      "moveset": [
+        "wildcharge",
+        "stealthrock",
+        "solarbeam",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "hydropump",
+        "crunch",
+        "earthquake",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "naive",
+      "ability": "syncronize",
+      "moveset": [
+        "dazzlinggleam",
+        "megapunch",
+        "thrash",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": [
+        "thunder",
+        "detect",
+        "outrage",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "mild",
+      "ability": "soundproof",
+      "moveset": [
+        "flamethrower",
+        "trickroom",
+        "earthquake",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

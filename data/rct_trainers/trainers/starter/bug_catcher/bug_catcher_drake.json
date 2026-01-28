@@ -1,0 +1,50 @@
+{
+  "name": "Bug Catcher Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10082957907566964
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "mild",
+      "ability": "voltabsorb",
+      "moveset": [
+        "earthquake",
+        "roar",
+        "takedown",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "lax",
+      "ability": "torrent",
+      "moveset": [
+        "vinewhip",
+        "protect",
+        "megakick",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Psychic Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15494699772548245
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "modest",
+      "ability": "thickfat",
+      "moveset": [
+        "roar",
+        "crunch",
+        "outrage",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "relaxed",
+      "ability": "effectspore",
+      "moveset": [
+        "psychic",
+        "stunspore",
+        "thrash",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "timid",
+      "ability": "thickfat",
+      "moveset": [
+        "zenheadbutt",
+        "detect",
+        "takedown",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "bold",
+      "ability": "thickfat",
+      "moveset": [
+        "pound",
+        "darkpulse",
+        "firepunch",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "lonely",
+      "ability": "flashfire",
+      "moveset": [
+        "shadowclaw",
+        "thunderwave",
+        "megakick",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Bug Catcher Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10244837370497939
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "excadrill",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "naughty",
+      "ability": "soundproof",
+      "moveset": [
+        "icepunch",
+        "focusblast",
+        "scratch",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

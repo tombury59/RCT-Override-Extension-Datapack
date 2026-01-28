@@ -1,0 +1,65 @@
+{
+  "name": "Blackbelt Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10717912230842401
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "bold",
+      "ability": "effectspore",
+      "moveset": [
+        "stunspore",
+        "megapunch",
+        "flamethrower",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "rash",
+      "ability": "keeneye",
+      "moveset": [
+        "doubleedge",
+        "bodyslam",
+        "agility",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "careful",
+      "ability": "overgrow",
+      "moveset": [
+        "megapunch",
+        "tailwind",
+        "dazzlinggleam",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Breeder Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13296509164232118
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "jolly",
+      "ability": "overgrow",
+      "moveset": [
+        "thundershock",
+        "closecombat",
+        "growth",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "calm",
+      "ability": "effectspore",
+      "moveset": [
+        "megapunch",
+        "icebeam",
+        "recover",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "rash",
+      "ability": "thickfat",
+      "moveset": [
+        "substitute",
+        "vinewhip",
+        "earthquake",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "gentle",
+      "ability": "soundproof",
+      "moveset": [
+        "crunch",
+        "stoneedge",
+        "focusblast",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "lax",
+      "ability": "compoundeyes",
+      "moveset": [
+        "willowisp",
+        "fireblast",
+        "tackle",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "hasty",
+      "ability": "soundproof",
+      "moveset": [
+        "takedown",
+        "nastyplot",
+        "icebeam",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

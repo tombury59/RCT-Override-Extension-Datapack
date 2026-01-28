@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Ranger Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10019988392570811
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "dragonrush",
+        "shadowclaw",
+        "watergun",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "careful",
+      "ability": "keeneye",
+      "moveset": [
+        "dragonrush",
+        "dazzlinggleam",
+        "toxic",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "careful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "hyperbeam",
+        "ironhead",
+        "recover",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "bashful",
+      "ability": "pressure",
+      "moveset": [
+        "earthquake",
+        "trickroom",
+        "blizzard",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "relaxed",
+      "ability": "syncronize",
+      "moveset": [
+        "scratch",
+        "thunder",
+        "willowisp",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "rash",
+      "ability": "voltabsorb",
+      "moveset": [
+        "gigaimpact",
+        "stunspore",
+        "wildcharge",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

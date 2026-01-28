@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18782378911857014
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "snorlax",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "impish",
+      "ability": "overgrow",
+      "moveset": [
+        "stealthrock",
+        "zenheadbutt",
+        "thrash",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "lonely",
+      "ability": "immunity",
+      "moveset": [
+        "firepunch",
+        "darkpulse",
+        "dragonrush",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "serious",
+      "ability": "syncronize",
+      "moveset": [
+        "gigaimpact",
+        "swordsdance",
+        "dazzlinggleam",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

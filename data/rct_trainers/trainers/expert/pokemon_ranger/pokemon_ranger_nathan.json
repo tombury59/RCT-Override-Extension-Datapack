@@ -1,0 +1,65 @@
+{
+  "name": "Pok\u00e9mon Ranger Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16267479644444766
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "naive",
+      "ability": "flashfire",
+      "moveset": [
+        "bodyslam",
+        "moonblast",
+        "tackle",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "mild",
+      "ability": "sturdy",
+      "moveset": [
+        "doubleedge",
+        "moonblast",
+        "tailwind",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "quiet",
+      "ability": "static",
+      "moveset": [
+        "watergun",
+        "tailwind",
+        "pound",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

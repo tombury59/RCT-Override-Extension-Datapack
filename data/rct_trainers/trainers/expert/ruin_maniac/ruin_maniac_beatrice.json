@@ -1,0 +1,80 @@
+{
+  "name": "Ruin Maniac Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15302000341529584
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "quiet",
+      "ability": "keeneye",
+      "moveset": [
+        "dragonrush",
+        "thunder",
+        "scratch",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "mild",
+      "ability": "levitate",
+      "moveset": [
+        "focusblast",
+        "wildcharge",
+        "trickroom",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "adamant",
+      "ability": "compoundeyes",
+      "moveset": [
+        "sleeppowder",
+        "bodyslam",
+        "psybeam",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "serious",
+      "ability": "waterabsorb",
+      "moveset": [
+        "calmmind",
+        "ironhead",
+        "psybeam",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

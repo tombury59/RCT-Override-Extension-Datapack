@@ -1,0 +1,50 @@
+{
+  "name": "Bird Keeper Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10158306716683574
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "gentle",
+      "ability": "intimidate",
+      "moveset": [
+        "solarbeam",
+        "scratch",
+        "substitute",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "mild",
+      "ability": "immunity",
+      "moveset": [
+        "thunder",
+        "thunderpunch",
+        "pound",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

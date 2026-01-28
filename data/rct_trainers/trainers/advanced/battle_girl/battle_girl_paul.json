@@ -1,0 +1,50 @@
+{
+  "name": "Battle Girl Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10218296268123606
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "vulpix",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "naive",
+      "ability": "thickfat",
+      "moveset": [
+        "thunderpunch",
+        "thunder",
+        "scratch",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "flashcannon",
+        "hyperbeam",
+        "trickroom",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16562341207929399
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "metagross",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "hardy",
+      "ability": "static",
+      "moveset": [
+        "ironhead",
+        "agility",
+        "airslash",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "quirky",
+      "ability": "compoundeyes",
+      "moveset": [
+        "hydropump",
+        "ironhead",
+        "detect",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "brave",
+      "ability": "compoundeyes",
+      "moveset": [
+        "flamethrower",
+        "closecombat",
+        "rest",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

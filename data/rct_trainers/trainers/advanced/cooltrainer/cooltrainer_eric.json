@@ -1,0 +1,80 @@
+{
+  "name": "Cooltrainer Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10253923888293881
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "suicune",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "relaxed",
+      "ability": "innerfocus",
+      "moveset": [
+        "hydropump",
+        "ironhead",
+        "stoneedge",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "sassy",
+      "ability": "effectspore",
+      "moveset": [
+        "outrage",
+        "thrash",
+        "detect",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "gentle",
+      "ability": "thickfat",
+      "moveset": [
+        "hydropump",
+        "trickroom",
+        "closecombat",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "lax",
+      "ability": "flashfire",
+      "moveset": [
+        "ember",
+        "nastyplot",
+        "icepunch",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

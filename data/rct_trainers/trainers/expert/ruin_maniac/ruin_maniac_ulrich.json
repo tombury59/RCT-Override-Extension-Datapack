@@ -1,0 +1,50 @@
+{
+  "name": "Ruin Maniac Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10959968556036517
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "reshiram",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "ironhead",
+        "hyperbeam",
+        "swordsdance",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "serious",
+      "ability": "effectspore",
+      "moveset": [
+        "earthquake",
+        "stoneedge",
+        "recover",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

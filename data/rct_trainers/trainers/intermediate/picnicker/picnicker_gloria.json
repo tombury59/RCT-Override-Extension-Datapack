@@ -1,0 +1,80 @@
+{
+  "name": "Picnicker Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19040241209600012
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "giratina",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "sassy",
+      "ability": "syncronize",
+      "moveset": [
+        "shadowball",
+        "quickattack",
+        "flareblitz",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "stunspore",
+        "thrash",
+        "tackle",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "calm",
+      "ability": "torrent",
+      "moveset": [
+        "thunder",
+        "shadowclaw",
+        "takedown",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "calm",
+      "ability": "syncronize",
+      "moveset": [
+        "closecombat",
+        "vinewhip",
+        "whirlwind",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

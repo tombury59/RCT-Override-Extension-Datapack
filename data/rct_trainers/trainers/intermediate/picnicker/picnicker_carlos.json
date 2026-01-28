@@ -1,0 +1,80 @@
+{
+  "name": "Picnicker Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17014084931672496
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hydreigon",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "hasty",
+      "ability": "thickfat",
+      "moveset": [
+        "nastyplot",
+        "thunderpunch",
+        "ironhead",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "lax",
+      "ability": "syncronize",
+      "moveset": [
+        "vinewhip",
+        "icepunch",
+        "ironhead",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "sassy",
+      "ability": "overgrow",
+      "moveset": [
+        "thrash",
+        "sleeppowder",
+        "megapunch",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "serious",
+      "ability": "thickfat",
+      "moveset": [
+        "hyperbeam",
+        "tailwind",
+        "takedown",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

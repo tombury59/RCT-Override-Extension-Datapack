@@ -1,0 +1,95 @@
+{
+  "name": "Ruin Maniac Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11998565309418967
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "rash",
+      "ability": "compoundeyes",
+      "moveset": [
+        "tackle",
+        "growth",
+        "fireblast",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "bashful",
+      "ability": "overgrow",
+      "moveset": [
+        "roar",
+        "airslash",
+        "crunch",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "lax",
+      "ability": "pressure",
+      "moveset": [
+        "agility",
+        "vinewhip",
+        "pound",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "jolly",
+      "ability": "immunity",
+      "moveset": [
+        "whirlwind",
+        "dragonpulse",
+        "firepunch",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "naive",
+      "ability": "keeneye",
+      "moveset": [
+        "rest",
+        "tackle",
+        "takedown",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

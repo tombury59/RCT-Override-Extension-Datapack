@@ -1,0 +1,95 @@
+{
+  "name": "Blackbelt Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19328980240033253
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zekrom",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "bold",
+      "ability": "soundproof",
+      "moveset": [
+        "stoneedge",
+        "ironhead",
+        "surf",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "gentle",
+      "ability": "waterabsorb",
+      "moveset": [
+        "pound",
+        "surf",
+        "ironhead",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "careful",
+      "ability": "flashfire",
+      "moveset": [
+        "zenheadbutt",
+        "hyperbeam",
+        "swordsdance",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "calm",
+      "ability": "immunity",
+      "moveset": [
+        "pound",
+        "whirlwind",
+        "psychic",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "timid",
+      "ability": "syncronize",
+      "moveset": [
+        "stealthrock",
+        "stoneedge",
+        "thunderpunch",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

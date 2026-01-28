@@ -1,0 +1,80 @@
+{
+  "name": "Gym Leader Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11928257161701525
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "gentle",
+      "ability": "compoundeyes",
+      "moveset": [
+        "hydropump",
+        "trickroom",
+        "shadowclaw",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "gentle",
+      "ability": "swarm",
+      "moveset": [
+        "tailwind",
+        "thunderpunch",
+        "bodyslam",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 84,
+      "nature": "bold",
+      "ability": "soundproof",
+      "moveset": [
+        "stealthrock",
+        "tackle",
+        "megapunch",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 81,
+      "nature": "quirky",
+      "ability": "levitate",
+      "moveset": [
+        "psychic",
+        "ironhead",
+        "closecombat",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

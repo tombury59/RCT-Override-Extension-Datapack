@@ -1,0 +1,65 @@
+{
+  "name": "Swimmer Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1323503416767006
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gardevoir",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "gentle",
+      "ability": "swarm",
+      "moveset": [
+        "dragonrush",
+        "swordsdance",
+        "fireblast",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "dazzlinggleam",
+        "megapunch",
+        "scratch",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "lonely",
+      "ability": "flashfire",
+      "moveset": [
+        "zenheadbutt",
+        "shadowclaw",
+        "detect",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

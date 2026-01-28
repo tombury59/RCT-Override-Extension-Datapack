@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17302498397375798
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "timid",
+      "ability": "effectspore",
+      "moveset": [
+        "scratch",
+        "solarbeam",
+        "agility",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "lax",
+      "ability": "innerfocus",
+      "moveset": [
+        "darkpulse",
+        "tackle",
+        "protect",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "impish",
+      "ability": "syncronize",
+      "moveset": [
+        "bodyslam",
+        "swordsdance",
+        "megapunch",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

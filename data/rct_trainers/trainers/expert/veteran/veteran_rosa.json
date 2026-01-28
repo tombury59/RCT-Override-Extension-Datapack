@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14723261188297732
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "hardy",
+      "ability": "pressure",
+      "moveset": [
+        "dragonrush",
+        "tailwind",
+        "psychic",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "adamant",
+      "ability": "voltabsorb",
+      "moveset": [
+        "flareblitz",
+        "quickattack",
+        "confusion",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "serious",
+      "ability": "waterabsorb",
+      "moveset": [
+        "tackle",
+        "closecombat",
+        "darkpulse",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "brave",
+      "ability": "thickfat",
+      "moveset": [
+        "pound",
+        "thunderpunch",
+        "whirlwind",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "bodyslam",
+        "whirlwind",
+        "megakick",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Dragon Tamer Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11776190971473098
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gardevoir",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "jolly",
+      "ability": "voltabsorb",
+      "moveset": [
+        "pound",
+        "thunder",
+        "hyperbeam",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "hardy",
+      "ability": "thickfat",
+      "moveset": [
+        "psybeam",
+        "icepunch",
+        "quickattack",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "calm",
+      "ability": "effectspore",
+      "moveset": [
+        "earthquake",
+        "focusblast",
+        "calmmind",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "hardy",
+      "ability": "rockhead",
+      "moveset": [
+        "shadowclaw",
+        "wildcharge",
+        "willowisp",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "thundershock",
+        "gigaimpact",
+        "whirlwind",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Gym Leader Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18428764030656206
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "registeel",
+      "gender": "FEMALE",
+      "level": 81,
+      "nature": "hardy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "roar",
+        "megapunch",
+        "blizzard",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 84,
+      "nature": "hardy",
+      "ability": "immunity",
+      "moveset": [
+        "growth",
+        "doubleedge",
+        "closecombat",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 81,
+      "nature": "lax",
+      "ability": "innerfocus",
+      "moveset": [
+        "nastyplot",
+        "zenheadbutt",
+        "thunder",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 83,
+      "nature": "lax",
+      "ability": "levitate",
+      "moveset": [
+        "stealthrock",
+        "psybeam",
+        "thunderpunch",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 82,
+      "nature": "jolly",
+      "ability": "voltabsorb",
+      "moveset": [
+        "wildcharge",
+        "stunspore",
+        "thunderbolt",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "impish",
+      "ability": "waterabsorb",
+      "moveset": [
+        "closecombat",
+        "earthquake",
+        "darkpulse",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

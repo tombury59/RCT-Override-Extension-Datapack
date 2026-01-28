@@ -1,0 +1,65 @@
+{
+  "name": "Swimmer Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14772040993541347
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "quiet",
+      "ability": "innerfocus",
+      "moveset": [
+        "ironhead",
+        "thrash",
+        "ember",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "adamant",
+      "ability": "swarm",
+      "moveset": [
+        "thunderwave",
+        "darkpulse",
+        "flareblitz",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "lonely",
+      "ability": "swarm",
+      "moveset": [
+        "earthquake",
+        "substitute",
+        "wildcharge",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

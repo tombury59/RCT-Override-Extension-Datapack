@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15430638159014548
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "timid",
+      "ability": "soundproof",
+      "moveset": [
+        "megakick",
+        "shadowball",
+        "doubleedge",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "lax",
+      "ability": "intimidate",
+      "moveset": [
+        "megakick",
+        "stealthrock",
+        "scratch",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "impish",
+      "ability": "voltabsorb",
+      "moveset": [
+        "confusion",
+        "icepunch",
+        "swordsdance",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

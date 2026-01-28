@@ -1,0 +1,35 @@
+{
+  "name": "Hiker Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.162068308354113
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "mild",
+      "ability": "keeneye",
+      "moveset": [
+        "megakick",
+        "nastyplot",
+        "quickattack",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

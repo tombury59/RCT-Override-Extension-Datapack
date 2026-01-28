@@ -1,0 +1,80 @@
+{
+  "name": "Champion Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16049285370541594
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "brave",
+      "ability": "compoundeyes",
+      "moveset": [
+        "surf",
+        "thrash",
+        "sleeppowder",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "calm",
+      "ability": "torrent",
+      "moveset": [
+        "trickroom",
+        "hyperbeam",
+        "scratch",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 94,
+      "nature": "sassy",
+      "ability": "pressure",
+      "moveset": [
+        "firepunch",
+        "toxic",
+        "crunch",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 99,
+      "nature": "bashful",
+      "ability": "overgrow",
+      "moveset": [
+        "stoneedge",
+        "focusblast",
+        "stunspore",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

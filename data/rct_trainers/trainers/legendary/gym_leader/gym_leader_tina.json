@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15706676816026927
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 81,
+      "nature": "docile",
+      "ability": "torrent",
+      "moveset": [
+        "sleeppowder",
+        "thunderbolt",
+        "gigaimpact",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "careful",
+      "ability": "levitate",
+      "moveset": [
+        "thunderpunch",
+        "earthquake",
+        "trickroom",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "mild",
+      "ability": "blaze",
+      "moveset": [
+        "swordsdance",
+        "icepunch",
+        "confusion",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "naive",
+      "ability": "flashfire",
+      "moveset": [
+        "growth",
+        "flareblitz",
+        "psybeam",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "naughty",
+      "ability": "soundproof",
+      "moveset": [
+        "thrash",
+        "sleeppowder",
+        "fireblast",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Pok\u00e9mon Breeder Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19093803042436824
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "oddish",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "quiet",
+      "ability": "waterabsorb",
+      "moveset": [
+        "outrage",
+        "icepunch",
+        "fireblast",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "rash",
+      "ability": "voltabsorb",
+      "moveset": [
+        "closecombat",
+        "ember",
+        "toxic",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "quiet",
+      "ability": "flashfire",
+      "moveset": [
+        "moonblast",
+        "hyperbeam",
+        "doubleedge",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "careful",
+      "ability": "swarm",
+      "moveset": [
+        "megakick",
+        "thundershock",
+        "flareblitz",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

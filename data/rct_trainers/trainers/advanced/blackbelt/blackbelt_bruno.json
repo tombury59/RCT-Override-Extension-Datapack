@@ -1,0 +1,80 @@
+{
+  "name": "Blackbelt Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19357597155287276
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "hyperbeam",
+        "focusblast",
+        "zenheadbutt",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "calm",
+      "ability": "blaze",
+      "moveset": [
+        "toxic",
+        "outrage",
+        "megakick",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "brave",
+      "ability": "torrent",
+      "moveset": [
+        "growth",
+        "confusion",
+        "zenheadbutt",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "lax",
+      "ability": "flashfire",
+      "moveset": [
+        "closecombat",
+        "dragonrush",
+        "detect",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

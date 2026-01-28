@@ -1,0 +1,50 @@
+{
+  "name": "Psychic Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11296490029292512
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "reshiram",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "crunch",
+        "thunderwave",
+        "outrage",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "lonely",
+      "ability": "effectspore",
+      "moveset": [
+        "stoneedge",
+        "dazzlinggleam",
+        "whirlwind",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14038388886341274
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "careful",
+      "ability": "thickfat",
+      "moveset": [
+        "flashcannon",
+        "stunspore",
+        "bodyslam",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "mild",
+      "ability": "keeneye",
+      "moveset": [
+        "nastyplot",
+        "megapunch",
+        "icebeam",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 61,
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "thunderpunch",
+        "airslash",
+        "whirlwind",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "brave",
+      "ability": "innerfocus",
+      "moveset": [
+        "psychic",
+        "gigaimpact",
+        "willowisp",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "thunderpunch",
+        "calmmind",
+        "hyperbeam",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

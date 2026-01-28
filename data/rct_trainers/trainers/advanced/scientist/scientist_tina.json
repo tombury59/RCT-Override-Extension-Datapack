@@ -1,0 +1,50 @@
+{
+  "name": "Scientist Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10630415314114611
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "relaxed",
+      "ability": "effectspore",
+      "moveset": [
+        "outrage",
+        "fireblast",
+        "zenheadbutt",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "naughty",
+      "ability": "pressure",
+      "moveset": [
+        "psychic",
+        "substitute",
+        "tackle",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

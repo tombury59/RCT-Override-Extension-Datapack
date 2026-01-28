@@ -1,0 +1,95 @@
+{
+  "name": "Champion Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10937066612552111
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "squirtle",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "hardy",
+      "ability": "rockhead",
+      "moveset": [
+        "rest",
+        "thunderpunch",
+        "airslash",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "impish",
+      "ability": "thickfat",
+      "moveset": [
+        "blizzard",
+        "bodyslam",
+        "earthquake",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "serious",
+      "ability": "swarm",
+      "moveset": [
+        "stealthrock",
+        "watergun",
+        "pound",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "bold",
+      "ability": "keeneye",
+      "moveset": [
+        "ironhead",
+        "zenheadbutt",
+        "flamethrower",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "bashful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "hyperbeam",
+        "firepunch",
+        "solarbeam",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

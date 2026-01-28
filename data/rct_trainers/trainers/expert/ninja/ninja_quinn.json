@@ -1,0 +1,110 @@
+{
+  "name": "Ninja Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13975497313170554
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "relaxed",
+      "ability": "thickfat",
+      "moveset": [
+        "ironhead",
+        "takedown",
+        "stunspore",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "hasty",
+      "ability": "flashfire",
+      "moveset": [
+        "zenheadbutt",
+        "agility",
+        "earthquake",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "thunderpunch",
+        "shadowball",
+        "hyperbeam",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "icepunch",
+        "substitute",
+        "airslash",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "quirky",
+      "ability": "immunity",
+      "moveset": [
+        "earthquake",
+        "tackle",
+        "psychic",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "careful",
+      "ability": "blaze",
+      "moveset": [
+        "substitute",
+        "focusblast",
+        "scratch",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

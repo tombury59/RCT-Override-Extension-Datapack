@@ -1,0 +1,35 @@
+{
+  "name": "Swimmer Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19832201780884004
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "gentle",
+      "ability": "blaze",
+      "moveset": [
+        "thunderbolt",
+        "trickroom",
+        "outrage",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

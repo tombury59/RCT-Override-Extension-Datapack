@@ -1,0 +1,95 @@
+{
+  "name": "Battle Girl Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18130802231272156
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "blastoise",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "lonely",
+      "ability": "swarm",
+      "moveset": [
+        "wildcharge",
+        "stunspore",
+        "focusblast",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "lonely",
+      "ability": "flashfire",
+      "moveset": [
+        "wildcharge",
+        "psybeam",
+        "swordsdance",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "toxic",
+        "zenheadbutt",
+        "takedown",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "quiet",
+      "ability": "waterabsorb",
+      "moveset": [
+        "megakick",
+        "icepunch",
+        "growth",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "hardy",
+      "ability": "pressure",
+      "moveset": [
+        "flashcannon",
+        "scratch",
+        "earthquake",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Champion Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1410327311982495
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "mild",
+      "ability": "immunity",
+      "moveset": [
+        "tackle",
+        "pound",
+        "icebeam",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "lax",
+      "ability": "immunity",
+      "moveset": [
+        "airslash",
+        "protect",
+        "wildcharge",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "serious",
+      "ability": "syncronize",
+      "moveset": [
+        "shadowclaw",
+        "takedown",
+        "tailwind",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "lax",
+      "ability": "swarm",
+      "moveset": [
+        "firepunch",
+        "fireblast",
+        "willowisp",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "relaxed",
+      "ability": "compoundeyes",
+      "moveset": [
+        "closecombat",
+        "airslash",
+        "thunderpunch",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

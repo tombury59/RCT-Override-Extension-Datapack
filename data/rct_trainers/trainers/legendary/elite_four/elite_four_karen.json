@@ -1,0 +1,95 @@
+{
+  "name": "Elite Four Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16192366363352123
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "naive",
+      "ability": "torrent",
+      "moveset": [
+        "airslash",
+        "flareblitz",
+        "megapunch",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "serious",
+      "ability": "waterabsorb",
+      "moveset": [
+        "energyball",
+        "toxic",
+        "crunch",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "sassy",
+      "ability": "soundproof",
+      "moveset": [
+        "takedown",
+        "surf",
+        "dragonrush",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "bold",
+      "ability": "flashfire",
+      "moveset": [
+        "calmmind",
+        "takedown",
+        "wildcharge",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "flamethrower",
+        "megapunch",
+        "trickroom",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

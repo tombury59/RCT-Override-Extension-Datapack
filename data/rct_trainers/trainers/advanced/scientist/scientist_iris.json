@@ -1,0 +1,65 @@
+{
+  "name": "Scientist Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15456424957130788
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "quickattack",
+        "darkpulse",
+        "crunch",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "quirky",
+      "ability": "compoundeyes",
+      "moveset": [
+        "closecombat",
+        "stealthrock",
+        "pound",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "gentle",
+      "ability": "sturdy",
+      "moveset": [
+        "quickattack",
+        "icebeam",
+        "agility",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

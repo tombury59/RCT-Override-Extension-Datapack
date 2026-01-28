@@ -1,0 +1,65 @@
+{
+  "name": "Scientist Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12264677598854945
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "scratch",
+        "hyperbeam",
+        "dragonpulse",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "hasty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thunderpunch",
+        "trickroom",
+        "psychic",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "bashful",
+      "ability": "compoundeyes",
+      "moveset": [
+        "recover",
+        "vinewhip",
+        "megapunch",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

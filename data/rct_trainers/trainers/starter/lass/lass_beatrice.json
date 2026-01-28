@@ -1,0 +1,65 @@
+{
+  "name": "Lass Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1163938585288008
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "bashful",
+      "ability": "effectspore",
+      "moveset": [
+        "dazzlinggleam",
+        "megakick",
+        "thunderpunch",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "hardy",
+      "ability": "swarm",
+      "moveset": [
+        "toxic",
+        "doubleedge",
+        "thunder",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "docile",
+      "ability": "keeneye",
+      "moveset": [
+        "stunspore",
+        "thunderpunch",
+        "ember",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

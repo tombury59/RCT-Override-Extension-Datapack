@@ -1,0 +1,35 @@
+{
+  "name": "Schoolboy Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1349421564103266
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 16,
+      "nature": "naughty",
+      "ability": "static",
+      "moveset": [
+        "watergun",
+        "roar",
+        "wildcharge",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

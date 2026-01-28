@@ -1,0 +1,80 @@
+{
+  "name": "Beauty Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12295813690435523
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "serious",
+      "ability": "torrent",
+      "moveset": [
+        "icepunch",
+        "hydropump",
+        "scratch",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "modest",
+      "ability": "pressure",
+      "moveset": [
+        "psybeam",
+        "tailwind",
+        "dragonrush",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "tailwind",
+        "dragonrush",
+        "zenheadbutt",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "lonely",
+      "ability": "soundproof",
+      "moveset": [
+        "solarbeam",
+        "megapunch",
+        "pound",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Bug Catcher Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1319572522744785
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "impish",
+      "ability": "compoundeyes",
+      "moveset": [
+        "pound",
+        "flashcannon",
+        "stealthrock",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 14,
+      "nature": "serious",
+      "ability": "torrent",
+      "moveset": [
+        "solarbeam",
+        "roar",
+        "wildcharge",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 14,
+      "nature": "serious",
+      "ability": "static",
+      "moveset": [
+        "tackle",
+        "roar",
+        "zenheadbutt",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

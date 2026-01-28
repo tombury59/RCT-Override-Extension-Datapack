@@ -1,0 +1,95 @@
+{
+  "name": "Hiker Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19556207462071867
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "lax",
+      "ability": "innerfocus",
+      "moveset": [
+        "firepunch",
+        "scratch",
+        "flamethrower",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "hasty",
+      "ability": "pressure",
+      "moveset": [
+        "blizzard",
+        "thrash",
+        "nastyplot",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "calm",
+      "ability": "compoundeyes",
+      "moveset": [
+        "recover",
+        "surf",
+        "firepunch",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "bold",
+      "ability": "syncronize",
+      "moveset": [
+        "gigaimpact",
+        "agility",
+        "ironhead",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "bold",
+      "ability": "effectspore",
+      "moveset": [
+        "ironhead",
+        "hyperbeam",
+        "roar",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

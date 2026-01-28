@@ -1,0 +1,65 @@
+{
+  "name": "Hiker Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10524374526135
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "rash",
+      "ability": "voltabsorb",
+      "moveset": [
+        "substitute",
+        "firepunch",
+        "thrash",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "pound",
+        "crunch",
+        "airslash",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "watergun",
+        "rest",
+        "gigaimpact",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

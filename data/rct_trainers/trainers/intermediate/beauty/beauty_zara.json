@@ -1,0 +1,65 @@
+{
+  "name": "Beauty Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14318816837446877
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "sassy",
+      "ability": "thickfat",
+      "moveset": [
+        "thundershock",
+        "shadowclaw",
+        "crunch",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "moveset": [
+        "tackle",
+        "outrage",
+        "stealthrock",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "naive",
+      "ability": "immunity",
+      "moveset": [
+        "ironhead",
+        "calmmind",
+        "dragonpulse",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

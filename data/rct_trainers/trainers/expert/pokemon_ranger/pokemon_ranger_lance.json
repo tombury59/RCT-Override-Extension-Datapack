@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Ranger Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11647534133764656
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "quirky",
+      "ability": "sturdy",
+      "moveset": [
+        "icebeam",
+        "thunderpunch",
+        "quickattack",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "relaxed",
+      "ability": "voltabsorb",
+      "moveset": [
+        "closecombat",
+        "gigaimpact",
+        "nastyplot",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "closecombat",
+        "psychic",
+        "shadowclaw",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "bold",
+      "ability": "torrent",
+      "moveset": [
+        "bodyslam",
+        "surf",
+        "recover",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "quirky",
+      "ability": "swarm",
+      "moveset": [
+        "darkpulse",
+        "thunderpunch",
+        "tailwind",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

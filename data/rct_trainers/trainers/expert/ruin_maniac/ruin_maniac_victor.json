@@ -1,0 +1,80 @@
+{
+  "name": "Ruin Maniac Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14794918139026184
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "hasty",
+      "ability": "immunity",
+      "moveset": [
+        "sleeppowder",
+        "hydropump",
+        "wildcharge",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "megapunch",
+        "icebeam",
+        "trickroom",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "relaxed",
+      "ability": "compoundeyes",
+      "moveset": [
+        "whirlwind",
+        "focusblast",
+        "wildcharge",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "lonely",
+      "ability": "torrent",
+      "moveset": [
+        "sleeppowder",
+        "vinewhip",
+        "doubleedge",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

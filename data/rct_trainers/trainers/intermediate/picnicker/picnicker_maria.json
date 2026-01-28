@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16672741354966686
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "dragonrush",
+        "stunspore",
+        "shadowball",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "bold",
+      "ability": "effectspore",
+      "moveset": [
+        "thunderbolt",
+        "thunderpunch",
+        "stoneedge",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "quiet",
+      "ability": "pressure",
+      "moveset": [
+        "substitute",
+        "bodyslam",
+        "gigaimpact",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

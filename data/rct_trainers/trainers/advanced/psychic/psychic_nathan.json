@@ -1,0 +1,80 @@
+{
+  "name": "Psychic Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10938240649581965
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "sassy",
+      "ability": "flashfire",
+      "moveset": [
+        "icepunch",
+        "pound",
+        "thundershock",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "tackle",
+        "surf",
+        "willowisp",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "relaxed",
+      "ability": "soundproof",
+      "moveset": [
+        "whirlwind",
+        "wildcharge",
+        "outrage",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "impish",
+      "ability": "overgrow",
+      "moveset": [
+        "flareblitz",
+        "closecombat",
+        "solarbeam",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18076662824348771
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "careful",
+      "ability": "thickfat",
+      "moveset": [
+        "earthquake",
+        "moonblast",
+        "substitute",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "adamant",
+      "ability": "torrent",
+      "moveset": [
+        "detect",
+        "fireblast",
+        "zenheadbutt",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "calm",
+      "ability": "rockhead",
+      "moveset": [
+        "ironhead",
+        "recover",
+        "dazzlinggleam",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

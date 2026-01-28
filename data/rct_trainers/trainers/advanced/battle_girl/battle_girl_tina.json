@@ -1,0 +1,80 @@
+{
+  "name": "Battle Girl Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1328582016793459
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "brave",
+      "ability": "intimidate",
+      "moveset": [
+        "doubleedge",
+        "thunderpunch",
+        "roar",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "naive",
+      "ability": "torrent",
+      "moveset": [
+        "recover",
+        "icepunch",
+        "crunch",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "gentle",
+      "ability": "soundproof",
+      "moveset": [
+        "hyperbeam",
+        "protect",
+        "thundershock",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "timid",
+      "ability": "pressure",
+      "moveset": [
+        "dazzlinggleam",
+        "trickroom",
+        "megapunch",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

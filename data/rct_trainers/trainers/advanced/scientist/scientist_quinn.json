@@ -1,0 +1,110 @@
+{
+  "name": "Scientist Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12004465063417233
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "dazzlinggleam",
+        "bodyslam",
+        "megapunch",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "gentle",
+      "ability": "immunity",
+      "moveset": [
+        "rest",
+        "thrash",
+        "watergun",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "mild",
+      "ability": "blaze",
+      "moveset": [
+        "thundershock",
+        "zenheadbutt",
+        "stealthrock",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "hardy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "toxic",
+        "stoneedge",
+        "earthquake",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": [
+        "thunderwave",
+        "thunderbolt",
+        "stoneedge",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "careful",
+      "ability": "compoundeyes",
+      "moveset": [
+        "bodyslam",
+        "shadowclaw",
+        "tailwind",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

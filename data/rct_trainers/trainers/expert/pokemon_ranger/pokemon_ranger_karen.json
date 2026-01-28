@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Ranger Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1631915596563964
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "closecombat",
+        "vinewhip",
+        "pound",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "brave",
+      "ability": "pressure",
+      "moveset": [
+        "detect",
+        "doubleedge",
+        "vinewhip",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "brave",
+      "ability": "intimidate",
+      "moveset": [
+        "thunder",
+        "recover",
+        "megakick",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "gentle",
+      "ability": "keeneye",
+      "moveset": [
+        "quickattack",
+        "psychic",
+        "sleeppowder",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "gentle",
+      "ability": "voltabsorb",
+      "moveset": [
+        "megapunch",
+        "ember",
+        "hyperbeam",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "sassy",
+      "ability": "flashfire",
+      "moveset": [
+        "vinewhip",
+        "nastyplot",
+        "wildcharge",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

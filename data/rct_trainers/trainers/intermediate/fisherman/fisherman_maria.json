@@ -1,0 +1,80 @@
+{
+  "name": "Fisherman Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1637843461498062
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "lax",
+      "ability": "voltabsorb",
+      "moveset": [
+        "hydropump",
+        "megapunch",
+        "detect",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "hasty",
+      "ability": "compoundeyes",
+      "moveset": [
+        "growth",
+        "doubleedge",
+        "vinewhip",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "lax",
+      "ability": "pressure",
+      "moveset": [
+        "detect",
+        "zenheadbutt",
+        "thunder",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "lonely",
+      "ability": "waterabsorb",
+      "moveset": [
+        "icepunch",
+        "thunderwave",
+        "psybeam",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

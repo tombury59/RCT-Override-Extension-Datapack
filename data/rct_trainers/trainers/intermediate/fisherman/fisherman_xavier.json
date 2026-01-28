@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14435993477228795
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "docile",
+      "ability": "innerfocus",
+      "moveset": [
+        "earthquake",
+        "bodyslam",
+        "thunderbolt",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "hyperbeam",
+        "firepunch",
+        "surf",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "serious",
+      "ability": "syncronize",
+      "moveset": [
+        "rest",
+        "psychic",
+        "megakick",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

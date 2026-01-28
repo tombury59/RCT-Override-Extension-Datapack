@@ -1,0 +1,50 @@
+{
+  "name": "Cooltrainer Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1496296486237434
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tyranitar",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "modest",
+      "ability": "pressure",
+      "moveset": [
+        "solarbeam",
+        "stealthrock",
+        "firepunch",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "lax",
+      "ability": "sturdy",
+      "moveset": [
+        "substitute",
+        "dragonrush",
+        "blizzard",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

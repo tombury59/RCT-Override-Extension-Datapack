@@ -1,0 +1,80 @@
+{
+  "name": "Bug Catcher Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11968781138326874
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "emboar",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "docile",
+      "ability": "keeneye",
+      "moveset": [
+        "thunderbolt",
+        "doubleedge",
+        "earthquake",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "whirlwind",
+        "pound",
+        "fireblast",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "sassy",
+      "ability": "blaze",
+      "moveset": [
+        "solarbeam",
+        "protect",
+        "hyperbeam",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "FEMALE",
+      "level": 9,
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "moonblast",
+        "ironhead",
+        "protect",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

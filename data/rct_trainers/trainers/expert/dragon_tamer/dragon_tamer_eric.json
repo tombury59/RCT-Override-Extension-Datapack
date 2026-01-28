@@ -1,0 +1,35 @@
+{
+  "name": "Dragon Tamer Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17888824150101115
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "samurott",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "lax",
+      "ability": "soundproof",
+      "moveset": [
+        "dragonpulse",
+        "crunch",
+        "megapunch",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

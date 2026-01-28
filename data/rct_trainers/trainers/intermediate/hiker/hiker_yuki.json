@@ -1,0 +1,65 @@
+{
+  "name": "Hiker Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13821057619080704
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "jolly",
+      "ability": "compoundeyes",
+      "moveset": [
+        "shadowclaw",
+        "trickroom",
+        "moonblast",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "mild",
+      "ability": "effectspore",
+      "moveset": [
+        "stealthrock",
+        "doubleedge",
+        "stoneedge",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "naive",
+      "ability": "syncronize",
+      "moveset": [
+        "calmmind",
+        "icebeam",
+        "hyperbeam",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

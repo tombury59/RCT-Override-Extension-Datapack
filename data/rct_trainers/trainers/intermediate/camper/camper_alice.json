@@ -1,0 +1,50 @@
+{
+  "name": "Camper Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1254237628708644
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "bold",
+      "ability": "syncronize",
+      "moveset": [
+        "surf",
+        "bodyslam",
+        "tackle",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "jolly",
+      "ability": "soundproof",
+      "moveset": [
+        "willowisp",
+        "doubleedge",
+        "psychic",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

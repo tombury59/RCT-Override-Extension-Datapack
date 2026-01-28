@@ -1,0 +1,50 @@
+{
+  "name": "Hiker Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12644325035855133
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "lax",
+      "ability": "voltabsorb",
+      "moveset": [
+        "quickattack",
+        "thundershock",
+        "megapunch",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "relaxed",
+      "ability": "waterabsorb",
+      "moveset": [
+        "dragonrush",
+        "hydropump",
+        "detect",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

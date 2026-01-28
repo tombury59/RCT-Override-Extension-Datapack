@@ -1,0 +1,80 @@
+{
+  "name": "Lass Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1862266729884582
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "bashful",
+      "ability": "effectspore",
+      "moveset": [
+        "pound",
+        "vinewhip",
+        "takedown",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "mild",
+      "ability": "levitate",
+      "moveset": [
+        "icepunch",
+        "megapunch",
+        "toxic",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "nastyplot",
+        "thunderbolt",
+        "outrage",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "thunder",
+        "firepunch",
+        "tailwind",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

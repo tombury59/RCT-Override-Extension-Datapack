@@ -1,0 +1,65 @@
+{
+  "name": "Bug Catcher Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10749806318907171
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 14,
+      "nature": "hasty",
+      "ability": "levitate",
+      "moveset": [
+        "thundershock",
+        "substitute",
+        "bodyslam",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "quiet",
+      "ability": "waterabsorb",
+      "moveset": [
+        "flamethrower",
+        "scratch",
+        "roar",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "jolly",
+      "ability": "thickfat",
+      "moveset": [
+        "wildcharge",
+        "hyperbeam",
+        "focusblast",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

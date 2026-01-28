@@ -1,0 +1,50 @@
+{
+  "name": "Hiker Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19331238822533414
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "hasty",
+      "ability": "syncronize",
+      "moveset": [
+        "recover",
+        "pound",
+        "focusblast",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "hardy",
+      "ability": "overgrow",
+      "moveset": [
+        "thunder",
+        "earthquake",
+        "ironhead",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

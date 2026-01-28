@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12761763511287907
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "sandslash",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "careful",
+      "ability": "soundproof",
+      "moveset": [
+        "thunder",
+        "quickattack",
+        "whirlwind",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "calm",
+      "ability": "sturdy",
+      "moveset": [
+        "shadowclaw",
+        "growth",
+        "bodyslam",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "naive",
+      "ability": "static",
+      "moveset": [
+        "pound",
+        "megakick",
+        "willowisp",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "impish",
+      "ability": "torrent",
+      "moveset": [
+        "growth",
+        "takedown",
+        "dragonpulse",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "voltabsorb",
+      "moveset": [
+        "trickroom",
+        "ironhead",
+        "crunch",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

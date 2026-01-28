@@ -1,0 +1,110 @@
+{
+  "name": "Lass Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12682998147981647
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "lonely",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thunderwave",
+        "confusion",
+        "hyperbeam",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "lonely",
+      "ability": "immunity",
+      "moveset": [
+        "vinewhip",
+        "roar",
+        "shadowclaw",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 6,
+      "nature": "gentle",
+      "ability": "overgrow",
+      "moveset": [
+        "substitute",
+        "wildcharge",
+        "flashcannon",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "calm",
+      "ability": "rockhead",
+      "moveset": [
+        "thrash",
+        "bodyslam",
+        "energyball",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "brave",
+      "ability": "overgrow",
+      "moveset": [
+        "bodyslam",
+        "dragonpulse",
+        "growth",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "careful",
+      "ability": "flashfire",
+      "moveset": [
+        "earthquake",
+        "rest",
+        "megakick",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Bird Keeper Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1826843137311837
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "docile",
+      "ability": "static",
+      "moveset": [
+        "earthquake",
+        "whirlwind",
+        "flareblitz",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "careful",
+      "ability": "waterabsorb",
+      "moveset": [
+        "hyperbeam",
+        "growth",
+        "flareblitz",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "careful",
+      "ability": "pressure",
+      "moveset": [
+        "airslash",
+        "willowisp",
+        "firepunch",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "pound",
+        "crunch",
+        "watergun",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "bold",
+      "ability": "torrent",
+      "moveset": [
+        "doubleedge",
+        "rest",
+        "blizzard",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "gentle",
+      "ability": "intimidate",
+      "moveset": [
+        "doubleedge",
+        "rest",
+        "pound",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

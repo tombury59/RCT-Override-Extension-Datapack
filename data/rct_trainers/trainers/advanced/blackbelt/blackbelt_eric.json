@@ -1,0 +1,65 @@
+{
+  "name": "Blackbelt Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15076001920260154
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "moonblast",
+        "trickroom",
+        "bodyslam",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "thunderbolt",
+        "rest",
+        "hyperbeam",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "naive",
+      "ability": "syncronize",
+      "moveset": [
+        "recover",
+        "megapunch",
+        "pound",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

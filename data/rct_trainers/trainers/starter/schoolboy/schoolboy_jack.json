@@ -1,0 +1,65 @@
+{
+  "name": "Schoolboy Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1841635067007156
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "gentle",
+      "ability": "overgrow",
+      "moveset": [
+        "firepunch",
+        "tailwind",
+        "dazzlinggleam",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "megapunch",
+        "recover",
+        "flashcannon",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "naive",
+      "ability": "intimidate",
+      "moveset": [
+        "rest",
+        "earthquake",
+        "dragonpulse",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

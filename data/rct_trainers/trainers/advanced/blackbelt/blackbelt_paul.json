@@ -1,0 +1,65 @@
+{
+  "name": "Blackbelt Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17045579785458206
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "bashful",
+      "ability": "flashfire",
+      "moveset": [
+        "stoneedge",
+        "psybeam",
+        "firepunch",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "adamant",
+      "ability": "innerfocus",
+      "moveset": [
+        "megakick",
+        "roar",
+        "firepunch",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "bold",
+      "ability": "waterabsorb",
+      "moveset": [
+        "wildcharge",
+        "bodyslam",
+        "vinewhip",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

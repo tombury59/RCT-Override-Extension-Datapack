@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14534392114516048
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "naughty",
+      "ability": "pressure",
+      "moveset": [
+        "dragonrush",
+        "darkpulse",
+        "willowisp",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "lonely",
+      "ability": "sturdy",
+      "moveset": [
+        "hydropump",
+        "stunspore",
+        "ironhead",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "quiet",
+      "ability": "compoundeyes",
+      "moveset": [
+        "earthquake",
+        "zenheadbutt",
+        "flashcannon",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

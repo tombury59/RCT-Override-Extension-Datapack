@@ -1,0 +1,110 @@
+{
+  "name": "Scientist Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17967258310390785
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "hasty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "growth",
+        "tackle",
+        "thrash",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "hardy",
+      "ability": "thickfat",
+      "moveset": [
+        "toxic",
+        "doubleedge",
+        "thunderpunch",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "gentle",
+      "ability": "immunity",
+      "moveset": [
+        "willowisp",
+        "outrage",
+        "stoneedge",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "modest",
+      "ability": "soundproof",
+      "moveset": [
+        "rest",
+        "pound",
+        "thundershock",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "careful",
+      "ability": "soundproof",
+      "moveset": [
+        "energyball",
+        "megakick",
+        "hyperbeam",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "adamant",
+      "ability": "waterabsorb",
+      "moveset": [
+        "pound",
+        "psychic",
+        "gigaimpact",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

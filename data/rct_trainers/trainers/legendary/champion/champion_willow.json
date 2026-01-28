@@ -1,0 +1,95 @@
+{
+  "name": "Champion Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12907237202642882
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "quirky",
+      "ability": "levitate",
+      "moveset": [
+        "toxic",
+        "focusblast",
+        "megakick",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "mild",
+      "ability": "waterabsorb",
+      "moveset": [
+        "firepunch",
+        "pound",
+        "agility",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "MALE",
+      "level": 97,
+      "nature": "hasty",
+      "ability": "blaze",
+      "moveset": [
+        "megapunch",
+        "stealthrock",
+        "focusblast",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "rash",
+      "ability": "thickfat",
+      "moveset": [
+        "tackle",
+        "moonblast",
+        "firepunch",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "wildcharge",
+        "ember",
+        "protect",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

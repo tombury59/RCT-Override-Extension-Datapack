@@ -1,0 +1,80 @@
+{
+  "name": "Schoolboy Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12979659880925182
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 18,
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "calmmind",
+        "megakick",
+        "outrage",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "MALE",
+      "level": 10,
+      "nature": "lax",
+      "ability": "innerfocus",
+      "moveset": [
+        "thrash",
+        "surf",
+        "rest",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "mild",
+      "ability": "intimidate",
+      "moveset": [
+        "stealthrock",
+        "blizzard",
+        "quickattack",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "naive",
+      "ability": "swarm",
+      "moveset": [
+        "willowisp",
+        "moonblast",
+        "megakick",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

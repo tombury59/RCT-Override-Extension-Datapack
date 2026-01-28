@@ -1,0 +1,110 @@
+{
+  "name": "Battle Girl Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11266600554263045
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "alakazam",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "sassy",
+      "ability": "flashfire",
+      "moveset": [
+        "icebeam",
+        "gigaimpact",
+        "doubleedge",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "hasty",
+      "ability": "keeneye",
+      "moveset": [
+        "recover",
+        "moonblast",
+        "ironhead",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "mild",
+      "ability": "overgrow",
+      "moveset": [
+        "megapunch",
+        "thundershock",
+        "takedown",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "rash",
+      "ability": "flashfire",
+      "moveset": [
+        "earthquake",
+        "agility",
+        "confusion",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "mild",
+      "ability": "waterabsorb",
+      "moveset": [
+        "zenheadbutt",
+        "thunder",
+        "dragonrush",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "modest",
+      "ability": "soundproof",
+      "moveset": [
+        "nastyplot",
+        "thunderpunch",
+        "shadowclaw",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

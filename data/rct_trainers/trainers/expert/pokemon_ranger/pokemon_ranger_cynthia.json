@@ -1,0 +1,80 @@
+{
+  "name": "Pok\u00e9mon Ranger Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19109681055648695
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "lonely",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "recover",
+        "dragonpulse",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "docile",
+      "ability": "rockhead",
+      "moveset": [
+        "earthquake",
+        "quickattack",
+        "blizzard",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "relaxed",
+      "ability": "thickfat",
+      "moveset": [
+        "ironhead",
+        "trickroom",
+        "thunder",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "adamant",
+      "ability": "keeneye",
+      "moveset": [
+        "stunspore",
+        "thrash",
+        "hydropump",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

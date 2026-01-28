@@ -1,0 +1,80 @@
+{
+  "name": "Dragon Tamer Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.181445771513077
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ivysaur",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "lonely",
+      "ability": "swarm",
+      "moveset": [
+        "flamethrower",
+        "tackle",
+        "detect",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "lonely",
+      "ability": "immunity",
+      "moveset": [
+        "gigaimpact",
+        "bodyslam",
+        "thunderbolt",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "mild",
+      "ability": "pressure",
+      "moveset": [
+        "airslash",
+        "trickroom",
+        "pound",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "naive",
+      "ability": "thickfat",
+      "moveset": [
+        "hyperbeam",
+        "fireblast",
+        "nastyplot",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

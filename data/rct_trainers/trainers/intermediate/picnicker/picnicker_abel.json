@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18938220222827243
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "rash",
+      "ability": "effectspore",
+      "moveset": [
+        "dragonrush",
+        "psychic",
+        "willowisp",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "relaxed",
+      "ability": "effectspore",
+      "moveset": [
+        "quickattack",
+        "shadowball",
+        "stealthrock",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "rash",
+      "ability": "compoundeyes",
+      "moveset": [
+        "flareblitz",
+        "agility",
+        "watergun",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

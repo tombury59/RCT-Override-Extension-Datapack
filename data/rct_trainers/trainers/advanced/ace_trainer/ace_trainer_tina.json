@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11054105838274994
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "brave",
+      "ability": "overgrow",
+      "moveset": [
+        "earthquake",
+        "tailwind",
+        "scratch",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "impish",
+      "ability": "waterabsorb",
+      "moveset": [
+        "tackle",
+        "sleeppowder",
+        "blizzard",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

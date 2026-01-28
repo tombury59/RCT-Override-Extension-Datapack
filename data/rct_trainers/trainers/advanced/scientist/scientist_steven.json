@@ -1,0 +1,80 @@
+{
+  "name": "Scientist Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10664423426126839
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "lonely",
+      "ability": "intimidate",
+      "moveset": [
+        "flamethrower",
+        "icepunch",
+        "stealthrock",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "rash",
+      "ability": "waterabsorb",
+      "moveset": [
+        "flamethrower",
+        "shadowclaw",
+        "protect",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "nastyplot",
+        "ironhead",
+        "takedown",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "careful",
+      "ability": "soundproof",
+      "moveset": [
+        "ember",
+        "thunderwave",
+        "takedown",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

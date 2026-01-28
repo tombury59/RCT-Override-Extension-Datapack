@@ -1,0 +1,65 @@
+{
+  "name": "Gym Leader Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10347773823310331
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 87,
+      "nature": "lax",
+      "ability": "blaze",
+      "moveset": [
+        "firepunch",
+        "dragonrush",
+        "dragonpulse",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "bold",
+      "ability": "soundproof",
+      "moveset": [
+        "calmmind",
+        "watergun",
+        "hyperbeam",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "lax",
+      "ability": "flashfire",
+      "moveset": [
+        "bodyslam",
+        "calmmind",
+        "surf",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

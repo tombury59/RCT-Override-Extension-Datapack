@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16150853953959002
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "volcarona",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "mild",
+      "ability": "rockhead",
+      "moveset": [
+        "ironhead",
+        "psybeam",
+        "swordsdance",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "sassy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "calmmind",
+        "flareblitz",
+        "icebeam",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "mild",
+      "ability": "blaze",
+      "moveset": [
+        "detect",
+        "earthquake",
+        "blizzard",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

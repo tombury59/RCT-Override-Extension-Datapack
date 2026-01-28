@@ -1,0 +1,35 @@
+{
+  "name": "Bird Keeper Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16536502966549427
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "lonely",
+      "ability": "effectspore",
+      "moveset": [
+        "closecombat",
+        "vinewhip",
+        "quickattack",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

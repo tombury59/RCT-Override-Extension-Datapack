@@ -1,0 +1,80 @@
+{
+  "name": "Scientist Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19515980019503198
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "mild",
+      "ability": "innerfocus",
+      "moveset": [
+        "doubleedge",
+        "megapunch",
+        "tailwind",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "sassy",
+      "ability": "immunity",
+      "moveset": [
+        "flashcannon",
+        "firepunch",
+        "stunspore",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "naive",
+      "ability": "innerfocus",
+      "moveset": [
+        "moonblast",
+        "closecombat",
+        "agility",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "naughty",
+      "ability": "immunity",
+      "moveset": [
+        "nastyplot",
+        "solarbeam",
+        "closecombat",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

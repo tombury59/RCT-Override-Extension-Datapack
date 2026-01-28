@@ -1,0 +1,35 @@
+{
+  "name": "Youngster Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13234027414202237
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "wartortle",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "substitute",
+        "dazzlinggleam",
+        "bodyslam",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

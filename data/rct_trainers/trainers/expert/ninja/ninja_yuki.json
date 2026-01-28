@@ -1,0 +1,80 @@
+{
+  "name": "Ninja Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12750354320720853
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "lax",
+      "ability": "static",
+      "moveset": [
+        "gigaimpact",
+        "ironhead",
+        "roar",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "docile",
+      "ability": "soundproof",
+      "moveset": [
+        "recover",
+        "doubleedge",
+        "thunderbolt",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "calm",
+      "ability": "immunity",
+      "moveset": [
+        "gigaimpact",
+        "flamethrower",
+        "crunch",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "naive",
+      "ability": "swarm",
+      "moveset": [
+        "gigaimpact",
+        "shadowball",
+        "calmmind",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

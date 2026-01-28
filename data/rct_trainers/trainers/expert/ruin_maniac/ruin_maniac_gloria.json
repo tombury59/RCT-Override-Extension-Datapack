@@ -1,0 +1,80 @@
+{
+  "name": "Ruin Maniac Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1154090902430182
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "modest",
+      "ability": "swarm",
+      "moveset": [
+        "willowisp",
+        "thunderpunch",
+        "flashcannon",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "thunderwave",
+        "psychic",
+        "pound",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "hardy",
+      "ability": "immunity",
+      "moveset": [
+        "closecombat",
+        "calmmind",
+        "vinewhip",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "quiet",
+      "ability": "keeneye",
+      "moveset": [
+        "thrash",
+        "bodyslam",
+        "agility",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

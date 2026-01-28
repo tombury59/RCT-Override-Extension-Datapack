@@ -1,0 +1,35 @@
+{
+  "name": "Champion Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13116546890826974
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 97,
+      "nature": "relaxed",
+      "ability": "soundproof",
+      "moveset": [
+        "stoneedge",
+        "thrash",
+        "hydropump",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Fisherman Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15140952857645373
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "naughty",
+      "ability": "swarm",
+      "moveset": [
+        "psychic",
+        "flareblitz",
+        "trickroom",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "naughty",
+      "ability": "blaze",
+      "moveset": [
+        "stoneedge",
+        "solarbeam",
+        "quickattack",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "hardy",
+      "ability": "blaze",
+      "moveset": [
+        "outrage",
+        "agility",
+        "flareblitz",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "adamant",
+      "ability": "blaze",
+      "moveset": [
+        "toxic",
+        "confusion",
+        "megakick",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

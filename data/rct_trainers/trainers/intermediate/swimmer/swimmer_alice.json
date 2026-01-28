@@ -1,0 +1,65 @@
+{
+  "name": "Swimmer Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.108467639625995
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "timid",
+      "ability": "rockhead",
+      "moveset": [
+        "flareblitz",
+        "focusblast",
+        "quickattack",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "lonely",
+      "ability": "immunity",
+      "moveset": [
+        "pound",
+        "stealthrock",
+        "doubleedge",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "lax",
+      "ability": "levitate",
+      "moveset": [
+        "agility",
+        "gigaimpact",
+        "dragonpulse",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

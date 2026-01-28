@@ -1,0 +1,50 @@
+{
+  "name": "Fisherman Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11109147405779979
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "palkia",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "bold",
+      "ability": "innerfocus",
+      "moveset": [
+        "megapunch",
+        "stealthrock",
+        "closecombat",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "bold",
+      "ability": "compoundeyes",
+      "moveset": [
+        "sleeppowder",
+        "shadowball",
+        "quickattack",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

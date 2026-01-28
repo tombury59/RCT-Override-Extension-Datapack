@@ -1,0 +1,50 @@
+{
+  "name": "Beauty Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19988606495384595
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "quirky",
+      "ability": "pressure",
+      "moveset": [
+        "toxic",
+        "thundershock",
+        "tackle",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "careful",
+      "ability": "torrent",
+      "moveset": [
+        "calmmind",
+        "focusblast",
+        "closecombat",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

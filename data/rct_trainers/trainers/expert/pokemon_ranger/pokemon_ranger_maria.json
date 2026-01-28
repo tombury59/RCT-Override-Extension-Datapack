@@ -1,0 +1,80 @@
+{
+  "name": "Pok\u00e9mon Ranger Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1493441984032158
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "naughty",
+      "ability": "blaze",
+      "moveset": [
+        "dragonrush",
+        "moonblast",
+        "firepunch",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "confusion",
+        "stoneedge",
+        "rest",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "hydropump",
+        "icepunch",
+        "closecombat",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blastoise",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "bold",
+      "ability": "voltabsorb",
+      "moveset": [
+        "tackle",
+        "gigaimpact",
+        "calmmind",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

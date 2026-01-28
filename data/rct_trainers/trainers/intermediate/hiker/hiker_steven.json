@@ -1,0 +1,65 @@
+{
+  "name": "Hiker Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16091572380047742
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hydreigon",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "scratch",
+        "takedown",
+        "airslash",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "gentle",
+      "ability": "thickfat",
+      "moveset": [
+        "detect",
+        "thunderpunch",
+        "scratch",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "modest",
+      "ability": "blaze",
+      "moveset": [
+        "stealthrock",
+        "scratch",
+        "vinewhip",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

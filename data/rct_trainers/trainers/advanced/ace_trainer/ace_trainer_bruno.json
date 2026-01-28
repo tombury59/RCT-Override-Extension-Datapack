@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12124443460123815
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "quirky",
+      "ability": "blaze",
+      "moveset": [
+        "solarbeam",
+        "calmmind",
+        "outrage",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "rash",
+      "ability": "flashfire",
+      "moveset": [
+        "icebeam",
+        "doubleedge",
+        "flareblitz",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "hardy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "willowisp",
+        "thunderpunch",
+        "flashcannon",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

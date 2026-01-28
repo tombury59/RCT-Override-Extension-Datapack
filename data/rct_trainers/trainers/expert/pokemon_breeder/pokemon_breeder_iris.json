@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18527616048777448
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "brave",
+      "ability": "levitate",
+      "moveset": [
+        "stoneedge",
+        "tailwind",
+        "confusion",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "serious",
+      "ability": "sturdy",
+      "moveset": [
+        "closecombat",
+        "detect",
+        "flashcannon",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "hardy",
+      "ability": "thickfat",
+      "moveset": [
+        "trickroom",
+        "fireblast",
+        "icepunch",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "lonely",
+      "ability": "keeneye",
+      "moveset": [
+        "quickattack",
+        "growth",
+        "thunderbolt",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "gentle",
+      "ability": "keeneye",
+      "moveset": [
+        "stealthrock",
+        "thunderbolt",
+        "stoneedge",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

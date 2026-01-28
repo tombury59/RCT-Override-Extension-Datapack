@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13832838131153335
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "hardy",
+      "ability": "rockhead",
+      "moveset": [
+        "bodyslam",
+        "toxic",
+        "hydropump",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "quiet",
+      "ability": "compoundeyes",
+      "moveset": [
+        "flareblitz",
+        "psychic",
+        "substitute",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "timid",
+      "ability": "pressure",
+      "moveset": [
+        "hydropump",
+        "crunch",
+        "closecombat",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "hasty",
+      "ability": "compoundeyes",
+      "moveset": [
+        "solarbeam",
+        "doubleedge",
+        "detect",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "quirky",
+      "ability": "thickfat",
+      "moveset": [
+        "crunch",
+        "moonblast",
+        "doubleedge",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

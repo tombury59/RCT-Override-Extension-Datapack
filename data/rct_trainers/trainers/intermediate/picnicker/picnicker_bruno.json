@@ -1,0 +1,95 @@
+{
+  "name": "Picnicker Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10422992131705108
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "modest",
+      "ability": "overgrow",
+      "moveset": [
+        "wildcharge",
+        "tailwind",
+        "crunch",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "naughty",
+      "ability": "overgrow",
+      "moveset": [
+        "thunderwave",
+        "psychic",
+        "flareblitz",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "icepunch",
+        "darkpulse",
+        "ironhead",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "quirky",
+      "ability": "rockhead",
+      "moveset": [
+        "rest",
+        "outrage",
+        "focusblast",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "bashful",
+      "ability": "immunity",
+      "moveset": [
+        "rest",
+        "vinewhip",
+        "bodyslam",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

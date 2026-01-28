@@ -1,0 +1,95 @@
+{
+  "name": "Elite Four Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17164087907326736
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "quirky",
+      "ability": "torrent",
+      "moveset": [
+        "icebeam",
+        "stoneedge",
+        "closecombat",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "sassy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "darkpulse",
+        "protect",
+        "scratch",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "bold",
+      "ability": "innerfocus",
+      "moveset": [
+        "substitute",
+        "stoneedge",
+        "psychic",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "mild",
+      "ability": "immunity",
+      "moveset": [
+        "bodyslam",
+        "thunderbolt",
+        "detect",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "jolly",
+      "ability": "compoundeyes",
+      "moveset": [
+        "blizzard",
+        "crunch",
+        "stealthrock",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

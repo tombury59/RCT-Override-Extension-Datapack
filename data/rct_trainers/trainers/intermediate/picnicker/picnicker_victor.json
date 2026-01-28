@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1393815003064185
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "rash",
+      "ability": "keeneye",
+      "moveset": [
+        "quickattack",
+        "toxic",
+        "flashcannon",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "serious",
+      "ability": "blaze",
+      "moveset": [
+        "confusion",
+        "agility",
+        "zenheadbutt",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "brave",
+      "ability": "thickfat",
+      "moveset": [
+        "doubleedge",
+        "focusblast",
+        "sleeppowder",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

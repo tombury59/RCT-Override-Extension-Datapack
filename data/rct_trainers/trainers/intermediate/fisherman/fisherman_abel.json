@@ -1,0 +1,50 @@
+{
+  "name": "Fisherman Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1103216320809028
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "hardy",
+      "ability": "flashfire",
+      "moveset": [
+        "recover",
+        "pound",
+        "crunch",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "dazzlinggleam",
+        "bodyslam",
+        "shadowclaw",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

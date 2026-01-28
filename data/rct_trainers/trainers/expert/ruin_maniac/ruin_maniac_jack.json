@@ -1,0 +1,95 @@
+{
+  "name": "Ruin Maniac Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17237579615045873
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "snorlax",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "bashful",
+      "ability": "pressure",
+      "moveset": [
+        "wildcharge",
+        "calmmind",
+        "stoneedge",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "pound",
+        "dragonrush",
+        "swordsdance",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "mild",
+      "ability": "sturdy",
+      "moveset": [
+        "solarbeam",
+        "flareblitz",
+        "megapunch",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "modest",
+      "ability": "effectspore",
+      "moveset": [
+        "moonblast",
+        "toxic",
+        "firepunch",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "docile",
+      "ability": "levitate",
+      "moveset": [
+        "energyball",
+        "doubleedge",
+        "nastyplot",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

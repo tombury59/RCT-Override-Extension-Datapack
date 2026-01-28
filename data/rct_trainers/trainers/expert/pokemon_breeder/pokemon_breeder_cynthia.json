@@ -1,0 +1,80 @@
+{
+  "name": "Pok\u00e9mon Breeder Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1792920406682848
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "serious",
+      "ability": "immunity",
+      "moveset": [
+        "dragonrush",
+        "stoneedge",
+        "airslash",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "willowisp",
+        "thunder",
+        "earthquake",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "willowisp",
+        "shadowclaw",
+        "dazzlinggleam",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "lonely",
+      "ability": "pressure",
+      "moveset": [
+        "scratch",
+        "substitute",
+        "flareblitz",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

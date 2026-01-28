@@ -1,0 +1,50 @@
+{
+  "name": "Beauty Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12248008330078572
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "sassy",
+      "ability": "blaze",
+      "moveset": [
+        "gigaimpact",
+        "ironhead",
+        "tailwind",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "bashful",
+      "ability": "overgrow",
+      "moveset": [
+        "thunder",
+        "thunderpunch",
+        "pound",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

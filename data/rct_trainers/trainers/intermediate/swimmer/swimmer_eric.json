@@ -1,0 +1,80 @@
+{
+  "name": "Swimmer Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18175201524987653
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "crunch",
+        "tailwind",
+        "thunderbolt",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "careful",
+      "ability": "levitate",
+      "moveset": [
+        "sleeppowder",
+        "shadowclaw",
+        "psybeam",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "hasty",
+      "ability": "soundproof",
+      "moveset": [
+        "bodyslam",
+        "takedown",
+        "watergun",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "serious",
+      "ability": "pressure",
+      "moveset": [
+        "wildcharge",
+        "detect",
+        "megakick",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

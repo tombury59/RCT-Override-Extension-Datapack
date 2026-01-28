@@ -1,0 +1,110 @@
+{
+  "name": "Bird Keeper Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1880701077292678
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "flareon",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "timid",
+      "ability": "soundproof",
+      "moveset": [
+        "doubleedge",
+        "zenheadbutt",
+        "willowisp",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "rash",
+      "ability": "soundproof",
+      "moveset": [
+        "megapunch",
+        "nastyplot",
+        "thunderbolt",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "brave",
+      "ability": "sturdy",
+      "moveset": [
+        "protect",
+        "thunderpunch",
+        "quickattack",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "quiet",
+      "ability": "effectspore",
+      "moveset": [
+        "energyball",
+        "recover",
+        "shadowclaw",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "lax",
+      "ability": "voltabsorb",
+      "moveset": [
+        "gigaimpact",
+        "calmmind",
+        "icepunch",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "rash",
+      "ability": "pressure",
+      "moveset": [
+        "thrash",
+        "takedown",
+        "psychic",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

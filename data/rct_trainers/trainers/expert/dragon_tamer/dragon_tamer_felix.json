@@ -1,0 +1,110 @@
+{
+  "name": "Dragon Tamer Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13962337056900884
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "adamant",
+      "ability": "soundproof",
+      "moveset": [
+        "airslash",
+        "crunch",
+        "zenheadbutt",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "bold",
+      "ability": "keeneye",
+      "moveset": [
+        "shadowball",
+        "wildcharge",
+        "megakick",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "lonely",
+      "ability": "torrent",
+      "moveset": [
+        "airslash",
+        "tailwind",
+        "megapunch",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "sassy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "firepunch",
+        "thrash",
+        "watergun",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "brave",
+      "ability": "voltabsorb",
+      "moveset": [
+        "nastyplot",
+        "firepunch",
+        "megakick",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 78,
+      "nature": "relaxed",
+      "ability": "blaze",
+      "moveset": [
+        "detect",
+        "thrash",
+        "psybeam",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

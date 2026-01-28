@@ -1,0 +1,35 @@
+{
+  "name": "Beauty Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18617570784866866
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "serious",
+      "ability": "effectspore",
+      "moveset": [
+        "hyperbeam",
+        "bodyslam",
+        "sleeppowder",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Scientist Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13172468827899633
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 39,
+      "nature": "bold",
+      "ability": "thickfat",
+      "moveset": [
+        "roar",
+        "watergun",
+        "firepunch",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 39,
+      "nature": "gentle",
+      "ability": "thickfat",
+      "moveset": [
+        "moonblast",
+        "closecombat",
+        "agility",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "careful",
+      "ability": "intimidate",
+      "moveset": [
+        "confusion",
+        "growth",
+        "dragonrush",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "rash",
+      "ability": "keeneye",
+      "moveset": [
+        "bodyslam",
+        "crunch",
+        "surf",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

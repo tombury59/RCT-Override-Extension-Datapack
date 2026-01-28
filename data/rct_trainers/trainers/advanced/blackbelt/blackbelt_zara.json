@@ -1,0 +1,65 @@
+{
+  "name": "Blackbelt Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12348614234667837
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "careful",
+      "ability": "syncronize",
+      "moveset": [
+        "bodyslam",
+        "wildcharge",
+        "stunspore",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "bashful",
+      "ability": "soundproof",
+      "moveset": [
+        "crunch",
+        "fireblast",
+        "substitute",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "lonely",
+      "ability": "syncronize",
+      "moveset": [
+        "psybeam",
+        "icepunch",
+        "rest",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

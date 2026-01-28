@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15603300774586343
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "arcanine",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "brave",
+      "ability": "voltabsorb",
+      "moveset": [
+        "growth",
+        "blizzard",
+        "megapunch",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "calm",
+      "ability": "keeneye",
+      "moveset": [
+        "outrage",
+        "flamethrower",
+        "stealthrock",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "calm",
+      "ability": "voltabsorb",
+      "moveset": [
+        "psybeam",
+        "recover",
+        "outrage",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

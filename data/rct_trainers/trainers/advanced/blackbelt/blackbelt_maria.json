@@ -1,0 +1,80 @@
+{
+  "name": "Blackbelt Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16130481531691224
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "adamant",
+      "ability": "blaze",
+      "moveset": [
+        "zenheadbutt",
+        "stealthrock",
+        "dragonpulse",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aggron",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "careful",
+      "ability": "thickfat",
+      "moveset": [
+        "zenheadbutt",
+        "airslash",
+        "swordsdance",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "psybeam",
+        "whirlwind",
+        "thrash",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "modest",
+      "ability": "thickfat",
+      "moveset": [
+        "outrage",
+        "dragonrush",
+        "solarbeam",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

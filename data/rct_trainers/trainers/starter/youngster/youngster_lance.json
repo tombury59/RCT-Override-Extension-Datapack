@@ -1,0 +1,65 @@
+{
+  "name": "Youngster Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1363628980708987
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "sassy",
+      "ability": "thickfat",
+      "moveset": [
+        "thrash",
+        "fireblast",
+        "detect",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 6,
+      "nature": "gentle",
+      "ability": "torrent",
+      "moveset": [
+        "dragonrush",
+        "roar",
+        "quickattack",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "lonely",
+      "ability": "overgrow",
+      "moveset": [
+        "megapunch",
+        "confusion",
+        "stoneedge",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

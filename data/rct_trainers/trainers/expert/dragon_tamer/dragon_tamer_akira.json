@@ -1,0 +1,110 @@
+{
+  "name": "Dragon Tamer Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16055950897837118
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aggron",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "sassy",
+      "ability": "blaze",
+      "moveset": [
+        "ironhead",
+        "agility",
+        "tackle",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "rash",
+      "ability": "innerfocus",
+      "moveset": [
+        "crunch",
+        "thunder",
+        "calmmind",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "watergun",
+        "bodyslam",
+        "substitute",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 78,
+      "nature": "gentle",
+      "ability": "pressure",
+      "moveset": [
+        "dragonpulse",
+        "substitute",
+        "scratch",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "hasty",
+      "ability": "keeneye",
+      "moveset": [
+        "substitute",
+        "bodyslam",
+        "crunch",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "adamant",
+      "ability": "soundproof",
+      "moveset": [
+        "hyperbeam",
+        "closecombat",
+        "airslash",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

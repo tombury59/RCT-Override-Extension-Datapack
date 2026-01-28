@@ -1,0 +1,80 @@
+{
+  "name": "Blackbelt Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1571658214309771
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "magneton",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "naughty",
+      "ability": "torrent",
+      "moveset": [
+        "trickroom",
+        "airslash",
+        "hyperbeam",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "lonely",
+      "ability": "levitate",
+      "moveset": [
+        "stoneedge",
+        "whirlwind",
+        "vinewhip",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "solarbeam",
+        "growth",
+        "megapunch",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "rest",
+        "scratch",
+        "wildcharge",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

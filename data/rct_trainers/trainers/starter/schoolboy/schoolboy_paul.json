@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1363995356579228
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "watergun",
+        "tailwind",
+        "gigaimpact",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "MALE",
+      "level": 13,
+      "nature": "lonely",
+      "ability": "intimidate",
+      "moveset": [
+        "stealthrock",
+        "wildcharge",
+        "hydropump",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

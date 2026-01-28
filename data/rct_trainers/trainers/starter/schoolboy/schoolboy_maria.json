@@ -1,0 +1,35 @@
+{
+  "name": "Schoolboy Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15565023325654243
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 16,
+      "nature": "quirky",
+      "ability": "waterabsorb",
+      "moveset": [
+        "stoneedge",
+        "closecombat",
+        "flamethrower",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

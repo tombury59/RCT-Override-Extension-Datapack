@@ -1,0 +1,50 @@
+{
+  "name": "Battle Girl Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13348988663148104
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "adamant",
+      "ability": "compoundeyes",
+      "moveset": [
+        "megapunch",
+        "whirlwind",
+        "vinewhip",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "lonely",
+      "ability": "compoundeyes",
+      "moveset": [
+        "closecombat",
+        "toxic",
+        "flareblitz",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

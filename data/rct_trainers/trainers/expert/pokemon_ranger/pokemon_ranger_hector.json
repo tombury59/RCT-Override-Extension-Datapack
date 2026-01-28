@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Ranger Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13505400301324394
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "hardy",
+      "ability": "rockhead",
+      "moveset": [
+        "calmmind",
+        "wildcharge",
+        "thundershock",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "lax",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderwave",
+        "megakick",
+        "scratch",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "rash",
+      "ability": "sturdy",
+      "moveset": [
+        "tailwind",
+        "thunder",
+        "megakick",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "rash",
+      "ability": "sturdy",
+      "moveset": [
+        "dragonrush",
+        "energyball",
+        "detect",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "lax",
+      "ability": "soundproof",
+      "moveset": [
+        "vinewhip",
+        "trickroom",
+        "thunderpunch",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

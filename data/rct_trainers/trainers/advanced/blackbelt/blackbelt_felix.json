@@ -1,0 +1,80 @@
+{
+  "name": "Blackbelt Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18400744394530952
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "bodyslam",
+        "earthquake",
+        "thunderbolt",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "hasty",
+      "ability": "swarm",
+      "moveset": [
+        "shadowclaw",
+        "flareblitz",
+        "detect",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "toxic",
+        "earthquake",
+        "hydropump",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "icebeam",
+        "icepunch",
+        "thrash",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

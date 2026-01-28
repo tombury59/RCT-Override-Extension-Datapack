@@ -1,0 +1,95 @@
+{
+  "name": "Dragon Tamer Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16077397870428495
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "vaporeon",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "timid",
+      "ability": "syncronize",
+      "moveset": [
+        "sleeppowder",
+        "shadowball",
+        "doubleedge",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "brave",
+      "ability": "syncronize",
+      "moveset": [
+        "moonblast",
+        "nastyplot",
+        "shadowclaw",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "quiet",
+      "ability": "swarm",
+      "moveset": [
+        "psybeam",
+        "flareblitz",
+        "earthquake",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "careful",
+      "ability": "thickfat",
+      "moveset": [
+        "megakick",
+        "protect",
+        "ember",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "adamant",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thunderbolt",
+        "detect",
+        "closecombat",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

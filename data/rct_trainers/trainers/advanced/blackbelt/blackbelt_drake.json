@@ -1,0 +1,95 @@
+{
+  "name": "Blackbelt Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14925049882323876
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "quiet",
+      "ability": "immunity",
+      "moveset": [
+        "megakick",
+        "substitute",
+        "tackle",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "bashful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "rest",
+        "tackle",
+        "solarbeam",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "serious",
+      "ability": "voltabsorb",
+      "moveset": [
+        "focusblast",
+        "scratch",
+        "shadowclaw",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "calm",
+      "ability": "effectspore",
+      "moveset": [
+        "gigaimpact",
+        "hyperbeam",
+        "thundershock",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "brave",
+      "ability": "swarm",
+      "moveset": [
+        "nastyplot",
+        "thunder",
+        "tackle",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

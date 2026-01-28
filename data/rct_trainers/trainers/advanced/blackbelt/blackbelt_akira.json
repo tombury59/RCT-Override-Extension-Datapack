@@ -1,0 +1,95 @@
+{
+  "name": "Blackbelt Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19569489898886627
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "hardy",
+      "ability": "flashfire",
+      "moveset": [
+        "gigaimpact",
+        "sleeppowder",
+        "wildcharge",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "naughty",
+      "ability": "thickfat",
+      "moveset": [
+        "megakick",
+        "thunder",
+        "closecombat",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "relaxed",
+      "ability": "overgrow",
+      "moveset": [
+        "earthquake",
+        "moonblast",
+        "whirlwind",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "naughty",
+      "ability": "sturdy",
+      "moveset": [
+        "takedown",
+        "whirlwind",
+        "wildcharge",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "energyball",
+        "megapunch",
+        "swordsdance",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

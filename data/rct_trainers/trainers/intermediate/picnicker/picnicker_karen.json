@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11027615787579553
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "growth",
+        "megakick",
+        "surf",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "naughty",
+      "ability": "overgrow",
+      "moveset": [
+        "agility",
+        "crunch",
+        "outrage",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "quiet",
+      "ability": "intimidate",
+      "moveset": [
+        "tailwind",
+        "ember",
+        "icepunch",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

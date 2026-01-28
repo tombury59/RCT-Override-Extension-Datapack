@@ -1,0 +1,65 @@
+{
+  "name": "Elite Four Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14913133205691684
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "vileplume",
+      "gender": "MALE",
+      "level": 94,
+      "nature": "naive",
+      "ability": "thickfat",
+      "moveset": [
+        "flamethrower",
+        "tackle",
+        "sleeppowder",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "hardy",
+      "ability": "static",
+      "moveset": [
+        "stoneedge",
+        "substitute",
+        "shadowclaw",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 87,
+      "nature": "adamant",
+      "ability": "torrent",
+      "moveset": [
+        "ember",
+        "pound",
+        "megapunch",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

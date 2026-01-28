@@ -1,0 +1,80 @@
+{
+  "name": "Swimmer Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17296644962740199
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "moonblast",
+        "thunderpunch",
+        "hyperbeam",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "modest",
+      "ability": "overgrow",
+      "moveset": [
+        "surf",
+        "earthquake",
+        "firepunch",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "docile",
+      "ability": "swarm",
+      "moveset": [
+        "hyperbeam",
+        "substitute",
+        "icepunch",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "lonely",
+      "ability": "syncronize",
+      "moveset": [
+        "flamethrower",
+        "wildcharge",
+        "substitute",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

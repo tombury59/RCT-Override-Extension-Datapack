@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14299397716338802
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 82,
+      "nature": "docile",
+      "ability": "soundproof",
+      "moveset": [
+        "doubleedge",
+        "quickattack",
+        "thunder",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "naughty",
+      "ability": "compoundeyes",
+      "moveset": [
+        "tackle",
+        "stoneedge",
+        "growth",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "modest",
+      "ability": "innerfocus",
+      "moveset": [
+        "protect",
+        "zenheadbutt",
+        "doubleedge",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "mild",
+      "ability": "compoundeyes",
+      "moveset": [
+        "wildcharge",
+        "nastyplot",
+        "shadowball",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "bold",
+      "ability": "soundproof",
+      "moveset": [
+        "firepunch",
+        "stealthrock",
+        "flashcannon",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

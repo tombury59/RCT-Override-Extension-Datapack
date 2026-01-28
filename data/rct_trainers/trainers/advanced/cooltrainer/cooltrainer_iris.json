@@ -1,0 +1,80 @@
+{
+  "name": "Cooltrainer Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10673432325913701
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "haunter",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "brave",
+      "ability": "waterabsorb",
+      "moveset": [
+        "shadowclaw",
+        "tailwind",
+        "thundershock",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "bashful",
+      "ability": "compoundeyes",
+      "moveset": [
+        "vinewhip",
+        "gigaimpact",
+        "pound",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "mild",
+      "ability": "keeneye",
+      "moveset": [
+        "quickattack",
+        "shadowball",
+        "growth",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "calm",
+      "ability": "overgrow",
+      "moveset": [
+        "thrash",
+        "outrage",
+        "watergun",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

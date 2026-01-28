@@ -1,0 +1,35 @@
+{
+  "name": "Camper Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18584917148568134
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "docile",
+      "ability": "soundproof",
+      "moveset": [
+        "whirlwind",
+        "thunderbolt",
+        "crunch",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

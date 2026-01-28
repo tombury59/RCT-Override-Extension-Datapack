@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12082594067724317
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ho_oh",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "naughty",
+      "ability": "syncronize",
+      "moveset": [
+        "detect",
+        "ironhead",
+        "flashcannon",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "naive",
+      "ability": "soundproof",
+      "moveset": [
+        "tailwind",
+        "quickattack",
+        "fireblast",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "hasty",
+      "ability": "blaze",
+      "moveset": [
+        "doubleedge",
+        "outrage",
+        "ember",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 92,
+      "nature": "relaxed",
+      "ability": "pressure",
+      "moveset": [
+        "stealthrock",
+        "thundershock",
+        "doubleedge",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "bashful",
+      "ability": "soundproof",
+      "moveset": [
+        "pound",
+        "dazzlinggleam",
+        "wildcharge",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "bold",
+      "ability": "compoundeyes",
+      "moveset": [
+        "gigaimpact",
+        "whirlwind",
+        "solarbeam",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

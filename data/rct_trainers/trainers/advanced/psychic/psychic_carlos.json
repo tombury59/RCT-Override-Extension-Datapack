@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13928797447747066
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "arcanine",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "adamant",
+      "ability": "effectspore",
+      "moveset": [
+        "willowisp",
+        "icepunch",
+        "ironhead",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "lonely",
+      "ability": "swarm",
+      "moveset": [
+        "focusblast",
+        "trickroom",
+        "wildcharge",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "calm",
+      "ability": "immunity",
+      "moveset": [
+        "outrage",
+        "confusion",
+        "ironhead",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

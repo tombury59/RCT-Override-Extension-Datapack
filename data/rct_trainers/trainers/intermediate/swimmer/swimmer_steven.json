@@ -1,0 +1,65 @@
+{
+  "name": "Swimmer Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11472482140076462
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "careful",
+      "ability": "innerfocus",
+      "moveset": [
+        "firepunch",
+        "dragonrush",
+        "thunderwave",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "rash",
+      "ability": "torrent",
+      "moveset": [
+        "whirlwind",
+        "ember",
+        "bodyslam",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "quiet",
+      "ability": "keeneye",
+      "moveset": [
+        "crunch",
+        "recover",
+        "ironhead",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

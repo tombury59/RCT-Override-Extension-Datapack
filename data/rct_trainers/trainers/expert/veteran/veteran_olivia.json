@@ -1,0 +1,50 @@
+{
+  "name": "Veteran Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11015017341992378
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "dragonpulse",
+        "firepunch",
+        "roar",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "hardy",
+      "ability": "swarm",
+      "moveset": [
+        "whirlwind",
+        "zenheadbutt",
+        "scratch",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Ruin Maniac Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17848914199782503
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "stoneedge",
+        "airslash",
+        "wildcharge",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "rash",
+      "ability": "overgrow",
+      "moveset": [
+        "pound",
+        "psybeam",
+        "stoneedge",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "bold",
+      "ability": "waterabsorb",
+      "moveset": [
+        "shadowclaw",
+        "solarbeam",
+        "outrage",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "bashful",
+      "ability": "keeneye",
+      "moveset": [
+        "energyball",
+        "gigaimpact",
+        "rest",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "serious",
+      "ability": "flashfire",
+      "moveset": [
+        "earthquake",
+        "megapunch",
+        "thunderwave",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Elite Four Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1444656010447568
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 87,
+      "nature": "modest",
+      "ability": "immunity",
+      "moveset": [
+        "shadowclaw",
+        "whirlwind",
+        "firepunch",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "gentle",
+      "ability": "rockhead",
+      "moveset": [
+        "gigaimpact",
+        "stealthrock",
+        "thrash",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "timid",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderpunch",
+        "detect",
+        "dragonpulse",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "naughty",
+      "ability": "overgrow",
+      "moveset": [
+        "vinewhip",
+        "thunderwave",
+        "firepunch",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "lonely",
+      "ability": "pressure",
+      "moveset": [
+        "rest",
+        "hydropump",
+        "shadowclaw",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

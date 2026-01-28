@@ -1,0 +1,110 @@
+{
+  "name": "Bird Keeper Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19338485468315691
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "modest",
+      "ability": "intimidate",
+      "moveset": [
+        "recover",
+        "confusion",
+        "crunch",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "naive",
+      "ability": "syncronize",
+      "moveset": [
+        "pound",
+        "energyball",
+        "icepunch",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "quiet",
+      "ability": "torrent",
+      "moveset": [
+        "agility",
+        "scratch",
+        "hyperbeam",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "hardy",
+      "ability": "flashfire",
+      "moveset": [
+        "blizzard",
+        "sleeppowder",
+        "wildcharge",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "lonely",
+      "ability": "effectspore",
+      "moveset": [
+        "thunderpunch",
+        "whirlwind",
+        "pound",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "bashful",
+      "ability": "intimidate",
+      "moveset": [
+        "takedown",
+        "surf",
+        "icepunch",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

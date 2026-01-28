@@ -1,0 +1,50 @@
+{
+  "name": "Bird Keeper Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19800736437390265
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "closecombat",
+        "blizzard",
+        "shadowclaw",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "lax",
+      "ability": "swarm",
+      "moveset": [
+        "wildcharge",
+        "shadowclaw",
+        "sleeppowder",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

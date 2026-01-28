@@ -1,0 +1,50 @@
+{
+  "name": "Beauty Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16563187763792098
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tyranitar",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "modest",
+      "ability": "pressure",
+      "moveset": [
+        "earthquake",
+        "thunderwave",
+        "outrage",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "quickattack",
+        "scratch",
+        "hydropump",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19255309337906626
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "zenheadbutt",
+        "swordsdance",
+        "airslash",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "careful",
+      "ability": "compoundeyes",
+      "moveset": [
+        "dragonrush",
+        "watergun",
+        "stealthrock",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "trickroom",
+        "ember",
+        "tackle",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

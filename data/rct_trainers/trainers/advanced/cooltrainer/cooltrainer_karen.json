@@ -1,0 +1,95 @@
+{
+  "name": "Cooltrainer Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17803411198931662
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "magneton",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "focusblast",
+        "gigaimpact",
+        "tailwind",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "naive",
+      "ability": "waterabsorb",
+      "moveset": [
+        "hyperbeam",
+        "wildcharge",
+        "airslash",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "jolly",
+      "ability": "immunity",
+      "moveset": [
+        "stoneedge",
+        "detect",
+        "firepunch",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "lax",
+      "ability": "flashfire",
+      "moveset": [
+        "agility",
+        "crunch",
+        "gigaimpact",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "sassy",
+      "ability": "blaze",
+      "moveset": [
+        "protect",
+        "bodyslam",
+        "pound",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

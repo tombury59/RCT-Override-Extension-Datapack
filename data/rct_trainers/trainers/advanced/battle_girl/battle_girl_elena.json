@@ -1,0 +1,65 @@
+{
+  "name": "Battle Girl Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10918447400998448
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "naughty",
+      "ability": "sturdy",
+      "moveset": [
+        "quickattack",
+        "psychic",
+        "toxic",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "mild",
+      "ability": "torrent",
+      "moveset": [
+        "stoneedge",
+        "icepunch",
+        "psybeam",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "hardy",
+      "ability": "swarm",
+      "moveset": [
+        "outrage",
+        "recover",
+        "closecombat",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

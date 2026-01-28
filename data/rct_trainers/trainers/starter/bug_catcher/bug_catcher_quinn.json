@@ -1,0 +1,65 @@
+{
+  "name": "Bug Catcher Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11090693816131869
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 9,
+      "nature": "timid",
+      "ability": "syncronize",
+      "moveset": [
+        "willowisp",
+        "dragonpulse",
+        "icepunch",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "docile",
+      "ability": "torrent",
+      "moveset": [
+        "pound",
+        "calmmind",
+        "shadowball",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "adamant",
+      "ability": "pressure",
+      "moveset": [
+        "calmmind",
+        "flareblitz",
+        "watergun",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

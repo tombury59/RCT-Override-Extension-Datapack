@@ -1,0 +1,110 @@
+{
+  "name": "Champion Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11279055785959412
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "squirtle",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "hardy",
+      "ability": "thickfat",
+      "moveset": [
+        "stunspore",
+        "solarbeam",
+        "zenheadbutt",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "quiet",
+      "ability": "torrent",
+      "moveset": [
+        "solarbeam",
+        "gigaimpact",
+        "detect",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "lonely",
+      "ability": "flashfire",
+      "moveset": [
+        "energyball",
+        "megakick",
+        "firepunch",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 96,
+      "nature": "mild",
+      "ability": "waterabsorb",
+      "moveset": [
+        "quickattack",
+        "megapunch",
+        "psychic",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "lonely",
+      "ability": "immunity",
+      "moveset": [
+        "ironhead",
+        "outrage",
+        "whirlwind",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 98,
+      "nature": "careful",
+      "ability": "levitate",
+      "moveset": [
+        "stoneedge",
+        "gigaimpact",
+        "swordsdance",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

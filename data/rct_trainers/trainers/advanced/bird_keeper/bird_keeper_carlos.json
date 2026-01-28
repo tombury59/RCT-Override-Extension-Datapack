@@ -1,0 +1,65 @@
+{
+  "name": "Bird Keeper Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18690034140697637
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "registeel",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "detect",
+        "scratch",
+        "thunder",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "rash",
+      "ability": "waterabsorb",
+      "moveset": [
+        "ember",
+        "closecombat",
+        "willowisp",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderwave",
+        "thunderpunch",
+        "blizzard",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

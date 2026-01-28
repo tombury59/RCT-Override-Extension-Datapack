@@ -1,0 +1,95 @@
+{
+  "name": "Picnicker Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1825202545371691
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "stunspore",
+        "solarbeam",
+        "flareblitz",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "bashful",
+      "ability": "intimidate",
+      "moveset": [
+        "flareblitz",
+        "sleeppowder",
+        "vinewhip",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "quirky",
+      "ability": "soundproof",
+      "moveset": [
+        "zenheadbutt",
+        "shadowball",
+        "willowisp",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "careful",
+      "ability": "immunity",
+      "moveset": [
+        "psybeam",
+        "stealthrock",
+        "thunderpunch",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "brave",
+      "ability": "soundproof",
+      "moveset": [
+        "detect",
+        "outrage",
+        "flareblitz",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

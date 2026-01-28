@@ -1,0 +1,80 @@
+{
+  "name": "Swimmer Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11749189557343588
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ho_oh",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "quirky",
+      "ability": "waterabsorb",
+      "moveset": [
+        "wildcharge",
+        "thrash",
+        "agility",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "jolly",
+      "ability": "overgrow",
+      "moveset": [
+        "dragonrush",
+        "sleeppowder",
+        "pound",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "hardy",
+      "ability": "static",
+      "moveset": [
+        "growth",
+        "earthquake",
+        "surf",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "hasty",
+      "ability": "blaze",
+      "moveset": [
+        "dazzlinggleam",
+        "willowisp",
+        "stoneedge",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

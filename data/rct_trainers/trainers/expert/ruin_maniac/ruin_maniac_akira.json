@@ -1,0 +1,95 @@
+{
+  "name": "Ruin Maniac Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17650410878944023
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "lax",
+      "ability": "levitate",
+      "moveset": [
+        "wildcharge",
+        "airslash",
+        "quickattack",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "brave",
+      "ability": "sturdy",
+      "moveset": [
+        "energyball",
+        "toxic",
+        "crunch",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "hasty",
+      "ability": "compoundeyes",
+      "moveset": [
+        "hyperbeam",
+        "willowisp",
+        "outrage",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "thrash",
+        "crunch",
+        "thunderwave",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "energyball",
+        "megakick",
+        "scratch",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

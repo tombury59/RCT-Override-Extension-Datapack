@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1971956783345362
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "meganium",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "trickroom",
+        "confusion",
+        "tackle",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "bold",
+      "ability": "waterabsorb",
+      "moveset": [
+        "willowisp",
+        "zenheadbutt",
+        "thunder",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Bird Keeper Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1250631588701437
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "alakazam",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "rash",
+      "ability": "keeneye",
+      "moveset": [
+        "closecombat",
+        "flamethrower",
+        "outrage",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "hydropump",
+        "roar",
+        "ironhead",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

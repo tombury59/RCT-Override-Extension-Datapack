@@ -1,0 +1,50 @@
+{
+  "name": "Swimmer Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16724073626511968
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "emboar",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "quirky",
+      "ability": "soundproof",
+      "moveset": [
+        "takedown",
+        "stunspore",
+        "ironhead",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "quirky",
+      "ability": "syncronize",
+      "moveset": [
+        "dragonrush",
+        "scratch",
+        "flamethrower",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

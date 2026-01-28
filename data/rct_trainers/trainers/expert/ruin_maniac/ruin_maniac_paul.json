@@ -1,0 +1,65 @@
+{
+  "name": "Ruin Maniac Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1231173098608569
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "gentle",
+      "ability": "soundproof",
+      "moveset": [
+        "dragonpulse",
+        "crunch",
+        "gigaimpact",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "naive",
+      "ability": "swarm",
+      "moveset": [
+        "substitute",
+        "surf",
+        "zenheadbutt",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "quirky",
+      "ability": "thickfat",
+      "moveset": [
+        "firepunch",
+        "bodyslam",
+        "icebeam",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

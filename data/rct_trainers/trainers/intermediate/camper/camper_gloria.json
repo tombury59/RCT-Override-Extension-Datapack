@@ -1,0 +1,65 @@
+{
+  "name": "Camper Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1260879240689216
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "modest",
+      "ability": "keeneye",
+      "moveset": [
+        "thrash",
+        "stealthrock",
+        "energyball",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "mild",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "quickattack",
+        "dazzlinggleam",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "mild",
+      "ability": "compoundeyes",
+      "moveset": [
+        "solarbeam",
+        "protect",
+        "tackle",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

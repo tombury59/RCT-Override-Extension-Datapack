@@ -1,0 +1,35 @@
+{
+  "name": "Bug Catcher Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11601610908146807
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 11,
+      "nature": "serious",
+      "ability": "sturdy",
+      "moveset": [
+        "trickroom",
+        "ironhead",
+        "closecombat",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

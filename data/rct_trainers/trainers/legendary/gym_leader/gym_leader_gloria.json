@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15778873437476304
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "moltres",
+      "gender": "FEMALE",
+      "level": 81,
+      "nature": "quirky",
+      "ability": "thickfat",
+      "moveset": [
+        "doubleedge",
+        "pound",
+        "willowisp",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 87,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "ironhead",
+        "blizzard",
+        "closecombat",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "docile",
+      "ability": "flashfire",
+      "moveset": [
+        "stunspore",
+        "doubleedge",
+        "blizzard",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "swordsdance",
+        "dragonrush",
+        "confusion",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "mild",
+      "ability": "static",
+      "moveset": [
+        "stealthrock",
+        "watergun",
+        "wildcharge",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

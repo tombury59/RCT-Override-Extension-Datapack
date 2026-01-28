@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Ranger Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10876893152735245
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "naughty",
+      "ability": "swarm",
+      "moveset": [
+        "focusblast",
+        "icepunch",
+        "flareblitz",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "naughty",
+      "ability": "effectspore",
+      "moveset": [
+        "wildcharge",
+        "shadowclaw",
+        "shadowball",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "brave",
+      "ability": "innerfocus",
+      "moveset": [
+        "whirlwind",
+        "vinewhip",
+        "wildcharge",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "serious",
+      "ability": "thickfat",
+      "moveset": [
+        "nastyplot",
+        "earthquake",
+        "shadowclaw",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "thunderbolt",
+        "substitute",
+        "megapunch",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

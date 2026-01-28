@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10538563082173577
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "brave",
+      "ability": "innerfocus",
+      "moveset": [
+        "firepunch",
+        "thundershock",
+        "sleeppowder",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "relaxed",
+      "ability": "innerfocus",
+      "moveset": [
+        "closecombat",
+        "thunderbolt",
+        "gigaimpact",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "adamant",
+      "ability": "innerfocus",
+      "moveset": [
+        "closecombat",
+        "substitute",
+        "megakick",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18131353163285108
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "moltres",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "dragonrush",
+        "moonblast",
+        "tackle",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 16,
+      "nature": "relaxed",
+      "ability": "immunity",
+      "moveset": [
+        "firepunch",
+        "confusion",
+        "gigaimpact",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

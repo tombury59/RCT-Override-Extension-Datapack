@@ -1,0 +1,95 @@
+{
+  "name": "Champion Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17097338154888317
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "poliwag",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "naughty",
+      "ability": "blaze",
+      "moveset": [
+        "calmmind",
+        "firepunch",
+        "dragonrush",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 99,
+      "nature": "gentle",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thunderwave",
+        "crunch",
+        "flareblitz",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "brave",
+      "ability": "swarm",
+      "moveset": [
+        "rest",
+        "pound",
+        "solarbeam",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "MALE",
+      "level": 96,
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "icepunch",
+        "dragonrush",
+        "darkpulse",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 94,
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "closecombat",
+        "stunspore",
+        "thunderbolt",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

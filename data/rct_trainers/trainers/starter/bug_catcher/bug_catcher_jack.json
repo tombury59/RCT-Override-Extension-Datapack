@@ -1,0 +1,50 @@
+{
+  "name": "Bug Catcher Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16810650308114453
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "serious",
+      "ability": "rockhead",
+      "moveset": [
+        "focusblast",
+        "outrage",
+        "roar",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "outrage",
+        "stunspore",
+        "darkpulse",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

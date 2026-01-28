@@ -1,0 +1,80 @@
+{
+  "name": "Ace Trainer Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12015095509678217
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "bodyslam",
+        "quickattack",
+        "darkpulse",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "lonely",
+      "ability": "voltabsorb",
+      "moveset": [
+        "thunderpunch",
+        "wildcharge",
+        "watergun",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "calm",
+      "ability": "torrent",
+      "moveset": [
+        "firepunch",
+        "ember",
+        "protect",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "relaxed",
+      "ability": "pressure",
+      "moveset": [
+        "tackle",
+        "stealthrock",
+        "icebeam",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Ruin Maniac Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13136114775922964
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "brave",
+      "ability": "effectspore",
+      "moveset": [
+        "calmmind",
+        "hydropump",
+        "pound",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "calm",
+      "ability": "soundproof",
+      "moveset": [
+        "stoneedge",
+        "agility",
+        "flashcannon",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "brave",
+      "ability": "flashfire",
+      "moveset": [
+        "thunderpunch",
+        "solarbeam",
+        "scratch",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "docile",
+      "ability": "waterabsorb",
+      "moveset": [
+        "earthquake",
+        "flamethrower",
+        "takedown",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "impish",
+      "ability": "soundproof",
+      "moveset": [
+        "zenheadbutt",
+        "quickattack",
+        "agility",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

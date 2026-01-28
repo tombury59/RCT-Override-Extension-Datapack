@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11164338552977723
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "bulbasaur",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "docile",
+      "ability": "waterabsorb",
+      "moveset": [
+        "watergun",
+        "outrage",
+        "icepunch",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "quirky",
+      "ability": "torrent",
+      "moveset": [
+        "dragonrush",
+        "tailwind",
+        "confusion",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "growth",
+        "thunderbolt",
+        "flareblitz",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

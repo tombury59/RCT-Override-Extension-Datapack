@@ -1,0 +1,65 @@
+{
+  "name": "Scientist Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12091865007280662
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "relaxed",
+      "ability": "blaze",
+      "moveset": [
+        "ember",
+        "rest",
+        "bodyslam",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "rash",
+      "ability": "waterabsorb",
+      "moveset": [
+        "rest",
+        "tackle",
+        "takedown",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "moveset": [
+        "shadowball",
+        "agility",
+        "scratch",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

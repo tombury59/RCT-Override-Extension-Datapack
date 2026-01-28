@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1909442303887592
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "willowisp",
+        "closecombat",
+        "bodyslam",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "mild",
+      "ability": "voltabsorb",
+      "moveset": [
+        "megapunch",
+        "trickroom",
+        "flareblitz",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "dragonpulse",
+        "shadowclaw",
+        "calmmind",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "serious",
+      "ability": "intimidate",
+      "moveset": [
+        "substitute",
+        "takedown",
+        "energyball",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 78,
+      "nature": "naughty",
+      "ability": "effectspore",
+      "moveset": [
+        "protect",
+        "zenheadbutt",
+        "flashcannon",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

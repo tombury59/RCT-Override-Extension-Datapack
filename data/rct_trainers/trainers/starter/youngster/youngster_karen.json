@@ -1,0 +1,80 @@
+{
+  "name": "Youngster Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19871822810496773
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "mild",
+      "ability": "waterabsorb",
+      "moveset": [
+        "icepunch",
+        "roar",
+        "pound",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "mild",
+      "ability": "blaze",
+      "moveset": [
+        "hyperbeam",
+        "megakick",
+        "thunder",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "naive",
+      "ability": "immunity",
+      "moveset": [
+        "scratch",
+        "ember",
+        "swordsdance",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "calm",
+      "ability": "swarm",
+      "moveset": [
+        "energyball",
+        "swordsdance",
+        "icepunch",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

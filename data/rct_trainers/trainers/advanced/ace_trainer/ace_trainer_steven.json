@@ -1,0 +1,110 @@
+{
+  "name": "Ace Trainer Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1634404254954835
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "naughty",
+      "ability": "thickfat",
+      "moveset": [
+        "focusblast",
+        "toxic",
+        "closecombat",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "sassy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "gigaimpact",
+        "megakick",
+        "agility",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "naughty",
+      "ability": "effectspore",
+      "moveset": [
+        "megapunch",
+        "thunderpunch",
+        "trickroom",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "blizzard",
+        "growth",
+        "wildcharge",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "hasty",
+      "ability": "intimidate",
+      "moveset": [
+        "icepunch",
+        "airslash",
+        "stunspore",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "relaxed",
+      "ability": "compoundeyes",
+      "moveset": [
+        "megakick",
+        "vinewhip",
+        "willowisp",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

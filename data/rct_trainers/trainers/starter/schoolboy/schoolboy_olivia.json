@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17428295930725107
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 13,
+      "nature": "gentle",
+      "ability": "intimidate",
+      "moveset": [
+        "earthquake",
+        "focusblast",
+        "thrash",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "naughty",
+      "ability": "syncronize",
+      "moveset": [
+        "megapunch",
+        "zenheadbutt",
+        "rest",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

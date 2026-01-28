@@ -1,0 +1,35 @@
+{
+  "name": "Picnicker Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17985495906369306
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "squirtle",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "jolly",
+      "ability": "waterabsorb",
+      "moveset": [
+        "whirlwind",
+        "shadowclaw",
+        "crunch",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

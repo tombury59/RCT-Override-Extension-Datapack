@@ -1,0 +1,80 @@
+{
+  "name": "Ace Trainer Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16853953926228854
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "modest",
+      "ability": "thickfat",
+      "moveset": [
+        "airslash",
+        "dragonrush",
+        "ironhead",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "docile",
+      "ability": "swarm",
+      "moveset": [
+        "crunch",
+        "darkpulse",
+        "thunderwave",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "quirky",
+      "ability": "torrent",
+      "moveset": [
+        "doubleedge",
+        "energyball",
+        "willowisp",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "mild",
+      "ability": "keeneye",
+      "moveset": [
+        "confusion",
+        "crunch",
+        "firepunch",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

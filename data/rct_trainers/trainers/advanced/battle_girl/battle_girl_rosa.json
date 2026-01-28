@@ -1,0 +1,80 @@
+{
+  "name": "Battle Girl Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11233866369277523
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "hasty",
+      "ability": "immunity",
+      "moveset": [
+        "scratch",
+        "psybeam",
+        "trickroom",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "quirky",
+      "ability": "torrent",
+      "moveset": [
+        "icepunch",
+        "nastyplot",
+        "takedown",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "mild",
+      "ability": "immunity",
+      "moveset": [
+        "solarbeam",
+        "pound",
+        "takedown",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "takedown",
+        "stealthrock",
+        "dragonpulse",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

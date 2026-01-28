@@ -1,0 +1,50 @@
+{
+  "name": "Hiker Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15337664201329881
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "bold",
+      "ability": "sturdy",
+      "moveset": [
+        "shadowball",
+        "shadowclaw",
+        "wildcharge",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "mild",
+      "ability": "syncronize",
+      "moveset": [
+        "moonblast",
+        "stoneedge",
+        "roar",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

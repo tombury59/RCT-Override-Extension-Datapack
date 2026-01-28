@@ -1,0 +1,65 @@
+{
+  "name": "Pok\u00e9mon Ranger Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15703963575984684
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "focusblast",
+        "calmmind",
+        "wildcharge",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "naughty",
+      "ability": "thickfat",
+      "moveset": [
+        "zenheadbutt",
+        "tailwind",
+        "dazzlinggleam",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "rash",
+      "ability": "swarm",
+      "moveset": [
+        "roar",
+        "crunch",
+        "dragonrush",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

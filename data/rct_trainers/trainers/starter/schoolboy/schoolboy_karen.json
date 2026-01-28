@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11978610743729903
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "rash",
+      "ability": "pressure",
+      "moveset": [
+        "tailwind",
+        "pound",
+        "moonblast",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "adamant",
+      "ability": "syncronize",
+      "moveset": [
+        "nastyplot",
+        "earthquake",
+        "doubleedge",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

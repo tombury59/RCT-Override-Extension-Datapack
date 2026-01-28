@@ -1,0 +1,65 @@
+{
+  "name": "Pok\u00e9mon Breeder Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1517218179580985
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "hardy",
+      "ability": "keeneye",
+      "moveset": [
+        "scratch",
+        "quickattack",
+        "stunspore",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "lax",
+      "ability": "rockhead",
+      "moveset": [
+        "flareblitz",
+        "vinewhip",
+        "ironhead",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "dragonrush",
+        "roar",
+        "bodyslam",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

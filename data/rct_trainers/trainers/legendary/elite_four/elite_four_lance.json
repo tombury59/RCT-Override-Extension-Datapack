@@ -1,0 +1,95 @@
+{
+  "name": "Elite Four Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14187218154140524
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "magneton",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "quirky",
+      "ability": "pressure",
+      "moveset": [
+        "earthquake",
+        "thrash",
+        "flamethrower",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 91,
+      "nature": "naughty",
+      "ability": "keeneye",
+      "moveset": [
+        "megapunch",
+        "willowisp",
+        "fireblast",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "bashful",
+      "ability": "waterabsorb",
+      "moveset": [
+        "hyperbeam",
+        "psybeam",
+        "shadowclaw",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "pound",
+        "focusblast",
+        "agility",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "calm",
+      "ability": "swarm",
+      "moveset": [
+        "earthquake",
+        "nastyplot",
+        "dazzlinggleam",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

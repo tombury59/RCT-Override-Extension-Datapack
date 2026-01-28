@@ -1,0 +1,65 @@
+{
+  "name": "Blackbelt Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1404575856550422
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "adamant",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thrash",
+        "thundershock",
+        "stealthrock",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "bashful",
+      "ability": "static",
+      "moveset": [
+        "confusion",
+        "willowisp",
+        "closecombat",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "bold",
+      "ability": "keeneye",
+      "moveset": [
+        "detect",
+        "solarbeam",
+        "tackle",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

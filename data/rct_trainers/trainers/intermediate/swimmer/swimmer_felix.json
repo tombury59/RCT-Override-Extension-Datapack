@@ -1,0 +1,65 @@
+{
+  "name": "Swimmer Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18657029296593605
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "quirky",
+      "ability": "waterabsorb",
+      "moveset": [
+        "willowisp",
+        "megakick",
+        "outrage",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "careful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "flareblitz",
+        "stoneedge",
+        "tailwind",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "naive",
+      "ability": "pressure",
+      "moveset": [
+        "psybeam",
+        "sleeppowder",
+        "bodyslam",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

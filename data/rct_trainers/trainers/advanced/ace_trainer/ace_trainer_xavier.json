@@ -1,0 +1,80 @@
+{
+  "name": "Ace Trainer Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15950833032964568
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "gigaimpact",
+        "willowisp",
+        "airslash",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "relaxed",
+      "ability": "blaze",
+      "moveset": [
+        "surf",
+        "megapunch",
+        "stoneedge",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "sassy",
+      "ability": "thickfat",
+      "moveset": [
+        "crunch",
+        "dragonpulse",
+        "nastyplot",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "modest",
+      "ability": "innerfocus",
+      "moveset": [
+        "thrash",
+        "trickroom",
+        "psybeam",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

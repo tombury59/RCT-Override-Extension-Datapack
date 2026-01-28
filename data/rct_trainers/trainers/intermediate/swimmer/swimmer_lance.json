@@ -1,0 +1,80 @@
+{
+  "name": "Swimmer Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10709673340277942
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "adamant",
+      "ability": "torrent",
+      "moveset": [
+        "thundershock",
+        "nastyplot",
+        "ironhead",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "brave",
+      "ability": "waterabsorb",
+      "moveset": [
+        "recover",
+        "dragonrush",
+        "megapunch",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "fireblast",
+        "flareblitz",
+        "firepunch",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "jolly",
+      "ability": "soundproof",
+      "moveset": [
+        "stoneedge",
+        "trickroom",
+        "thrash",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

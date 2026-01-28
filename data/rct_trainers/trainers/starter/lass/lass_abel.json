@@ -1,0 +1,50 @@
+{
+  "name": "Lass Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18872658105348097
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "wartortle",
+      "gender": "MALE",
+      "level": 10,
+      "nature": "quirky",
+      "ability": "blaze",
+      "moveset": [
+        "stoneedge",
+        "detect",
+        "crunch",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 10,
+      "nature": "quirky",
+      "ability": "immunity",
+      "moveset": [
+        "flamethrower",
+        "nastyplot",
+        "firepunch",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

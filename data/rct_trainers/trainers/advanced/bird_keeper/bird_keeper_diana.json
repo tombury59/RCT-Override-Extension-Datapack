@@ -1,0 +1,95 @@
+{
+  "name": "Bird Keeper Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15758834386693554
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "bashful",
+      "ability": "keeneye",
+      "moveset": [
+        "thunderpunch",
+        "whirlwind",
+        "shadowclaw",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "brave",
+      "ability": "swarm",
+      "moveset": [
+        "gigaimpact",
+        "nastyplot",
+        "energyball",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "lax",
+      "ability": "immunity",
+      "moveset": [
+        "rest",
+        "wildcharge",
+        "psybeam",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "relaxed",
+      "ability": "static",
+      "moveset": [
+        "bodyslam",
+        "ironhead",
+        "psychic",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "bold",
+      "ability": "sturdy",
+      "moveset": [
+        "agility",
+        "megakick",
+        "scratch",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

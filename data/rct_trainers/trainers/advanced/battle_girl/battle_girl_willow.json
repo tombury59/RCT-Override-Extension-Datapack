@@ -1,0 +1,80 @@
+{
+  "name": "Battle Girl Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1645985977785964
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "firepunch",
+        "icepunch",
+        "stunspore",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "naive",
+      "ability": "intimidate",
+      "moveset": [
+        "focusblast",
+        "flareblitz",
+        "dragonrush",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "bashful",
+      "ability": "effectspore",
+      "moveset": [
+        "takedown",
+        "tailwind",
+        "scratch",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "pound",
+        "growth",
+        "focusblast",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18027655046722177
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "bold",
+      "ability": "innerfocus",
+      "moveset": [
+        "crunch",
+        "recover",
+        "thunder",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "adamant",
+      "ability": "blaze",
+      "moveset": [
+        "thunderpunch",
+        "flashcannon",
+        "scratch",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "brave",
+      "ability": "waterabsorb",
+      "moveset": [
+        "closecombat",
+        "willowisp",
+        "gigaimpact",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "calm",
+      "ability": "swarm",
+      "moveset": [
+        "energyball",
+        "hyperbeam",
+        "stunspore",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "careful",
+      "ability": "rockhead",
+      "moveset": [
+        "flareblitz",
+        "zenheadbutt",
+        "stunspore",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

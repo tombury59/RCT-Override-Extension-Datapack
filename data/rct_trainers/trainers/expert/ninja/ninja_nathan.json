@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16461097472092773
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hitmonlee",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "hardy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "megapunch",
+        "quickattack",
+        "whirlwind",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "lonely",
+      "ability": "compoundeyes",
+      "moveset": [
+        "hydropump",
+        "closecombat",
+        "substitute",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "relaxed",
+      "ability": "soundproof",
+      "moveset": [
+        "moonblast",
+        "stunspore",
+        "closecombat",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "timid",
+      "ability": "thickfat",
+      "moveset": [
+        "earthquake",
+        "zenheadbutt",
+        "hydropump",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "relaxed",
+      "ability": "overgrow",
+      "moveset": [
+        "energyball",
+        "agility",
+        "wildcharge",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

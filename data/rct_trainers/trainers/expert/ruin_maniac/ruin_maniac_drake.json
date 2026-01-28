@@ -1,0 +1,80 @@
+{
+  "name": "Ruin Maniac Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15908871116685036
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "careful",
+      "ability": "effectspore",
+      "moveset": [
+        "takedown",
+        "watergun",
+        "scratch",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "naughty",
+      "ability": "rockhead",
+      "moveset": [
+        "toxic",
+        "bodyslam",
+        "vinewhip",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "impish",
+      "ability": "compoundeyes",
+      "moveset": [
+        "shadowball",
+        "flareblitz",
+        "tailwind",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "mild",
+      "ability": "immunity",
+      "moveset": [
+        "confusion",
+        "shadowclaw",
+        "detect",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

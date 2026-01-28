@@ -1,0 +1,95 @@
+{
+  "name": "Elite Four Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11162489837318607
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "hardy",
+      "ability": "overgrow",
+      "moveset": [
+        "fireblast",
+        "megapunch",
+        "earthquake",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "docile",
+      "ability": "syncronize",
+      "moveset": [
+        "outrage",
+        "thrash",
+        "energyball",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 94,
+      "nature": "rash",
+      "ability": "overgrow",
+      "moveset": [
+        "recover",
+        "tackle",
+        "flashcannon",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "impish",
+      "ability": "overgrow",
+      "moveset": [
+        "tailwind",
+        "closecombat",
+        "megapunch",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "FEMALE",
+      "level": 92,
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "takedown",
+        "flashcannon",
+        "outrage",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

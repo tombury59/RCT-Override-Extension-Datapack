@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18434342557942449
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "registeel",
+      "gender": "MALE",
+      "level": 61,
+      "nature": "mild",
+      "ability": "keeneye",
+      "moveset": [
+        "megakick",
+        "protect",
+        "psychic",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "relaxed",
+      "ability": "flashfire",
+      "moveset": [
+        "megakick",
+        "focusblast",
+        "scratch",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "quirky",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thunderbolt",
+        "growth",
+        "closecombat",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "bashful",
+      "ability": "effectspore",
+      "moveset": [
+        "confusion",
+        "megapunch",
+        "whirlwind",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "recover",
+        "hydropump",
+        "pound",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

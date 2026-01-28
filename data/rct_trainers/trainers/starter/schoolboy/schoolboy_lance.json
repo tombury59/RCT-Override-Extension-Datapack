@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18632226651678147
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "adamant",
+      "ability": "pressure",
+      "moveset": [
+        "megakick",
+        "stoneedge",
+        "dragonpulse",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "wildcharge",
+        "sleeppowder",
+        "airslash",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

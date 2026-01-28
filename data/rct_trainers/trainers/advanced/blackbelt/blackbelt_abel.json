@@ -1,0 +1,110 @@
+{
+  "name": "Blackbelt Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1360266429975422
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "serious",
+      "ability": "thickfat",
+      "moveset": [
+        "thunderpunch",
+        "icebeam",
+        "flareblitz",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "zenheadbutt",
+        "icepunch",
+        "vinewhip",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "bashful",
+      "ability": "keeneye",
+      "moveset": [
+        "earthquake",
+        "trickroom",
+        "doubleedge",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blastoise",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "brave",
+      "ability": "intimidate",
+      "moveset": [
+        "swordsdance",
+        "bodyslam",
+        "takedown",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "airslash",
+        "rest",
+        "zenheadbutt",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "bold",
+      "ability": "intimidate",
+      "moveset": [
+        "flamethrower",
+        "bodyslam",
+        "growth",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

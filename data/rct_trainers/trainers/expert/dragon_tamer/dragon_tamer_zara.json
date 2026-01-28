@@ -1,0 +1,110 @@
+{
+  "name": "Dragon Tamer Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14819831112126275
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "tackle",
+        "hyperbeam",
+        "moonblast",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "impish",
+      "ability": "immunity",
+      "moveset": [
+        "wildcharge",
+        "earthquake",
+        "focusblast",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "lonely",
+      "ability": "flashfire",
+      "moveset": [
+        "roar",
+        "pound",
+        "ember",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "mild",
+      "ability": "effectspore",
+      "moveset": [
+        "pound",
+        "ember",
+        "crunch",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "quirky",
+      "ability": "static",
+      "moveset": [
+        "thunderpunch",
+        "psychic",
+        "thrash",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "lonely",
+      "ability": "blaze",
+      "moveset": [
+        "dragonpulse",
+        "earthquake",
+        "stunspore",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Champion Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15573845743910564
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "relaxed",
+      "ability": "pressure",
+      "moveset": [
+        "outrage",
+        "megakick",
+        "psychic",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 92,
+      "nature": "hardy",
+      "ability": "flashfire",
+      "moveset": [
+        "wildcharge",
+        "thrash",
+        "dazzlinggleam",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "modest",
+      "ability": "immunity",
+      "moveset": [
+        "flamethrower",
+        "swordsdance",
+        "quickattack",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "MALE",
+      "level": 97,
+      "nature": "bashful",
+      "ability": "soundproof",
+      "moveset": [
+        "takedown",
+        "flashcannon",
+        "growth",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

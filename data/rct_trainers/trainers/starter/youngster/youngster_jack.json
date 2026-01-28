@@ -1,0 +1,95 @@
+{
+  "name": "Youngster Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18986086628880164
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "careful",
+      "ability": "levitate",
+      "moveset": [
+        "shadowclaw",
+        "surf",
+        "sleeppowder",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 6,
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "crunch",
+        "roar",
+        "takedown",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "quirky",
+      "ability": "levitate",
+      "moveset": [
+        "detect",
+        "icepunch",
+        "dazzlinggleam",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "serious",
+      "ability": "static",
+      "moveset": [
+        "nastyplot",
+        "dragonrush",
+        "shadowclaw",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "mild",
+      "ability": "thickfat",
+      "moveset": [
+        "firepunch",
+        "nastyplot",
+        "moonblast",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

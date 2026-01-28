@@ -1,0 +1,65 @@
+{
+  "name": "Ruin Maniac Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16973387765309456
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "gentle",
+      "ability": "keeneye",
+      "moveset": [
+        "icepunch",
+        "dazzlinggleam",
+        "thunderpunch",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "bashful",
+      "ability": "soundproof",
+      "moveset": [
+        "outrage",
+        "flamethrower",
+        "scratch",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "mild",
+      "ability": "torrent",
+      "moveset": [
+        "thunderbolt",
+        "thunderpunch",
+        "bodyslam",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Lass Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15032304867457572
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "willowisp",
+        "megapunch",
+        "thunderbolt",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 6,
+      "nature": "naive",
+      "ability": "levitate",
+      "moveset": [
+        "takedown",
+        "agility",
+        "flamethrower",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "naive",
+      "ability": "waterabsorb",
+      "moveset": [
+        "hydropump",
+        "dragonrush",
+        "tailwind",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "hardy",
+      "ability": "sturdy",
+      "moveset": [
+        "icepunch",
+        "trickroom",
+        "watergun",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 9,
+      "nature": "sassy",
+      "ability": "immunity",
+      "moveset": [
+        "roar",
+        "hyperbeam",
+        "airslash",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "rash",
+      "ability": "overgrow",
+      "moveset": [
+        "roar",
+        "wildcharge",
+        "blizzard",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

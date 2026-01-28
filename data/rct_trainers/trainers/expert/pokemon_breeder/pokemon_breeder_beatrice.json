@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1518969383451756
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "calm",
+      "ability": "voltabsorb",
+      "moveset": [
+        "moonblast",
+        "growth",
+        "hyperbeam",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "gentle",
+      "ability": "innerfocus",
+      "moveset": [
+        "sleeppowder",
+        "flareblitz",
+        "doubleedge",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "naughty",
+      "ability": "static",
+      "moveset": [
+        "thrash",
+        "trickroom",
+        "thundershock",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "naive",
+      "ability": "pressure",
+      "moveset": [
+        "dragonpulse",
+        "earthquake",
+        "flareblitz",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "lax",
+      "ability": "syncronize",
+      "moveset": [
+        "moonblast",
+        "thrash",
+        "whirlwind",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

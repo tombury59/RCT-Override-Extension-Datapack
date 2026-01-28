@@ -1,0 +1,110 @@
+{
+  "name": "Beauty Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10293687554849663
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ivysaur",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "impish",
+      "ability": "syncronize",
+      "moveset": [
+        "thunderbolt",
+        "stoneedge",
+        "thrash",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "serious",
+      "ability": "static",
+      "moveset": [
+        "toxic",
+        "watergun",
+        "outrage",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "brave",
+      "ability": "flashfire",
+      "moveset": [
+        "wildcharge",
+        "tackle",
+        "psybeam",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "dazzlinggleam",
+        "gigaimpact",
+        "whirlwind",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "careful",
+      "ability": "overgrow",
+      "moveset": [
+        "wildcharge",
+        "recover",
+        "watergun",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "moveset": [
+        "quickattack",
+        "closecombat",
+        "thundershock",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1805580359724891
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "naughty",
+      "ability": "voltabsorb",
+      "moveset": [
+        "stealthrock",
+        "moonblast",
+        "thunderpunch",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "brave",
+      "ability": "syncronize",
+      "moveset": [
+        "megakick",
+        "thunder",
+        "stunspore",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

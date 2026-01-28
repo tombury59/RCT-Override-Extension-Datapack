@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16099314158186118
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmander",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "lonely",
+      "ability": "levitate",
+      "moveset": [
+        "stoneedge",
+        "protect",
+        "surf",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 91,
+      "nature": "lax",
+      "ability": "torrent",
+      "moveset": [
+        "closecombat",
+        "takedown",
+        "detect",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "calm",
+      "ability": "pressure",
+      "moveset": [
+        "agility",
+        "shadowclaw",
+        "megapunch",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "calm",
+      "ability": "swarm",
+      "moveset": [
+        "thunder",
+        "trickroom",
+        "doubleedge",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "relaxed",
+      "ability": "syncronize",
+      "moveset": [
+        "zenheadbutt",
+        "flamethrower",
+        "icepunch",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "quirky",
+      "ability": "compoundeyes",
+      "moveset": [
+        "doubleedge",
+        "stealthrock",
+        "surf",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Swimmer Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1414398960458088
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "serious",
+      "ability": "levitate",
+      "moveset": [
+        "megakick",
+        "nastyplot",
+        "thunderpunch",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "gigaimpact",
+        "dazzlinggleam",
+        "stealthrock",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "naive",
+      "ability": "thickfat",
+      "moveset": [
+        "stoneedge",
+        "quickattack",
+        "calmmind",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

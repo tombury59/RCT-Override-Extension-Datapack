@@ -1,0 +1,35 @@
+{
+  "name": "Scientist Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1693967702916795
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "careful",
+      "ability": "blaze",
+      "moveset": [
+        "growth",
+        "thunder",
+        "firepunch",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

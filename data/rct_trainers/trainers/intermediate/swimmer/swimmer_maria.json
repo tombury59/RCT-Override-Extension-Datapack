@@ -1,0 +1,80 @@
+{
+  "name": "Swimmer Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13551357995382532
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "brave",
+      "ability": "torrent",
+      "moveset": [
+        "sleeppowder",
+        "ember",
+        "wildcharge",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "gentle",
+      "ability": "thickfat",
+      "moveset": [
+        "earthquake",
+        "gigaimpact",
+        "thunder",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "impish",
+      "ability": "effectspore",
+      "moveset": [
+        "icebeam",
+        "bodyslam",
+        "stealthrock",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "lax",
+      "ability": "voltabsorb",
+      "moveset": [
+        "protect",
+        "shadowball",
+        "closecombat",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}
