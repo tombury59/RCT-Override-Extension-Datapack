@@ -1,51 +1,31 @@
 {
-  "name": "Vétéran Klaus",
-  "trainer_class": "VETERAN",
-  "win_money_base": 500,
+  "name": "Blackbelt Takeshi",
+  "trainer_class": "BLACKBELT",
+  "win_money_base": 1475,
   "ai": {
-    "intelligence": 0.85,
+    "intelligence": 0.8,
     "switch_chance": 0.6
   },
   "team": [
     {
-      "pokemon": "dragonite",
-      "level": 65,
+      "pokemon": "metagross",
+      "level": 63,
       "gender": "male",
-      "moves": ["dragondance", "outrage", "earthquake", "extremespeed"],
-      "ability": "multiscale",
-      "nature": "adamant",
-      "evs": {
-        "hp": 0,
-        "attack": 252,
-        "defense": 0,
-        "special_attack": 0,
-        "special_defense": 4,
-        "speed": 252
-      },
-      "ivs": {
-        "hp": 31,
-        "attack": 31,
-        "defense": 31,
-        "special_attack": 31,
-        "special_defense": 31,
-        "speed": 31
-      },
-      "held_item": "lumberry"
-    },
-    {
-      "pokemon": "tyranitar",
-      "level": 64,
-      "gender": "male",
-      "moves": ["stoneedge", "crunch", "earthquake", "dragondance"],
-      "ability": "sandstream",
-      "nature": "adamant",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "pressure",
+      "nature": "modest",
       "evs": {
         "hp": 252,
         "attack": 252,
         "defense": 0,
         "special_attack": 0,
         "special_defense": 4,
-        "speed": 0
+        "speed": 252
       },
       "ivs": {
         "hp": 31,
@@ -58,14 +38,19 @@
       "held_item": "choiceband"
     },
     {
-      "pokemon": "garchomp",
+      "pokemon": "dragonite",
       "level": 66,
       "gender": "female",
-      "moves": ["earthquake", "outrage", "stoneedge", "swordsdance"],
-      "ability": "roughskin",
-      "nature": "jolly",
+      "moves": [
+        "outrage",
+        "dracometeor",
+        "dragonpulse",
+        "dragondance"
+      ],
+      "ability": "pressure",
+      "nature": "adamant",
       "evs": {
-        "hp": 0,
+        "hp": 252,
         "attack": 252,
         "defense": 0,
         "special_attack": 0,
@@ -80,22 +65,57 @@
         "special_defense": 31,
         "speed": 31
       },
-      "held_item": "choicescarf"
+      "held_item": "weaknesspolicy"
     },
     {
-      "pokemon": "metagross",
-      "level": 65,
-      "gender": "genderless",
-      "moves": ["meteormash", "earthquake", "zenheadbutt", "bulletpunch"],
-      "ability": "clearbody",
-      "nature": "adamant",
+      "pokemon": "yanmega",
+      "level": 63,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "multiscale",
+      "nature": "careful",
       "evs": {
         "hp": 252,
         "attack": 252,
         "defense": 0,
         "special_attack": 0,
         "special_defense": 4,
-        "speed": 0
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "lifeorb"
+    },
+    {
+      "pokemon": "passimian",
+      "level": 63,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "pressure",
+      "nature": "timid",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
       },
       "ivs": {
         "hp": 31,
@@ -110,42 +130,23 @@
   ],
   "bag": [
     {
-      "item": "cobblemon:hyper_potion",
-      "count": 4
-    },
-    {
-      "item": "cobblemon:full_restore",
+      "item": "cobblemon:max_potion",
       "count": 2
     }
   ],
   "defeat_actions": [
     {
       "type": "give_money",
-      "amount": 5000
+      "amount": 2950
     },
     {
       "type": "give_exp",
-      "multiplier": 1.5
+      "multiplier": 1.65
     },
     {
-      "type": "give_items",
-      "items": [
-        {
-          "item": "cobblemon:ultra_ball",
-          "count": 3,
-          "chance": 1.0
-        },
-        {
-          "item": "cobblemon:rare_candy",
-          "count": 2,
-          "chance": 0.8
-        },
-        {
-          "item": "cobblemon:bottle_cap",
-          "count": 1,
-          "chance": 0.5
-        }
-      ]
+      "type": "give_item",
+      "item": "cobblemon:rare_candy",
+      "count": 2
     }
   ]
 }

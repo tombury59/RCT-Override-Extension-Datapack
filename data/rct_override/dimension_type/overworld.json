@@ -4,11 +4,10 @@
     "base_chance": 0.02,
     "series_progression_enabled": false,
     "level_scaling": {
-      "type": "distance_based",
-      "formula": "5 + floor(distance / 500)",
-      "min_level": 5,
-      "max_level": 100,
-      "distance_calculation": "manhattan"
+      "type": "range_based",
+      "config_file": "rct_override:config/level_scaling",
+      "distance_calculation": "manhattan",
+      "comment": "Les niveaux sont déterminés par plages de distance définies dans le fichier de config"
     },
     "spawn_rules": {
       "check_interval_ticks": 200,

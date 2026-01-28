@@ -1,0 +1,43 @@
+{
+  "name": "Gamin Tyler",
+  "trainer_class": "YOUNGSTER",
+  "win_money_base": 50,
+  "ai": {
+    "intelligence": 0.3,
+    "switch_chance": 0.1
+  },
+  "team": [
+    {
+      "pokemon": "pidove",
+      "level": 7,
+      "gender": "male",
+      "moves": ["gust", "growl", "quickattack"],
+      "ability": "bigpecks",
+      "nature": "jolly"
+    },
+    {
+      "pokemon": "lillipup",
+      "level": 8,
+      "gender": "male",
+      "moves": ["tackle", "leer", "bite"],
+      "ability": "vitalspirit",
+      "nature": "adamant"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:potion",
+      "count": 1
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 100
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.0
+    }
+  ]
+}

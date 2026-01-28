@@ -1,0 +1,43 @@
+{
+  "name": "Pique-niqueuse Dana",
+  "trainer_class": "PICNICKER",
+  "win_money_base": 75,
+  "ai": {
+    "intelligence": 0.35,
+    "switch_chance": 0.15
+  },
+  "team": [
+    {
+      "pokemon": "paras",
+      "level": 9,
+      "gender": "female",
+      "moves": ["scratch", "stunspore", "poisonpowder"],
+      "ability": "effectspore",
+      "nature": "careful"
+    },
+    {
+      "pokemon": "gloom",
+      "level": 10,
+      "gender": "female",
+      "moves": ["absorb", "sweetscent", "acid", "poisonpowder"],
+      "ability": "chlorophyll",
+      "nature": "modest"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:potion",
+      "count": 2
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 150
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.0
+    }
+  ]
+}

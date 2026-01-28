@@ -1,0 +1,102 @@
+{
+  "name": "Canon Bridget",
+  "trainer_class": "BEAUTY",
+  "win_money_base": 290,
+  "ai": {
+    "intelligence": 0.6,
+    "switch_chance": 0.35
+  },
+  "team": [
+    {
+      "pokemon": "gardevoir",
+      "level": 42,
+      "gender": "female",
+      "moves": ["psychic", "moonblast", "focusblast", "calmmind"],
+      "ability": "trace",
+      "nature": "timid",
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "special_attack": 252,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 25,
+        "attack": 0,
+        "defense": 25,
+        "special_attack": 31,
+        "special_defense": 25,
+        "speed": 31
+      },
+      "held_item": "choicescarf"
+    },
+    {
+      "pokemon": "roserade",
+      "level": 40,
+      "gender": "female",
+      "moves": ["gigadrain", "sludgebomb", "sleeppowder", "leafstorm"],
+      "ability": "naturalcure",
+      "nature": "timid",
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "special_attack": 252,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 25,
+        "attack": 0,
+        "defense": 25,
+        "special_attack": 31,
+        "special_defense": 25,
+        "speed": 31
+      },
+      "held_item": "focussash"
+    },
+    {
+      "pokemon": "lopunny",
+      "level": 39,
+      "gender": "female",
+      "moves": ["return", "highjumpkick", "uturn", "healingwish"],
+      "ability": "limber",
+      "nature": "jolly",
+      "evs": {
+        "hp": 0,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 25,
+        "attack": 31,
+        "defense": 25,
+        "special_attack": 0,
+        "special_defense": 25,
+        "speed": 31
+      },
+      "held_item": "choiceband"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "count": 2
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 580
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.2
+    }
+  ]
+}

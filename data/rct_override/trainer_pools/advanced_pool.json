@@ -1,24 +1,55 @@
 {
   "pool_id": "advanced_trainers",
+  "config_reference": "rct_override:config/level_scaling",
+  "zone_ids": [
+    "advanced",
+    "expert"
+  ],
   "spawn_weight": 60,
-  "distance_range": {
-    "min": 20000,
-    "max": 40000
-  },
-  "level_range": {
-    "min": 45,
-    "max": 70
-  },
   "spawn_chance": 0.015,
   "trainers": [
-    "rct_override:veteran_klaus",
-    "rct_override:dragon_tamer_ryuu",
-    "rct_override:blackbelt_ken",
-    "rct_override:elite_four_lorelei"
+    "rct_override:trainers/advanced/veteran_arnold",
+    "rct_override:trainers/advanced/veteran_bruce",
+    "rct_override:trainers/advanced/veteran_carter",
+    "rct_override:trainers/advanced/veteran_douglas",
+    "rct_override:trainers/advanced/veteran_edgar",
+    "rct_override:trainers/advanced/veteran_franklin",
+    "rct_override:trainers/advanced/veteran_george",
+    "rct_override:trainers/advanced/veteran_harold",
+    "rct_override:trainers/advanced/veteran_irving",
+    "rct_override:trainers/advanced/veteran_klaus",
+    "rct_override:trainers/advanced/dragon_tamer_clair",
+    "rct_override:trainers/advanced/dragon_tamer_drake",
+    "rct_override:trainers/advanced/dragon_tamer_drayden",
+    "rct_override:trainers/advanced/dragon_tamer_iris",
+    "rct_override:trainers/advanced/dragon_tamer_lance",
+    "rct_override:trainers/advanced/dragon_tamer_raihan",
+    "rct_override:trainers/advanced/dragon_tamer_ryuu",
+    "rct_override:trainers/advanced/dragon_tamer_zinnia",
+    "rct_override:trainers/advanced/blackbelt_akira",
+    "rct_override:trainers/advanced/blackbelt_bruno",
+    "rct_override:trainers/advanced/blackbelt_hitoshi",
+    "rct_override:trainers/advanced/blackbelt_ken",
+    "rct_override:trainers/advanced/blackbelt_kenji",
+    "rct_override:trainers/advanced/blackbelt_koichi",
+    "rct_override:trainers/advanced/blackbelt_takeshi",
+    "rct_override:trainers/advanced/elite_four_agatha",
+    "rct_override:trainers/advanced/elite_four_bruno",
+    "rct_override:trainers/advanced/elite_four_lance",
+    "rct_override:trainers/advanced/elite_four_lorelei",
+    "rct_override:trainers/advanced/elite_four_will"
   ],
   "spawn_conditions": {
-    "time_of_day": ["day", "night"],
-    "weather": ["clear", "rain", "thunder", "snow"],
+    "time_of_day": [
+      "day",
+      "night"
+    ],
+    "weather": [
+      "clear",
+      "rain",
+      "thunder",
+      "snow"
+    ],
     "valid_biomes": [
       "minecraft:mountain",
       "minecraft:extreme_hills",

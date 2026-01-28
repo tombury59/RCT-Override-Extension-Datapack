@@ -1,0 +1,51 @@
+{
+  "name": "Pêcheur Wade",
+  "trainer_class": "FISHERMAN",
+  "win_money_base": 60,
+  "ai": {
+    "intelligence": 0.3,
+    "switch_chance": 0.1
+  },
+  "team": [
+    {
+      "pokemon": "magikarp",
+      "level": 5,
+      "gender": "male",
+      "moves": ["splash"],
+      "ability": "swiftswim",
+      "nature": "jolly"
+    },
+    {
+      "pokemon": "magikarp",
+      "level": 5,
+      "gender": "male",
+      "moves": ["splash"],
+      "ability": "swiftswim",
+      "nature": "adamant"
+    },
+    {
+      "pokemon": "poliwag",
+      "level": 10,
+      "gender": "male",
+      "moves": ["bubble", "hypnosis", "watergun"],
+      "ability": "waterabsorb",
+      "nature": "modest"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:potion",
+      "count": 1
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 120
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.0
+    }
+  ]
+}

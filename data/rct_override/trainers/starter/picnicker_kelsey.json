@@ -1,0 +1,43 @@
+{
+  "name": "Pique-niqueuse Kelsey",
+  "trainer_class": "PICNICKER",
+  "win_money_base": 70,
+  "ai": {
+    "intelligence": 0.35,
+    "switch_chance": 0.15
+  },
+  "team": [
+    {
+      "pokemon": "cherubi",
+      "level": 9,
+      "gender": "female",
+      "moves": ["tackle", "growth", "leechseed"],
+      "ability": "chlorophyll",
+      "nature": "modest"
+    },
+    {
+      "pokemon": "budew",
+      "level": 9,
+      "gender": "female",
+      "moves": ["absorb", "growth", "stunspore"],
+      "ability": "naturalcure",
+      "nature": "calm"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:potion",
+      "count": 2
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 140
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.0
+    }
+  ]
+}

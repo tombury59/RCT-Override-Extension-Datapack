@@ -1,0 +1,117 @@
+{
+  "name": "Ace Trainer Alex",
+  "trainer_class": "ACE_TRAINER",
+  "win_money_base": 640,
+  "ai": {
+    "intelligence": 0.6,
+    "switch_chance": 0.35
+  },
+  "team": [
+    {
+      "pokemon": "ursaring",
+      "level": 41,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "voltabsorb",
+      "nature": "careful",
+      "evs": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 0,
+        "special_attack": 100,
+        "special_defense": 4,
+        "speed": 100
+      },
+      "ivs": {
+        "hp": 24,
+        "attack": 24,
+        "defense": 24,
+        "special_attack": 24,
+        "special_defense": 24,
+        "speed": 24
+      },
+      "held_item": "lumberry"
+    },
+    {
+      "pokemon": "typhlosion",
+      "level": 41,
+      "gender": "female",
+      "moves": [
+        "flareblitz",
+        "fireblast",
+        "flamethrower",
+        "overheat"
+      ],
+      "ability": "voltabsorb",
+      "nature": "timid",
+      "evs": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 0,
+        "special_attack": 100,
+        "special_defense": 4,
+        "speed": 100
+      },
+      "ivs": {
+        "hp": 24,
+        "attack": 24,
+        "defense": 24,
+        "special_attack": 24,
+        "special_defense": 24,
+        "speed": 24
+      },
+      "held_item": "sitrusberry"
+    },
+    {
+      "pokemon": "roserade",
+      "level": 41,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "sturdy",
+      "nature": "adamant",
+      "evs": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 0,
+        "special_attack": 100,
+        "special_defense": 4,
+        "speed": 100
+      },
+      "ivs": {
+        "hp": 24,
+        "attack": 24,
+        "defense": 24,
+        "special_attack": 24,
+        "special_defense": 24,
+        "speed": 24
+      },
+      "held_item": "lumberry"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "count": 2
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 1280
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.3900000000000001
+    }
+  ]
+}

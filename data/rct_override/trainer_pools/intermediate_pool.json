@@ -1,25 +1,53 @@
 {
   "pool_id": "intermediate_trainers",
+  "config_reference": "rct_override:config/level_scaling",
+  "zone_id": "intermediate",
   "spawn_weight": 80,
-  "distance_range": {
-    "min": 7500,
-    "max": 20000
-  },
-  "level_range": {
-    "min": 20,
-    "max": 45
-  },
-  "spawn_chance": 0.020,
+  "spawn_chance": 0.02,
   "trainers": [
-    "rct_override:ace_trainer_sophia",
-    "rct_override:cooltrainer_jake",
-    "rct_override:swimmer_marina",
-    "rct_override:hiker_eric",
-    "rct_override:beauty_isabella"
+    "rct_override:trainers/intermediate/ace_trainer_alex",
+    "rct_override:trainers/intermediate/ace_trainer_blake",
+    "rct_override:trainers/intermediate/ace_trainer_cameron",
+    "rct_override:trainers/intermediate/ace_trainer_diana",
+    "rct_override:trainers/intermediate/ace_trainer_drake",
+    "rct_override:trainers/intermediate/ace_trainer_elena",
+    "rct_override:trainers/intermediate/ace_trainer_felix",
+    "rct_override:trainers/intermediate/ace_trainer_grace",
+    "rct_override:trainers/intermediate/ace_trainer_maria",
+    "rct_override:trainers/intermediate/ace_trainer_sophia",
+    "rct_override:trainers/intermediate/cooltrainer_austin",
+    "rct_override:trainers/intermediate/cooltrainer_brady",
+    "rct_override:trainers/intermediate/cooltrainer_casey",
+    "rct_override:trainers/intermediate/cooltrainer_dylan",
+    "rct_override:trainers/intermediate/cooltrainer_evan",
+    "rct_override:trainers/intermediate/cooltrainer_finn",
+    "rct_override:trainers/intermediate/cooltrainer_grant",
+    "rct_override:trainers/intermediate/cooltrainer_hudson",
+    "rct_override:trainers/intermediate/cooltrainer_jake",
+    "rct_override:trainers/intermediate/cooltrainer_ryker",
+    "rct_override:trainers/intermediate/swimmer_aqua",
+    "rct_override:trainers/intermediate/swimmer_bay",
+    "rct_override:trainers/intermediate/swimmer_coral",
+    "rct_override:trainers/intermediate/swimmer_crystal",
+    "rct_override:trainers/intermediate/swimmer_marina",
+    "rct_override:trainers/starter/hiker_alan",
+    "rct_override:trainers/intermediate/hiker_bob",
+    "rct_override:trainers/intermediate/hiker_clark",
+    "rct_override:trainers/intermediate/hiker_eric",
+    "rct_override:trainers/intermediate/hiker_russell",
+    "rct_override:trainers/intermediate/beauty_bridget",
+    "rct_override:trainers/intermediate/beauty_isabella"
   ],
   "spawn_conditions": {
-    "time_of_day": ["day", "night"],
-    "weather": ["clear", "rain", "thunder"],
+    "time_of_day": [
+      "day",
+      "night"
+    ],
+    "weather": [
+      "clear",
+      "rain",
+      "thunder"
+    ],
     "valid_biomes": [
       "minecraft:plains",
       "minecraft:forest",

@@ -1,0 +1,62 @@
+{
+  "level_scaling": {
+    "description": "Configuration du système de niveaux basé sur la distance au spawn",
+    "distance_calculation": "manhattan",
+    "distance_formula": "abs(X) + abs(Z)",
+    "ranges": [
+      {
+        "id": "starter",
+        "distance_min": 0,
+        "distance_max": 1000,
+        "level_min": 5,
+        "level_max": 20,
+        "description": "Zone débutant - Proche du spawn"
+      },
+      {
+        "id": "intermediate",
+        "distance_min": 1000,
+        "distance_max": 2500,
+        "level_min": 21,
+        "level_max": 40,
+        "description": "Zone intermédiaire"
+      },
+      {
+        "id": "advanced",
+        "distance_min": 2500,
+        "distance_max": 4000,
+        "level_min": 41,
+        "level_max": 60,
+        "description": "Zone avancée"
+      },
+      {
+        "id": "expert",
+        "distance_min": 4000,
+        "distance_max": 6000,
+        "level_min": 61,
+        "level_max": 80,
+        "description": "Zone expert"
+      },
+      {
+        "id": "legendary",
+        "distance_min": 6000,
+        "distance_max": 999999,
+        "level_min": 81,
+        "level_max": 100,
+        "description": "Zone légendaire - Extrême distance"
+      }
+    ]
+  },
+  "spawn_settings": {
+    "base_chance": 0.02,
+    "description": "2% de chance de spawn par chunk",
+    "min_distance_between_trainers": 150,
+    "max_trainers_per_chunk": 1
+  },
+  "trainer_pool_assignment": {
+    "starter": "rct_override:starter_pool",
+    "intermediate": "rct_override:intermediate_pool",
+    "advanced": "rct_override:advanced_pool",
+    "expert": "rct_override:advanced_pool",
+    "legendary": "rct_override:legendary_pool"
+  }
+}

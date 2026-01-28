@@ -1,0 +1,192 @@
+{
+  "name": "Maître Légendaire Lance",
+  "trainer_class": "CHAMPION",
+  "win_money_base": 2500,
+  "ai": {
+    "intelligence": 1.0,
+    "switch_chance": 0.95
+  },
+  "team": [
+    {
+      "pokemon": "dragonite",
+      "level": 90,
+      "gender": "male",
+      "moves": ["dragondance", "outrage", "extremespeed", "earthquake"],
+      "ability": "multiscale",
+      "nature": "adamant",
+      "evs": {
+        "hp": 0,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "lumberry"
+    },
+    {
+      "pokemon": "dragonite",
+      "level": 89,
+      "gender": "male",
+      "moves": ["hurricane", "fireblast", "thunder", "roost"],
+      "ability": "multiscale",
+      "nature": "modest",
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "special_attack": 252,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 0,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "weaknesspolicy"
+    },
+    {
+      "pokemon": "kingdra",
+      "level": 88,
+      "gender": "male",
+      "moves": ["hydropump", "dracometeor", "icebeam", "focusenergy"],
+      "ability": "swiftswim",
+      "nature": "modest",
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "special_attack": 252,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 0,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "scopelens"
+    },
+    {
+      "pokemon": "garchomp",
+      "level": 91,
+      "gender": "male",
+      "moves": ["earthquake", "outrage", "swordsdance", "stoneedge"],
+      "ability": "roughskin",
+      "nature": "jolly",
+      "evs": {
+        "hp": 0,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "yacheberry"
+    },
+    {
+      "pokemon": "salamence",
+      "level": 90,
+      "gender": "male",
+      "moves": ["dragondance", "outrage", "earthquake", "roost"],
+      "ability": "intimidate",
+      "nature": "jolly",
+      "evs": {
+        "hp": 0,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "lumberry"
+    },
+    {
+      "pokemon": "charizard",
+      "level": 92,
+      "gender": "male",
+      "moves": ["flareblitz", "dragonclaw", "earthquake", "roost"],
+      "ability": "blaze",
+      "nature": "jolly",
+      "evs": {
+        "hp": 0,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "lifeorb"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "count": 5
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 5000
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 2.0
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:rare_candy",
+      "count": 5
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:ability_patch",
+      "count": 1
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:master_ball",
+      "count": 1
+    }
+  ]
+}

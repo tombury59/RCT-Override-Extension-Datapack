@@ -1,0 +1,43 @@
+{
+  "name": "Fillette Robin",
+  "trainer_class": "LASS",
+  "win_money_base": 60,
+  "ai": {
+    "intelligence": 0.3,
+    "switch_chance": 0.1
+  },
+  "team": [
+    {
+      "pokemon": "nidoran_f",
+      "level": 8,
+      "gender": "female",
+      "moves": ["scratch", "growl", "poisonsting"],
+      "ability": "poisonpoint",
+      "nature": "modest"
+    },
+    {
+      "pokemon": "skitty",
+      "level": 9,
+      "gender": "female",
+      "moves": ["tackle", "growl", "attract"],
+      "ability": "cutecharm",
+      "nature": "jolly"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:potion",
+      "count": 1
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 120
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.0
+    }
+  ]
+}

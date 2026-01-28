@@ -1,0 +1,102 @@
+{
+  "name": "Canon Isabella",
+  "trainer_class": "BEAUTY",
+  "win_money_base": 280,
+  "ai": {
+    "intelligence": 0.6,
+    "switch_chance": 0.35
+  },
+  "team": [
+    {
+      "pokemon": "clefable",
+      "level": 41,
+      "gender": "female",
+      "moves": ["moonblast", "softboiled", "calmmind", "thunderwave"],
+      "ability": "magicguard",
+      "nature": "bold",
+      "evs": {
+        "hp": 252,
+        "attack": 0,
+        "defense": 252,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 0
+      },
+      "ivs": {
+        "hp": 25,
+        "attack": 0,
+        "defense": 31,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 25
+      },
+      "held_item": "leftovers"
+    },
+    {
+      "pokemon": "persian",
+      "level": 39,
+      "gender": "female",
+      "moves": ["fakeout", "uturn", "knockoff", "hypnosis"],
+      "ability": "technician",
+      "nature": "jolly",
+      "evs": {
+        "hp": 0,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 25,
+        "attack": 31,
+        "defense": 25,
+        "special_attack": 0,
+        "special_defense": 25,
+        "speed": 31
+      },
+      "held_item": "silkscarf"
+    },
+    {
+      "pokemon": "wigglytuff",
+      "level": 40,
+      "gender": "female",
+      "moves": ["hypervoice", "dazzlinggleam", "fireblast", "stealthrock"],
+      "ability": "competitive",
+      "nature": "modest",
+      "evs": {
+        "hp": 252,
+        "attack": 0,
+        "defense": 0,
+        "special_attack": 252,
+        "special_defense": 4,
+        "speed": 0
+      },
+      "ivs": {
+        "hp": 25,
+        "attack": 0,
+        "defense": 25,
+        "special_attack": 31,
+        "special_defense": 25,
+        "speed": 25
+      },
+      "held_item": "assaultvest"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "count": 2
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 560
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.2
+    }
+  ]
+}

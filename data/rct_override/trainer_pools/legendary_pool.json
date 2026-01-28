@@ -1,23 +1,48 @@
 {
   "pool_id": "legendary_trainers",
+  "config_reference": "rct_override:config/level_scaling",
+  "zone_id": "legendary",
   "spawn_weight": 20,
-  "distance_range": {
-    "min": 40000,
-    "max": 999999
-  },
-  "level_range": {
-    "min": 70,
-    "max": 100
-  },
   "spawn_chance": 0.008,
   "trainers": [
-    "rct_override:champion_aurora",
-    "rct_override:legendary_master_lance",
-    "rct_override:frontier_brain_palmer"
+    "rct_override:trainers/legendary/champion_alder",
+    "rct_override:trainers/legendary/champion_aurora",
+    "rct_override:trainers/legendary/champion_blue",
+    "rct_override:trainers/legendary/champion_cynthia",
+    "rct_override:trainers/legendary/champion_diantha",
+    "rct_override:trainers/legendary/champion_geeta",
+    "rct_override:trainers/legendary/champion_hau",
+    "rct_override:trainers/legendary/champion_iris",
+    "rct_override:trainers/legendary/champion_kukui",
+    "rct_override:trainers/legendary/champion_lance",
+    "rct_override:trainers/legendary/champion_leon",
+    "rct_override:trainers/legendary/champion_nemona",
+    "rct_override:trainers/legendary/champion_red",
+    "rct_override:trainers/legendary/champion_steven",
+    "rct_override:trainers/legendary/champion_wallace",
+    "rct_override:trainers/legendary/legendary_master_lance",
+    "rct_override:trainers/legendary/frontier_brain_anabel",
+    "rct_override:trainers/legendary/frontier_brain_brandon",
+    "rct_override:trainers/legendary/frontier_brain_dahlia",
+    "rct_override:trainers/legendary/frontier_brain_greta",
+    "rct_override:trainers/legendary/frontier_brain_lucy",
+    "rct_override:trainers/legendary/frontier_brain_noland",
+    "rct_override:trainers/legendary/frontier_brain_palmer",
+    "rct_override:trainers/legendary/frontier_brain_spenser",
+    "rct_override:trainers/legendary/frontier_brain_thorton",
+    "rct_override:trainers/legendary/frontier_brain_tucker"
   ],
   "spawn_conditions": {
-    "time_of_day": ["day", "night"],
-    "weather": ["clear", "rain", "thunder", "snow"],
+    "time_of_day": [
+      "day",
+      "night"
+    ],
+    "weather": [
+      "clear",
+      "rain",
+      "thunder",
+      "snow"
+    ],
     "valid_biomes": [
       "minecraft:mountain",
       "minecraft:extreme_hills",

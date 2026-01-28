@@ -1,0 +1,43 @@
+{
+  "name": "Campeur Ricky",
+  "trainer_class": "CAMPER",
+  "win_money_base": 75,
+  "ai": {
+    "intelligence": 0.35,
+    "switch_chance": 0.15
+  },
+  "team": [
+    {
+      "pokemon": "growlithe",
+      "level": 10,
+      "gender": "male",
+      "moves": ["ember", "roar", "bite"],
+      "ability": "intimidate",
+      "nature": "adamant"
+    },
+    {
+      "pokemon": "ponyta",
+      "level": 10,
+      "gender": "male",
+      "moves": ["ember", "tailwhip", "growl"],
+      "ability": "runaway",
+      "nature": "jolly"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:potion",
+      "count": 2
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 150
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.0
+    }
+  ]
+}

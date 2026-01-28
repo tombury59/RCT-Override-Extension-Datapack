@@ -1,0 +1,43 @@
+{
+  "name": "Gamin Tim",
+  "trainer_class": "YOUNGSTER",
+  "win_money_base": 55,
+  "ai": {
+    "intelligence": 0.3,
+    "switch_chance": 0.1
+  },
+  "team": [
+    {
+      "pokemon": "spearow",
+      "level": 6,
+      "gender": "male",
+      "moves": ["peck", "growl"],
+      "ability": "keeneye",
+      "nature": "adamant"
+    },
+    {
+      "pokemon": "ekans",
+      "level": 7,
+      "gender": "male",
+      "moves": ["wrap", "leer", "poisonsting"],
+      "ability": "intimidate",
+      "nature": "jolly"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:potion",
+      "count": 1
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 110
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.0
+    }
+  ]
+}

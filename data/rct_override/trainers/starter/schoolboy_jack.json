@@ -1,0 +1,43 @@
+{
+  "name": "Élève Jack",
+  "trainer_class": "SCHOOL_KID",
+  "win_money_base": 70,
+  "ai": {
+    "intelligence": 0.4,
+    "switch_chance": 0.2
+  },
+  "team": [
+    {
+      "pokemon": "abra",
+      "level": 10,
+      "gender": "male",
+      "moves": ["teleport"],
+      "ability": "synchronize",
+      "nature": "timid"
+    },
+    {
+      "pokemon": "magnemite",
+      "level": 10,
+      "gender": "genderless",
+      "moves": ["thundershock", "supersonic", "thunderwave"],
+      "ability": "magnetpull",
+      "nature": "modest"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:potion",
+      "count": 2
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 140
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.0
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Fillette Michelle",
+  "trainer_class": "LASS",
+  "win_money_base": 60,
+  "ai": {
+    "intelligence": 0.3,
+    "switch_chance": 0.1
+  },
+  "team": [
+    {
+      "pokemon": "mareep",
+      "level": 9,
+      "gender": "female",
+      "moves": ["tackle", "growl", "thundershock"],
+      "ability": "static",
+      "nature": "modest"
+    },
+    {
+      "pokemon": "ralts",
+      "level": 9,
+      "gender": "female",
+      "moves": ["confusion", "growl", "doubleteam"],
+      "ability": "synchronize",
+      "nature": "timid"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:potion",
+      "count": 1
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 120
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.0
+    }
+  ]
+}
