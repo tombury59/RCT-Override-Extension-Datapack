@@ -13,10 +13,10 @@ Ce datapack **désactive complètement** le système de progression par série d
 - ✖️ Limitation par badges
 
 ### ✅ NOUVEAU SYSTÈME
-- ✔️ **Spawn 100% aléatoire** - 2% de chance partout dans le monde
+- ✔️ **Spawn 100% aléatoire** - Taux variable selon les zones (0.8% à 2.5%)
 - ✔️ **Niveau basé sur la distance** - Plus vous êtes loin du spawn (0,0), plus c'est dur
 - ✔️ **Aucune progression linéaire** - Vous pouvez rencontrer n'importe quel dresseur n'importe où
-- ✔️ **Scaling automatique** - Formule : `Niveau = 5 + (Distance ÷ 500)`, max 100
+- ✔️ **Scaling par paliers** - 5 zones de difficulté selon la distance au spawn
 
 ## 📊 Système de Distance
 
@@ -24,36 +24,53 @@ Ce datapack **désactive complètement** le système de progression par série d
 Distance au spawn (0,0) = |X| + |Z|
 
 Exemples:
-• Spawn (0,0) → Dresseurs niveau 5
-• 5,000 blocs → Dresseurs niveau 15
-• 10,000 blocs → Dresseurs niveau 25
-• 25,000 blocs → Dresseurs niveau 55
-• 50,000 blocs → Dresseurs niveau 105 (plafonné à 100)
+• 0-1000 blocs → Dresseurs niveau 5-20 (Starter)
+• 1000-2500 blocs → Dresseurs niveau 21-40 (Intermediate)
+• 2500-4000 blocs → Dresseurs niveau 41-60 (Advanced)
+• 4000-6000 blocs → Dresseurs niveau 61-80 (Expert)
+• 6000+ blocs → Dresseurs niveau 81-100 (Legendary)
 ```
 
 ## 🎲 Spawn Aléatoire
 
-**Taux de base : 2%**
+**Taux variables selon la distance :**
+- **Starter** (0-1km) : 2.5% de spawn
+- **Intermediate** (1-2.5km) : 2.0% de spawn
+- **Advanced** (2.5-4km) : 1.5% de spawn
+- **Expert** (4-6km) : 1.2% de spawn
+- **Legendary** (6km+) : 0.8% de spawn
 
-Chaque chunk a 2% de chance de faire spawner un dresseur. Le niveau du dresseur dépend uniquement de votre distance au spawn, pas de votre progression.
+Le niveau du dresseur dépend uniquement de votre distance au spawn, pas de votre progression.
 
 ### Conséquences
 
-- Vous pouvez tomber sur un dresseur niveau 80 si vous allez trop loin
+- Vous pouvez tomber sur un dresseur niveau 80+ si vous allez trop loin
+- Plus vous vous éloignez, moins les dresseurs spawent (mais ils sont plus forts !)
 - Pas de "série complétée" ou de progression forcée
 - Explorez à vos risques et périls !
 - Les récompenses sont proportionnelles au risque
 
-## 🗺️ Paliers Recommandés (mais pas obligatoires)
+## �️ Catégories de Dresseurs (157 trainers)
 
-| Distance | Niveau Dresseurs | Pokémon Typiques | Danger |
-|----------|------------------|------------------|---------|
-| 0-10km | 5-25 | Communs | 🟢 Facile |
-| 10-25km | 25-55 | Peu communs | 🔵 Moyen |
-| 25-40km | 55-85 | Rares | 🟡 Difficile |
-| 40km+ | 85-100 | Légendaires | 🔴 Expert |
+Le datapack utilise **5 pools de dresseurs** organisés par niveau de difficulté :
 
-**Note importante** : Ces paliers sont indicatifs. En réalité, le niveau augmente de façon continue, pas par paliers fixes.
+| Catégorie | Niveaux | Trainers | Spawn % | Zone Distance | Difficulté |
+|-----------|---------|----------|---------|---------------|------------|
+| **Starter** | 5-20 | 35 | 2.5% | 0 - 1,000 | 🟢 Facile |
+| **Intermediate** | 21-40 | 32 | 2.0% | 1,000 - 2,500 | 🔵 Moyen |
+| **Advanced** | 41-60 | 30 | 1.5% | 2,500 - 4,000 | 🟠 Difficile |
+| **Expert** | 61-80 | 35 | 1.2% | 4,000 - 6,000 | 🟡 Expert |
+| **Legendary** | 81-100 | 26 | 0.8% | 6,000+ | 🔴 Légendaire |
+
+### Types de Dresseurs par Catégorie
+
+**Starter :** Youngster, Lass, Camper, Picnicker, Bug Catcher, Fisherman, Sailor, Twins, Schoolboy  
+**Intermediate :** Ace Trainer, Cooltrainer, Swimmer, Hiker, Beauty  
+**Advanced :** Veteran, Dragon Tamer, Blackbelt, Elite Four (niveau moyen)  
+**Expert :** Veteran (expert), Dragon Tamer (expert), Blackbelt (expert), Elite Four (expert)  
+**Legendary :** Champion, Frontier Brain, Legendary Master
+
+**Note importante** : Le niveau exact des dresseurs dépend de votre distance au spawn selon les paliers définis dans `level_scaling.json`.
 
 ## 📦 Prérequis
 
@@ -75,18 +92,18 @@ Chaque chunk a 2% de chance de faire spawner un dresseur. Le niveau du dresseur 
 
 ## ⚙️ Configuration
 
-### Modifier le taux de spawn
+### Modifier les taux de spawn
 
-Éditez `data/rct/dimension_type/overworld.json` et changez :
-```json
-{
-  "trainer_spawn_chance": 0.02  // 2% par défaut
-}
-```
+Éditez les fichiers dans `data/rct_override/trainer_pools/` :
+- `starter_pool.json` : `spawn_chance: 0.025` (2.5%)
+- `intermediate_pool.json` : `spawn_chance: 0.020` (2.0%)
+- `advanced_pool.json` : `spawn_chance: 0.015` (1.5%)
+- `expert_pool.json` : `spawn_chance: 0.012` (1.2%)
+- `legendary_pool.json` : `spawn_chance: 0.008` (0.8%)
 
 ### Modifier la formule de niveau
 
-Éditez `data/rct/worldgen/density_function/trainer_level_scaling.json`
+Éditez `data/rct_override/config/level_scaling.json` pour ajuster la formule de calcul de niveau basée sur la distance.
 
 ## 🎮 Gameplay
 
@@ -102,12 +119,17 @@ Chaque chunk a 2% de chance de faire spawner un dresseur. Le niveau du dresseur 
 ```
 1. Appuyez sur F3
 2. Notez X et Z
-3. Calculez : (|X| + |Z|) ÷ 500 + 5 = Niveau
-4. Maximum 100
+3. Calculez : Distance = |X| + |Z|
+4. Vérifiez la catégorie selon les paliers :
+   • 0-1000 blocs = Starter (niv. 5-20)
+   • 1000-2500 blocs = Intermediate (niv. 21-40)
+   • 2500-4000 blocs = Advanced (niv. 41-60)
+   • 4000-6000 blocs = Expert (niv. 61-80)
+   • 6000+ blocs = Legendary (niv. 81-100)
 
-Exemple : X=12000, Z=8000
-→ (12000 + 8000) ÷ 500 + 5 = 45
-→ Attendez-vous à des dresseurs niveau ~45
+Exemple : X=3000, Z=500
+→ Distance = 3000 + 500 = 3500 blocs
+→ Catégorie Advanced (niv. 41-60)
 ```
 
 ## ⚠️ Avertissements
@@ -137,25 +159,53 @@ Exemple : X=12000, Z=8000
 
 ## 📝 Dresseurs Inclus
 
-Le datapack désactive tous les dresseurs de série RCT et ajoute **20+ nouveaux dresseurs** qui spawent aléatoirement selon le système de distance.
+Le datapack inclut **158 dresseurs uniques** répartis en 5 catégories qui spawent aléatoirement selon le système de distance.
 
-Types de dresseurs :
-- Campeurs, Randonneurs (Niv. 5-20)
-- Dresseurs Élite, Nageurs (Niv. 20-40)
-- Vétérans, Dompteurs (Niv. 40-60)
-- Maîtres, Experts (Niv. 60-80)
-- Champions, Légendes (Niv. 80-100)
+### Détails par Catégorie
+
+**🟢 Starter (35 trainers, niv. 5-20) :**
+- Équipes de 1-3 Pokémon communs
+- EVs/IVs de base
+- Intelligence AI : 0.3
+- Récompenses : Pokéball, Potions
+
+**🔵 Intermediate (32 trainers, niv. 21-40) :**
+- Équipes de 3-4 Pokémon peu communs
+- EVs partiels (100), IVs moyens (24)
+- Intelligence AI : 0.6
+- Récompenses : Super Potions, Great Balls
+
+**🟠 Advanced (30 trainers, niv. 41-60) :**
+- Équipes de 4-6 Pokémon rares
+- EVs/IVs maximisés (252/31)
+- Intelligence AI : 0.8
+- Récompenses : 2 Rare Candy, Max Potions
+
+**🟡 Expert (35 trainers, niv. 61-80) :**
+- Équipes de 5-6 Pokémon puissants avec held items
+- EVs/IVs maximisés (252/31)
+- Intelligence AI : 0.9
+- Récompenses : 3 Rare Candy, 1 Master Ball
+
+**🔴 Legendary (26 trainers, niv. 81-100) :**
+- Équipes de 6 Pokémon légendaires/pseudo-légendaires
+- EVs/IVs parfaits (252/31)
+- Intelligence AI : 1.0
+- Récompenses : 5 Rare Candy, 1 Ability Patch
 
 ## 🎁 Récompenses
 
-Les récompenses sont calculées selon :
-```
-Qualité = Niveau du dresseur ÷ 10
+Les récompenses augmentent progressivement avec la difficulté :
 
-Niveau 10 → Poké Balls, Potions
-Niveau 50 → Ultra Balls, Hyper Potions, Rare Candy
-Niveau 100 → Master Balls, Max Potions, Ability Patch, Or
-```
+| Catégorie | Argent de base | Potions | Bonus Items |
+|-----------|---------------|---------|-------------|
+| **Starter** | 50 + niv×5 | Potion ×1 | - |
+| **Intermediate** | 250 + niv×10 | Hyper Potion ×2 | - |
+| **Advanced** | 500 + niv×15 | Max Potion ×2 | 2 Rare Candy |
+| **Expert** | 1000 + niv×18 | Full Restore ×3 | 3 Rare Candy + 1 Master Ball |
+| **Legendary** | 2000 + niv×20 | Full Restore ×5 | 5 Rare Candy + 1 Ability Patch |
+
+**Note :** Tous les dresseurs donnent aussi de l'XP avec un multiplicateur de `1.0 + (niveau ÷ 100)`
 
 ## 🐛 Dépannage
 
@@ -196,11 +246,22 @@ Niveau 100 → Master Balls, Max Potions, Ability Patch, Or
 ❌ Incompatible avec :
 - Autres datapacks qui modifient le spawn RCT
 - Datapacks qui forcent la progression par série
+## 🔨 Génération de Nouveaux Trainers
+
+Ce datapack inclut un **script Python** (`generate_trainers.py`) pour générer automatiquement de nouveaux trainers avec :
+- Pokémon valides de Cobblemon (Gen 1-9)
+- Moves réels et équilibrés
+- EVs/IVs selon la catégorie
+- Held items stratégiques
+- Configuration AI adaptée
+
+Pour ajouter des trainers, modifiez `generate_trainers.py` et relancez : `python generate_trainers.py`
 
 ---
 
-**Version** : 2.0.0  
+**Version** : 2.1.0  
 **Type** : Override complet  
+**Trainers** : 158 (35+32+30+35+26)  
 **Date** : 28 Janvier 2026  
 
 ⚠️ **Utilisez ce datapack seulement si vous voulez REMPLACER le système RCT par défaut !**
