@@ -1,0 +1,6 @@
+{
+  "_comment": "Ce fichier désactive toutes les séries de progression de RCT",
+  "series": [],
+  "progression_enabled": false,
+  "force_random_spawn": true
+}

@@ -1,0 +1,30 @@
+{
+  "pool_id": "legendary_trainers",
+  "spawn_weight": 20,
+  "distance_range": {
+    "min": 40000,
+    "max": 999999
+  },
+  "level_range": {
+    "min": 70,
+    "max": 100
+  },
+  "spawn_chance": 0.008,
+  "trainers": [
+    "rct_override:champion_aurora",
+    "rct_override:legendary_master_lance",
+    "rct_override:frontier_brain_palmer"
+  ],
+  "spawn_conditions": {
+    "time_of_day": ["day", "night"],
+    "weather": ["clear", "rain", "thunder", "snow"],
+    "valid_biomes": [
+      "minecraft:mountain",
+      "minecraft:extreme_hills",
+      "minecraft:ice_spikes",
+      "minecraft:mushroom_fields",
+      "minecraft:dark_forest"
+    ],
+    "minimum_player_level": 60
+  }
+}

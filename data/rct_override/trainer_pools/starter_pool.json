@@ -1,0 +1,30 @@
+{
+  "pool_id": "starter_trainers",
+  "spawn_weight": 100,
+  "distance_range": {
+    "min": 0,
+    "max": 7500
+  },
+  "level_range": {
+    "min": 5,
+    "max": 15
+  },
+  "spawn_chance": 0.025,
+  "trainers": [
+    "rct_override:youngster_joey",
+    "rct_override:lass_anna",
+    "rct_override:camper_liam",
+    "rct_override:picnicker_emma",
+    "rct_override:bug_catcher_ben"
+  ],
+  "spawn_conditions": {
+    "time_of_day": ["day", "night"],
+    "weather": ["clear", "rain"],
+    "valid_biomes": [
+      "minecraft:plains",
+      "minecraft:forest",
+      "minecraft:taiga",
+      "minecraft:savanna"
+    ]
+  }
+}

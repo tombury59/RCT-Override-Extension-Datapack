@@ -1,0 +1,30 @@
+{
+  "trainer_spawning": {
+    "mode": "random",
+    "base_chance": 0.02,
+    "series_progression_enabled": false,
+    "level_scaling": {
+      "type": "distance_based",
+      "formula": "5 + floor(distance / 500)",
+      "min_level": 5,
+      "max_level": 100,
+      "distance_calculation": "manhattan"
+    },
+    "spawn_rules": {
+      "check_interval_ticks": 200,
+      "max_trainers_per_chunk": 1,
+      "min_distance_between_trainers": 100,
+      "despawn_delay_ticks": 24000,
+      "can_spawn_in_claimed_chunks": true
+    },
+    "biome_modifiers": {
+      "plains": 1.0,
+      "forest": 1.2,
+      "mountain": 0.8,
+      "desert": 0.7,
+      "ocean": 0.3,
+      "nether": 0.1,
+      "end": 0.05
+    }
+  }
+}

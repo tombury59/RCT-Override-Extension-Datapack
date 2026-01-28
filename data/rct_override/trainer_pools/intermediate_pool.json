@@ -1,0 +1,33 @@
+{
+  "pool_id": "intermediate_trainers",
+  "spawn_weight": 80,
+  "distance_range": {
+    "min": 7500,
+    "max": 20000
+  },
+  "level_range": {
+    "min": 20,
+    "max": 45
+  },
+  "spawn_chance": 0.020,
+  "trainers": [
+    "rct_override:ace_trainer_sophia",
+    "rct_override:cooltrainer_jake",
+    "rct_override:swimmer_marina",
+    "rct_override:hiker_eric",
+    "rct_override:beauty_isabella"
+  ],
+  "spawn_conditions": {
+    "time_of_day": ["day", "night"],
+    "weather": ["clear", "rain", "thunder"],
+    "valid_biomes": [
+      "minecraft:plains",
+      "minecraft:forest",
+      "minecraft:taiga",
+      "minecraft:savanna",
+      "minecraft:jungle",
+      "minecraft:desert",
+      "minecraft:mountain"
+    ]
+  }
+}

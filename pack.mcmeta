@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "§cRCT Override - Spawn Aléatoire\n§7Remplace la progression par série"
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "cobblemon",
+        "path": "trainers/series"
+      }
+    ]
+  }
+}

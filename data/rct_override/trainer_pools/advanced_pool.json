@@ -1,0 +1,31 @@
+{
+  "pool_id": "advanced_trainers",
+  "spawn_weight": 60,
+  "distance_range": {
+    "min": 20000,
+    "max": 40000
+  },
+  "level_range": {
+    "min": 45,
+    "max": 70
+  },
+  "spawn_chance": 0.015,
+  "trainers": [
+    "rct_override:veteran_klaus",
+    "rct_override:dragon_tamer_ryuu",
+    "rct_override:blackbelt_ken",
+    "rct_override:elite_four_lorelei"
+  ],
+  "spawn_conditions": {
+    "time_of_day": ["day", "night"],
+    "weather": ["clear", "rain", "thunder", "snow"],
+    "valid_biomes": [
+      "minecraft:mountain",
+      "minecraft:extreme_hills",
+      "minecraft:desert",
+      "minecraft:mesa",
+      "minecraft:ice_spikes",
+      "minecraft:snowy_taiga"
+    ]
+  }
+}
