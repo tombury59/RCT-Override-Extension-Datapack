@@ -1,0 +1,65 @@
+{
+  "name": "Ruin Maniac Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16090078944524547
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "meganium",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "brave",
+      "ability": "intimidate",
+      "moveset": [
+        "willowisp",
+        "solarbeam",
+        "earthquake",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "dragonrush",
+        "swordsdance",
+        "scratch",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "jolly",
+      "ability": "overgrow",
+      "moveset": [
+        "moonblast",
+        "closecombat",
+        "stunspore",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

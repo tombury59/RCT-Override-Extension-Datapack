@@ -1,0 +1,95 @@
+{
+  "name": "Champion Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10093733478300951
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 96,
+      "nature": "naughty",
+      "ability": "effectspore",
+      "moveset": [
+        "focusblast",
+        "zenheadbutt",
+        "growth",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 96,
+      "nature": "hardy",
+      "ability": "thickfat",
+      "moveset": [
+        "energyball",
+        "pound",
+        "quickattack",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "FEMALE",
+      "level": 97,
+      "nature": "docile",
+      "ability": "rockhead",
+      "moveset": [
+        "thunderbolt",
+        "ironhead",
+        "toxic",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 97,
+      "nature": "relaxed",
+      "ability": "waterabsorb",
+      "moveset": [
+        "calmmind",
+        "psybeam",
+        "megapunch",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "lax",
+      "ability": "static",
+      "moveset": [
+        "megapunch",
+        "growth",
+        "moonblast",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

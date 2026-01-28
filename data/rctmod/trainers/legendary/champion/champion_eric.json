@@ -1,0 +1,95 @@
+{
+  "name": "Champion Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19843596537283237
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "suicune",
+      "gender": "MALE",
+      "level": 97,
+      "nature": "lonely",
+      "ability": "sturdy",
+      "moveset": [
+        "hyperbeam",
+        "hydropump",
+        "earthquake",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aggron",
+      "gender": "FEMALE",
+      "level": 92,
+      "nature": "rash",
+      "ability": "syncronize",
+      "moveset": [
+        "earthquake",
+        "solarbeam",
+        "substitute",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "ember",
+        "detect",
+        "zenheadbutt",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 97,
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "substitute",
+        "gigaimpact",
+        "earthquake",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "substitute",
+        "quickattack",
+        "dragonpulse",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

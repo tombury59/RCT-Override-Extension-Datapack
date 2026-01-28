@@ -1,0 +1,65 @@
+{
+  "name": "Swimmer Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1823285141073512
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "timid",
+      "ability": "thickfat",
+      "moveset": [
+        "stealthrock",
+        "wildcharge",
+        "shadowclaw",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "timid",
+      "ability": "rockhead",
+      "moveset": [
+        "hyperbeam",
+        "stealthrock",
+        "wildcharge",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "mild",
+      "ability": "flashfire",
+      "moveset": [
+        "shadowclaw",
+        "recover",
+        "thundershock",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

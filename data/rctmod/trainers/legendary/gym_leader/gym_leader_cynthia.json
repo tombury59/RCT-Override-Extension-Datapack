@@ -1,0 +1,110 @@
+{
+  "name": "Gym Leader Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1686241349770691
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "naughty",
+      "ability": "thickfat",
+      "moveset": [
+        "hyperbeam",
+        "wildcharge",
+        "whirlwind",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aggron",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "hasty",
+      "ability": "blaze",
+      "moveset": [
+        "flamethrower",
+        "whirlwind",
+        "shadowclaw",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "careful",
+      "ability": "soundproof",
+      "moveset": [
+        "protect",
+        "thunderpunch",
+        "confusion",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 83,
+      "nature": "gentle",
+      "ability": "sturdy",
+      "moveset": [
+        "scratch",
+        "focusblast",
+        "stoneedge",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "flareblitz",
+        "energyball",
+        "takedown",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "calm",
+      "ability": "voltabsorb",
+      "moveset": [
+        "thunderpunch",
+        "surf",
+        "protect",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

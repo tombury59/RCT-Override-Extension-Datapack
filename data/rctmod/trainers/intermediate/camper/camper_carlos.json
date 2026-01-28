@@ -1,0 +1,95 @@
+{
+  "name": "Camper Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11622346225909319
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "lax",
+      "ability": "immunity",
+      "moveset": [
+        "dazzlinggleam",
+        "recover",
+        "wildcharge",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "sassy",
+      "ability": "sturdy",
+      "moveset": [
+        "megapunch",
+        "scratch",
+        "toxic",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "careful",
+      "ability": "blaze",
+      "moveset": [
+        "shadowclaw",
+        "confusion",
+        "sleeppowder",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "hardy",
+      "ability": "blaze",
+      "moveset": [
+        "roar",
+        "dragonrush",
+        "icebeam",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "sassy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "icepunch",
+        "substitute",
+        "tackle",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

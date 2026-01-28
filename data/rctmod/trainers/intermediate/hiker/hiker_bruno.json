@@ -1,0 +1,65 @@
+{
+  "name": "Hiker Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11936790283945786
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "snorlax",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "quirky",
+      "ability": "compoundeyes",
+      "moveset": [
+        "toxic",
+        "thunderpunch",
+        "quickattack",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "lax",
+      "ability": "pressure",
+      "moveset": [
+        "detect",
+        "thrash",
+        "blizzard",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "mild",
+      "ability": "waterabsorb",
+      "moveset": [
+        "earthquake",
+        "shadowclaw",
+        "roar",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

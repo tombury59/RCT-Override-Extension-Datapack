@@ -1,0 +1,80 @@
+{
+  "name": "Scientist Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1911227513559769
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "quiet",
+      "ability": "swarm",
+      "moveset": [
+        "roar",
+        "confusion",
+        "pound",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "mild",
+      "ability": "torrent",
+      "moveset": [
+        "calmmind",
+        "icepunch",
+        "shadowclaw",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "modest",
+      "ability": "effectspore",
+      "moveset": [
+        "psychic",
+        "whirlwind",
+        "quickattack",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "impish",
+      "ability": "torrent",
+      "moveset": [
+        "focusblast",
+        "nastyplot",
+        "megapunch",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

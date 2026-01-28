@@ -1,0 +1,65 @@
+{
+  "name": "Youngster Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16319749010062967
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zapdos",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "quirky",
+      "ability": "swarm",
+      "moveset": [
+        "closecombat",
+        "calmmind",
+        "ember",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "ember",
+        "scratch",
+        "detect",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "energyball",
+        "earthquake",
+        "stoneedge",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

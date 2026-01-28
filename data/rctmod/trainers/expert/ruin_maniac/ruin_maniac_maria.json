@@ -1,0 +1,65 @@
+{
+  "name": "Ruin Maniac Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18850907340760834
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aerodactyl",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "calm",
+      "ability": "intimidate",
+      "moveset": [
+        "focusblast",
+        "outrage",
+        "trickroom",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "lax",
+      "ability": "compoundeyes",
+      "moveset": [
+        "trickroom",
+        "flamethrower",
+        "pound",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "modest",
+      "ability": "soundproof",
+      "moveset": [
+        "doubleedge",
+        "growth",
+        "outrage",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

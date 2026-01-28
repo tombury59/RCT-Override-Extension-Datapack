@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17832653343337174
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "sassy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "icebeam",
+        "takedown",
+        "stunspore",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "quiet",
+      "ability": "rockhead",
+      "moveset": [
+        "calmmind",
+        "bodyslam",
+        "fireblast",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "growth",
+        "tackle",
+        "solarbeam",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "lax",
+      "ability": "waterabsorb",
+      "moveset": [
+        "outrage",
+        "solarbeam",
+        "dragonrush",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "lax",
+      "ability": "intimidate",
+      "moveset": [
+        "sleeppowder",
+        "fireblast",
+        "flareblitz",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1610347332173424
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "quirky",
+      "ability": "torrent",
+      "moveset": [
+        "ironhead",
+        "outrage",
+        "toxic",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "lax",
+      "ability": "innerfocus",
+      "moveset": [
+        "darkpulse",
+        "bodyslam",
+        "crunch",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "careful",
+      "ability": "syncronize",
+      "moveset": [
+        "nastyplot",
+        "watergun",
+        "hyperbeam",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

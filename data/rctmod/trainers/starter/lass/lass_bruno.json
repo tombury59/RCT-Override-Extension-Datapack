@@ -1,0 +1,35 @@
+{
+  "name": "Lass Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10055287337052056
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "calm",
+      "ability": "intimidate",
+      "moveset": [
+        "whirlwind",
+        "stoneedge",
+        "doubleedge",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Cooltrainer Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15229551792336965
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "naive",
+      "ability": "immunity",
+      "moveset": [
+        "bodyslam",
+        "dazzlinggleam",
+        "trickroom",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "tailwind",
+        "shadowclaw",
+        "thunderbolt",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "quiet",
+      "ability": "soundproof",
+      "moveset": [
+        "thunderpunch",
+        "airslash",
+        "recover",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

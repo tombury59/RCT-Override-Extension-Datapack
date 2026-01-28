@@ -1,0 +1,65 @@
+{
+  "name": "Ruin Maniac Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12581261447202108
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "naive",
+      "ability": "keeneye",
+      "moveset": [
+        "takedown",
+        "thrash",
+        "icebeam",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "calm",
+      "ability": "innerfocus",
+      "moveset": [
+        "hyperbeam",
+        "takedown",
+        "watergun",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "bashful",
+      "ability": "syncronize",
+      "moveset": [
+        "shadowball",
+        "gigaimpact",
+        "icepunch",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

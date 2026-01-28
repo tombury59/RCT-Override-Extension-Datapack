@@ -1,0 +1,65 @@
+{
+  "name": "Hiker Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10301300800696155
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "lax",
+      "ability": "thickfat",
+      "moveset": [
+        "takedown",
+        "trickroom",
+        "watergun",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "sassy",
+      "ability": "thickfat",
+      "moveset": [
+        "growth",
+        "thrash",
+        "ironhead",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "trickroom",
+        "wildcharge",
+        "megapunch",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

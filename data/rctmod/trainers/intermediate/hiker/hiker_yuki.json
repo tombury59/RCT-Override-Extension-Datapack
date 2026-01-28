@@ -1,0 +1,95 @@
+{
+  "name": "Hiker Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18008647382571327
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "takedown",
+        "toxic",
+        "outrage",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "careful",
+      "ability": "keeneye",
+      "moveset": [
+        "psychic",
+        "thunderpunch",
+        "firepunch",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "lonely",
+      "ability": "levitate",
+      "moveset": [
+        "crunch",
+        "shadowball",
+        "nastyplot",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "relaxed",
+      "ability": "keeneye",
+      "moveset": [
+        "hyperbeam",
+        "recover",
+        "flashcannon",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "quiet",
+      "ability": "innerfocus",
+      "moveset": [
+        "fireblast",
+        "earthquake",
+        "ironhead",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

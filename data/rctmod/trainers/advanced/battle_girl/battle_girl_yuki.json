@@ -1,0 +1,50 @@
+{
+  "name": "Battle Girl Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10316342930782198
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "lonely",
+      "ability": "compoundeyes",
+      "moveset": [
+        "outrage",
+        "willowisp",
+        "flamethrower",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "watergun",
+        "flareblitz",
+        "sleeppowder",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Gym Leader Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1111224641177289
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "reshiram",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "quirky",
+      "ability": "flashfire",
+      "moveset": [
+        "willowisp",
+        "ironhead",
+        "firepunch",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "careful",
+      "ability": "keeneye",
+      "moveset": [
+        "hydropump",
+        "recover",
+        "quickattack",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "lonely",
+      "ability": "flashfire",
+      "moveset": [
+        "earthquake",
+        "thundershock",
+        "gigaimpact",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "mild",
+      "ability": "static",
+      "moveset": [
+        "megapunch",
+        "tailwind",
+        "doubleedge",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "wildcharge",
+        "swordsdance",
+        "thrash",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "stoneedge",
+        "stunspore",
+        "icebeam",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

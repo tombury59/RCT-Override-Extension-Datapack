@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1675832916803741
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "quirky",
+      "ability": "voltabsorb",
+      "moveset": [
+        "flareblitz",
+        "moonblast",
+        "trickroom",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "gentle",
+      "ability": "voltabsorb",
+      "moveset": [
+        "stoneedge",
+        "thunderwave",
+        "thrash",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "MALE",
+      "level": 61,
+      "nature": "hardy",
+      "ability": "pressure",
+      "moveset": [
+        "firepunch",
+        "bodyslam",
+        "willowisp",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "quirky",
+      "ability": "thickfat",
+      "moveset": [
+        "ember",
+        "ironhead",
+        "substitute",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "adamant",
+      "ability": "immunity",
+      "moveset": [
+        "earthquake",
+        "sleeppowder",
+        "zenheadbutt",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

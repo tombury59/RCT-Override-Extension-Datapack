@@ -1,0 +1,80 @@
+{
+  "name": "Beauty Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1131219395107152
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "bashful",
+      "ability": "static",
+      "moveset": [
+        "nastyplot",
+        "dragonrush",
+        "crunch",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "lonely",
+      "ability": "levitate",
+      "moveset": [
+        "thunderpunch",
+        "recover",
+        "megakick",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "rest",
+        "thrash",
+        "flareblitz",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "lax",
+      "ability": "rockhead",
+      "moveset": [
+        "scratch",
+        "protect",
+        "focusblast",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

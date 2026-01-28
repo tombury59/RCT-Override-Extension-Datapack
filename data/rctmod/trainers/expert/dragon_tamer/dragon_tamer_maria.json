@@ -1,0 +1,95 @@
+{
+  "name": "Dragon Tamer Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19715146386308036
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "registeel",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "confusion",
+        "doubleedge",
+        "closecombat",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "brave",
+      "ability": "immunity",
+      "moveset": [
+        "bodyslam",
+        "detect",
+        "stoneedge",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "modest",
+      "ability": "effectspore",
+      "moveset": [
+        "dragonpulse",
+        "crunch",
+        "protect",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aggron",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "rash",
+      "ability": "innerfocus",
+      "moveset": [
+        "stunspore",
+        "pound",
+        "ironhead",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "mild",
+      "ability": "effectspore",
+      "moveset": [
+        "closecombat",
+        "substitute",
+        "solarbeam",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15538480882489986
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tyranitar",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "bashful",
+      "ability": "effectspore",
+      "moveset": [
+        "firepunch",
+        "airslash",
+        "nastyplot",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "brave",
+      "ability": "torrent",
+      "moveset": [
+        "firepunch",
+        "calmmind",
+        "thunder",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "FEMALE",
+      "level": 81,
+      "nature": "naive",
+      "ability": "static",
+      "moveset": [
+        "crunch",
+        "trickroom",
+        "tackle",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 82,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "megakick",
+        "stoneedge",
+        "icebeam",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 81,
+      "nature": "quiet",
+      "ability": "torrent",
+      "moveset": [
+        "stunspore",
+        "firepunch",
+        "hydropump",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

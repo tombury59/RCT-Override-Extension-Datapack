@@ -1,0 +1,65 @@
+{
+  "name": "Pok\u00e9mon Ranger Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18114819350194666
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "protect",
+        "firepunch",
+        "flashcannon",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "serious",
+      "ability": "torrent",
+      "moveset": [
+        "wildcharge",
+        "icepunch",
+        "detect",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "brave",
+      "ability": "soundproof",
+      "moveset": [
+        "growth",
+        "quickattack",
+        "confusion",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

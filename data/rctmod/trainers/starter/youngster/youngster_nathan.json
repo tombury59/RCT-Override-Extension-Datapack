@@ -1,0 +1,35 @@
+{
+  "name": "Youngster Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17455277522827353
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "wartortle",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "doubleedge",
+        "willowisp",
+        "vinewhip",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

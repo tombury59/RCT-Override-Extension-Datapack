@@ -1,0 +1,95 @@
+{
+  "name": "Blackbelt Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1586075193168236
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "quirky",
+      "ability": "overgrow",
+      "moveset": [
+        "confusion",
+        "zenheadbutt",
+        "stunspore",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "lonely",
+      "ability": "keeneye",
+      "moveset": [
+        "psybeam",
+        "tackle",
+        "swordsdance",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "scratch",
+        "shadowball",
+        "flareblitz",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "rash",
+      "ability": "blaze",
+      "moveset": [
+        "airslash",
+        "shadowclaw",
+        "recover",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "naughty",
+      "ability": "overgrow",
+      "moveset": [
+        "closecombat",
+        "psychic",
+        "stunspore",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

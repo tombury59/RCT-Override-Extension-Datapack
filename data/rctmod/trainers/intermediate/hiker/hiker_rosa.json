@@ -1,0 +1,35 @@
+{
+  "name": "Hiker Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1220000567068975
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "relaxed",
+      "ability": "compoundeyes",
+      "moveset": [
+        "megapunch",
+        "trickroom",
+        "thunder",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

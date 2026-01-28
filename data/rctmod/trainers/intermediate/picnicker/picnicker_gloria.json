@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16487061689417748
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "calm",
+      "ability": "voltabsorb",
+      "moveset": [
+        "solarbeam",
+        "growth",
+        "doubleedge",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "naive",
+      "ability": "levitate",
+      "moveset": [
+        "zenheadbutt",
+        "gigaimpact",
+        "whirlwind",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "lax",
+      "ability": "effectspore",
+      "moveset": [
+        "focusblast",
+        "takedown",
+        "thunderwave",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

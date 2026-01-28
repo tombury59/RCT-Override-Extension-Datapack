@@ -585,52 +585,52 @@ def main():
     # NIVEAU DÉBUTANT (5-20)
     # ========================================================================
     print("\n🌱 GÉNÉRATION DES DRESSEURS DÉBUTANTS (5-20)")
-    generate("YOUNGSTER", 5, 12, 20, output_dir="data/rct_trainers/trainers/starter/youngster")
-    generate("LASS", 5, 12, 20, output_dir="data/rct_trainers/trainers/starter/lass")
-    generate("BUG_CATCHER", 8, 15, 20, output_dir="data/rct_trainers/trainers/starter/bug_catcher")
-    generate("SCHOOLBOY", 10, 18, 20, output_dir="data/rct_trainers/trainers/starter/schoolboy")
+    generate("YOUNGSTER", 5, 12, 20, output_dir="data/rctmod/trainers/starter/youngster")
+    generate("LASS", 5, 12, 20, output_dir="data/rctmod/trainers/starter/lass")
+    generate("BUG_CATCHER", 8, 15, 20, output_dir="data/rctmod/trainers/starter/bug_catcher")
+    generate("SCHOOLBOY", 10, 18, 20, output_dir="data/rctmod/trainers/starter/schoolboy")
     
     # ========================================================================
     # NIVEAU INTERMÉDIAIRE (20-40)
     # ========================================================================
     print("\n⚡ GÉNÉRATION DES DRESSEURS INTERMÉDIAIRES (20-40)")
-    generate("CAMPER", 20, 30, 20, output_dir="data/rct_trainers/trainers/intermediate/camper")
-    generate("PICNICKER", 20, 30, 20, output_dir="data/rct_trainers/trainers/intermediate/picnicker")
-    generate("HIKER", 22, 35, 20, output_dir="data/rct_trainers/trainers/intermediate/hiker")
-    generate("FISHERMAN", 22, 35, 20, output_dir="data/rct_trainers/trainers/intermediate/fisherman")
-    generate("BEAUTY", 25, 38, 20, output_dir="data/rct_trainers/trainers/intermediate/beauty")
-    generate("SWIMMER", 25, 38, 20, output_dir="data/rct_trainers/trainers/intermediate/swimmer")
+    generate("CAMPER", 20, 30, 20, output_dir="data/rctmod/trainers/intermediate/camper")
+    generate("PICNICKER", 20, 30, 20, output_dir="data/rctmod/trainers/intermediate/picnicker")
+    generate("HIKER", 22, 35, 20, output_dir="data/rctmod/trainers/intermediate/hiker")
+    generate("FISHERMAN", 22, 35, 20, output_dir="data/rctmod/trainers/intermediate/fisherman")
+    generate("BEAUTY", 25, 38, 20, output_dir="data/rctmod/trainers/intermediate/beauty")
+    generate("SWIMMER", 25, 38, 20, output_dir="data/rctmod/trainers/intermediate/swimmer")
     
     # ========================================================================
     # NIVEAU AVANCÉ (40-60)
     # ========================================================================
     print("\n🔥 GÉNÉRATION DES DRESSEURS AVANCÉS (40-60)")
-    generate("ACE_TRAINER", 40, 55, 20, output_dir="data/rct_trainers/trainers/advanced/ace_trainer")
-    generate("COOLTRAINER", 42, 55, 20, output_dir="data/rct_trainers/trainers/advanced/cooltrainer")
-    generate("BLACKBELT", 40, 58, 20, output_dir="data/rct_trainers/trainers/advanced/blackbelt")
-    generate("BATTLE_GIRL", 40, 58, 20, output_dir="data/rct_trainers/trainers/advanced/battle_girl")
-    generate("PSYCHIC", 42, 56, 20, output_dir="data/rct_trainers/trainers/advanced/psychic")
-    generate("SCIENTIST", 38, 52, 20, output_dir="data/rct_trainers/trainers/advanced/scientist")
-    generate("BIRD_KEEPER", 40, 55, 20, output_dir="data/rct_trainers/trainers/advanced/bird_keeper")
+    generate("ACE_TRAINER", 40, 55, 20, output_dir="data/rctmod/trainers/advanced/ace_trainer")
+    generate("COOLTRAINER", 42, 55, 20, output_dir="data/rctmod/trainers/advanced/cooltrainer")
+    generate("BLACKBELT", 40, 58, 20, output_dir="data/rctmod/trainers/advanced/blackbelt")
+    generate("BATTLE_GIRL", 40, 58, 20, output_dir="data/rctmod/trainers/advanced/battle_girl")
+    generate("PSYCHIC", 42, 56, 20, output_dir="data/rctmod/trainers/advanced/psychic")
+    generate("SCIENTIST", 38, 52, 20, output_dir="data/rctmod/trainers/advanced/scientist")
+    generate("BIRD_KEEPER", 40, 55, 20, output_dir="data/rctmod/trainers/advanced/bird_keeper")
     
     # ========================================================================
     # NIVEAU EXPERT (60-80)
     # ========================================================================
     print("\n💪 GÉNÉRATION DES DRESSEURS EXPERTS (60-80)")
-    generate("VETERAN", 60, 75, 20, output_dir="data/rct_trainers/trainers/expert/veteran")
-    generate("DRAGON_TAMER", 65, 78, 20, output_dir="data/rct_trainers/trainers/expert/dragon_tamer")
-    generate("POKEMON_RANGER", 62, 75, 20, output_dir="data/rct_trainers/trainers/expert/pokemon_ranger")
-    generate("POKEMON_BREEDER", 60, 72, 20, output_dir="data/rct_trainers/trainers/expert/pokemon_breeder")
-    generate("NINJA", 64, 78, 20, output_dir="data/rct_trainers/trainers/expert/ninja")
-    generate("RUIN_MANIAC", 62, 76, 20, output_dir="data/rct_trainers/trainers/expert/ruin_maniac")
+    generate("VETERAN", 60, 75, 20, output_dir="data/rctmod/trainers/expert/veteran")
+    generate("DRAGON_TAMER", 65, 78, 20, output_dir="data/rctmod/trainers/expert/dragon_tamer")
+    generate("POKEMON_RANGER", 62, 75, 20, output_dir="data/rctmod/trainers/expert/pokemon_ranger")
+    generate("POKEMON_BREEDER", 60, 72, 20, output_dir="data/rctmod/trainers/expert/pokemon_breeder")
+    generate("NINJA", 64, 78, 20, output_dir="data/rctmod/trainers/expert/ninja")
+    generate("RUIN_MANIAC", 62, 76, 20, output_dir="data/rctmod/trainers/expert/ruin_maniac")
     
     # ========================================================================
     # NIVEAU LÉGENDAIRE (80-100)
     # ========================================================================
     print("\n👑 GÉNÉRATION DES DRESSEURS LÉGENDAIRES (80-100)")
-    generate("GYM_LEADER", 80, 90, 20, output_dir="data/rct_trainers/trainers/legendary/gym_leader")
-    generate("ELITE_FOUR", 85, 95, 20, output_dir="data/rct_trainers/trainers/legendary/elite_four")
-    generate("CHAMPION", 90, 100, 20, output_dir="data/rct_trainers/trainers/legendary/champion")
+    generate("GYM_LEADER", 80, 90, 20, output_dir="data/rctmod/trainers/legendary/gym_leader")
+    generate("ELITE_FOUR", 85, 95, 20, output_dir="data/rctmod/trainers/legendary/elite_four")
+    generate("CHAMPION", 90, 100, 20, output_dir="data/rctmod/trainers/legendary/champion")
     
     print("\n" + "=" * 60)
     print("✅ GÉNÉRATION COMPLÈTE TERMINÉE!")

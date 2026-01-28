@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18969605555749994
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "rash",
+      "ability": "thickfat",
+      "moveset": [
+        "substitute",
+        "energyball",
+        "gigaimpact",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "airslash",
+        "ironhead",
+        "recover",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "serious",
+      "ability": "torrent",
+      "moveset": [
+        "willowisp",
+        "pound",
+        "thrash",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "naive",
+      "ability": "levitate",
+      "moveset": [
+        "wildcharge",
+        "willowisp",
+        "hyperbeam",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "doubleedge",
+        "energyball",
+        "swordsdance",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

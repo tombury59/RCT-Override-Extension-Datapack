@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11581521772163667
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "quiet",
+      "ability": "intimidate",
+      "moveset": [
+        "stunspore",
+        "thunder",
+        "wildcharge",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "adamant",
+      "ability": "waterabsorb",
+      "moveset": [
+        "darkpulse",
+        "roar",
+        "bodyslam",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "FEMALE",
+      "level": 78,
+      "nature": "naive",
+      "ability": "overgrow",
+      "moveset": [
+        "ironhead",
+        "vinewhip",
+        "crunch",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "hardy",
+      "ability": "syncronize",
+      "moveset": [
+        "takedown",
+        "flashcannon",
+        "willowisp",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "nastyplot",
+        "psychic",
+        "quickattack",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

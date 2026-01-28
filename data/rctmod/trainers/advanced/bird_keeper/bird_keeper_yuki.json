@@ -1,0 +1,50 @@
+{
+  "name": "Bird Keeper Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16762948008939976
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "serious",
+      "ability": "thickfat",
+      "moveset": [
+        "thrash",
+        "thunder",
+        "swordsdance",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "jolly",
+      "ability": "waterabsorb",
+      "moveset": [
+        "bodyslam",
+        "ember",
+        "megakick",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

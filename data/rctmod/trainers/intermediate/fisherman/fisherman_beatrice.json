@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1524405494629547
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "gentle",
+      "ability": "innerfocus",
+      "moveset": [
+        "surf",
+        "tackle",
+        "dragonrush",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "lonely",
+      "ability": "pressure",
+      "moveset": [
+        "darkpulse",
+        "stoneedge",
+        "nastyplot",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "naughty",
+      "ability": "flashfire",
+      "moveset": [
+        "stoneedge",
+        "trickroom",
+        "scratch",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

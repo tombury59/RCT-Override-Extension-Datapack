@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14974485357149048
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "bold",
+      "ability": "syncronize",
+      "moveset": [
+        "stoneedge",
+        "thunderwave",
+        "outrage",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 61,
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "agility",
+        "dragonrush",
+        "focusblast",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "docile",
+      "ability": "soundproof",
+      "moveset": [
+        "stunspore",
+        "pound",
+        "crunch",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "rash",
+      "ability": "static",
+      "moveset": [
+        "flashcannon",
+        "takedown",
+        "protect",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "hardy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thunderwave",
+        "airslash",
+        "icepunch",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Cooltrainer Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18949139986440444
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "rash",
+      "ability": "pressure",
+      "moveset": [
+        "outrage",
+        "ironhead",
+        "thunderwave",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "sassy",
+      "ability": "soundproof",
+      "moveset": [
+        "shadowclaw",
+        "megapunch",
+        "recover",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "timid",
+      "ability": "sturdy",
+      "moveset": [
+        "moonblast",
+        "flareblitz",
+        "trickroom",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

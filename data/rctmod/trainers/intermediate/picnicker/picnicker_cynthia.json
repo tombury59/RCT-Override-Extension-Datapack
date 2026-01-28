@@ -1,0 +1,35 @@
+{
+  "name": "Picnicker Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19131107178230813
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "impish",
+      "ability": "effectspore",
+      "moveset": [
+        "firepunch",
+        "vinewhip",
+        "nastyplot",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Ace Trainer Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14160268046508662
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "hasty",
+      "ability": "torrent",
+      "moveset": [
+        "thrash",
+        "fireblast",
+        "substitute",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "brave",
+      "ability": "voltabsorb",
+      "moveset": [
+        "roar",
+        "tackle",
+        "ember",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "roar",
+        "dragonpulse",
+        "dragonrush",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blastoise",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "quiet",
+      "ability": "syncronize",
+      "moveset": [
+        "quickattack",
+        "flareblitz",
+        "watergun",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Bird Keeper Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13048202889085053
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "lonely",
+      "ability": "levitate",
+      "moveset": [
+        "sleeppowder",
+        "bodyslam",
+        "icebeam",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "calm",
+      "ability": "innerfocus",
+      "moveset": [
+        "flamethrower",
+        "scratch",
+        "zenheadbutt",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "lonely",
+      "ability": "intimidate",
+      "moveset": [
+        "dragonrush",
+        "icebeam",
+        "trickroom",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

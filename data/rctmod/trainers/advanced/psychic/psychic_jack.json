@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1361183053913166
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aggron",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "naive",
+      "ability": "voltabsorb",
+      "moveset": [
+        "dragonrush",
+        "quickattack",
+        "agility",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "serious",
+      "ability": "intimidate",
+      "moveset": [
+        "roar",
+        "closecombat",
+        "megakick",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "gentle",
+      "ability": "immunity",
+      "moveset": [
+        "firepunch",
+        "toxic",
+        "flamethrower",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10039190420808193
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "quirky",
+      "ability": "static",
+      "moveset": [
+        "pound",
+        "thunderwave",
+        "hyperbeam",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "calm",
+      "ability": "keeneye",
+      "moveset": [
+        "takedown",
+        "thunderpunch",
+        "flashcannon",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "gentle",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderpunch",
+        "growth",
+        "doubleedge",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "quirky",
+      "ability": "blaze",
+      "moveset": [
+        "megakick",
+        "psychic",
+        "crunch",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "protect",
+        "tackle",
+        "moonblast",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

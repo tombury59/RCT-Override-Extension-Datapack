@@ -1,0 +1,80 @@
+{
+  "name": "Veteran Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1588196656717036
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "lax",
+      "ability": "swarm",
+      "moveset": [
+        "bodyslam",
+        "trickroom",
+        "focusblast",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "lax",
+      "ability": "thickfat",
+      "moveset": [
+        "shadowclaw",
+        "thrash",
+        "growth",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "rash",
+      "ability": "swarm",
+      "moveset": [
+        "roar",
+        "confusion",
+        "flareblitz",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "impish",
+      "ability": "immunity",
+      "moveset": [
+        "doubleedge",
+        "nastyplot",
+        "ember",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

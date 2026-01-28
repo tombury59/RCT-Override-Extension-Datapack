@@ -1,0 +1,35 @@
+{
+  "name": "Camper Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17768787692000806
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "calm",
+      "ability": "intimidate",
+      "moveset": [
+        "blizzard",
+        "shadowclaw",
+        "wildcharge",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

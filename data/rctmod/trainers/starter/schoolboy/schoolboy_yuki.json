@@ -1,0 +1,35 @@
+{
+  "name": "Schoolboy Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11979272913055762
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 18,
+      "nature": "careful",
+      "ability": "soundproof",
+      "moveset": [
+        "substitute",
+        "stoneedge",
+        "vinewhip",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Dragon Tamer Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14085713361988011
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "adamant",
+      "ability": "compoundeyes",
+      "moveset": [
+        "crunch",
+        "shadowball",
+        "toxic",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "serious",
+      "ability": "torrent",
+      "moveset": [
+        "shadowball",
+        "nastyplot",
+        "takedown",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "bold",
+      "ability": "thickfat",
+      "moveset": [
+        "dazzlinggleam",
+        "scratch",
+        "rest",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "hasty",
+      "ability": "flashfire",
+      "moveset": [
+        "wildcharge",
+        "calmmind",
+        "confusion",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "growth",
+        "energyball",
+        "scratch",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

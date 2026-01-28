@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14220418238247168
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "quirky",
+      "ability": "overgrow",
+      "moveset": [
+        "psychic",
+        "stoneedge",
+        "toxic",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "dragonpulse",
+        "agility",
+        "crunch",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "adamant",
+      "ability": "compoundeyes",
+      "moveset": [
+        "bodyslam",
+        "solarbeam",
+        "icepunch",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "bashful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "darkpulse",
+        "thrash",
+        "wildcharge",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "careful",
+      "ability": "rockhead",
+      "moveset": [
+        "shadowclaw",
+        "whirlwind",
+        "firepunch",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Dragon Tamer Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.178965751593977
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "docile",
+      "ability": "immunity",
+      "moveset": [
+        "protect",
+        "thunderpunch",
+        "airslash",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "impish",
+      "ability": "immunity",
+      "moveset": [
+        "takedown",
+        "outrage",
+        "ember",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "relaxed",
+      "ability": "compoundeyes",
+      "moveset": [
+        "dragonpulse",
+        "sleeppowder",
+        "takedown",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "hardy",
+      "ability": "blaze",
+      "moveset": [
+        "gigaimpact",
+        "roar",
+        "takedown",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "mild",
+      "ability": "overgrow",
+      "moveset": [
+        "hydropump",
+        "tailwind",
+        "gigaimpact",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

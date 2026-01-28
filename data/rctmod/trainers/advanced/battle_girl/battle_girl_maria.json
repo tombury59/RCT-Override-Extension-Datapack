@@ -1,0 +1,80 @@
+{
+  "name": "Battle Girl Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10399709077939658
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "quirky",
+      "ability": "static",
+      "moveset": [
+        "icebeam",
+        "whirlwind",
+        "pound",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "hardy",
+      "ability": "pressure",
+      "moveset": [
+        "firepunch",
+        "shadowclaw",
+        "detect",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "lonely",
+      "ability": "sturdy",
+      "moveset": [
+        "tackle",
+        "rest",
+        "takedown",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "mild",
+      "ability": "effectspore",
+      "moveset": [
+        "bodyslam",
+        "tackle",
+        "thunderwave",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

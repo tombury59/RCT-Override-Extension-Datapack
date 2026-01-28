@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1087666852617662
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "careful",
+      "ability": "rockhead",
+      "moveset": [
+        "detect",
+        "thrash",
+        "scratch",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "gentle",
+      "ability": "intimidate",
+      "moveset": [
+        "flashcannon",
+        "growth",
+        "megapunch",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "modest",
+      "ability": "intimidate",
+      "moveset": [
+        "gigaimpact",
+        "shadowclaw",
+        "solarbeam",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "naive",
+      "ability": "soundproof",
+      "moveset": [
+        "confusion",
+        "thunderpunch",
+        "doubleedge",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "lax",
+      "ability": "soundproof",
+      "moveset": [
+        "calmmind",
+        "scratch",
+        "quickattack",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 94,
+      "nature": "mild",
+      "ability": "flashfire",
+      "moveset": [
+        "sleeppowder",
+        "icepunch",
+        "fireblast",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

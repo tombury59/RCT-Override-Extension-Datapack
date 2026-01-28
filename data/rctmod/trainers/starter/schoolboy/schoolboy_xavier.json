@@ -1,0 +1,35 @@
+{
+  "name": "Schoolboy Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11049835673495878
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 16,
+      "nature": "modest",
+      "ability": "swarm",
+      "moveset": [
+        "sleeppowder",
+        "takedown",
+        "solarbeam",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

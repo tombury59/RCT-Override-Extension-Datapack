@@ -1,0 +1,95 @@
+{
+  "name": "Champion Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14087237079776338
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 94,
+      "nature": "relaxed",
+      "ability": "pressure",
+      "moveset": [
+        "thunder",
+        "scratch",
+        "tailwind",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 99,
+      "nature": "hardy",
+      "ability": "effectspore",
+      "moveset": [
+        "energyball",
+        "megapunch",
+        "tackle",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 96,
+      "nature": "brave",
+      "ability": "blaze",
+      "moveset": [
+        "megapunch",
+        "dragonrush",
+        "hydropump",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 99,
+      "nature": "impish",
+      "ability": "soundproof",
+      "moveset": [
+        "thunder",
+        "crunch",
+        "willowisp",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 98,
+      "nature": "bold",
+      "ability": "pressure",
+      "moveset": [
+        "bodyslam",
+        "dragonrush",
+        "agility",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

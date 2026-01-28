@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11785310972658605
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "bashful",
+      "ability": "blaze",
+      "moveset": [
+        "thunderpunch",
+        "earthquake",
+        "moonblast",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "MALE",
+      "level": 81,
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "thunderpunch",
+        "earthquake",
+        "energyball",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 84,
+      "nature": "hardy",
+      "ability": "innerfocus",
+      "moveset": [
+        "shadowball",
+        "rest",
+        "icepunch",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "airslash",
+        "scratch",
+        "wildcharge",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "sassy",
+      "ability": "soundproof",
+      "moveset": [
+        "shadowclaw",
+        "tailwind",
+        "icebeam",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

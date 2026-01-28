@@ -1,0 +1,65 @@
+{
+  "name": "Youngster Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12907047402010471
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "MALE",
+      "level": 11,
+      "nature": "lax",
+      "ability": "intimidate",
+      "moveset": [
+        "nastyplot",
+        "quickattack",
+        "flamethrower",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "lonely",
+      "ability": "levitate",
+      "moveset": [
+        "calmmind",
+        "blizzard",
+        "stoneedge",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 6,
+      "nature": "relaxed",
+      "ability": "effectspore",
+      "moveset": [
+        "closecombat",
+        "psybeam",
+        "growth",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

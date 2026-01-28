@@ -1,0 +1,65 @@
+{
+  "name": "Scientist Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18836936821741787
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "serious",
+      "ability": "thickfat",
+      "moveset": [
+        "flareblitz",
+        "icepunch",
+        "stealthrock",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "modest",
+      "ability": "blaze",
+      "moveset": [
+        "firepunch",
+        "bodyslam",
+        "agility",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "gentle",
+      "ability": "intimidate",
+      "moveset": [
+        "toxic",
+        "thunder",
+        "scratch",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

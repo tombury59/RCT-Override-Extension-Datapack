@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15334722526365868
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "mild",
+      "ability": "waterabsorb",
+      "moveset": [
+        "ironhead",
+        "moonblast",
+        "doubleedge",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "mild",
+      "ability": "intimidate",
+      "moveset": [
+        "crunch",
+        "sleeppowder",
+        "doubleedge",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

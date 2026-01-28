@@ -1,0 +1,65 @@
+{
+  "name": "Scientist Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18727239487133973
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regice",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "impish",
+      "ability": "immunity",
+      "moveset": [
+        "solarbeam",
+        "outrage",
+        "calmmind",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "quickattack",
+        "moonblast",
+        "growth",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "lax",
+      "ability": "static",
+      "moveset": [
+        "thunderpunch",
+        "thrash",
+        "agility",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

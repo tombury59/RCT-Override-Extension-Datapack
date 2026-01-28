@@ -1,0 +1,65 @@
+{
+  "name": "Camper Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16719675568604048
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "careful",
+      "ability": "syncronize",
+      "moveset": [
+        "surf",
+        "agility",
+        "outrage",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "hardy",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thunder",
+        "outrage",
+        "pound",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "modest",
+      "ability": "effectspore",
+      "moveset": [
+        "scratch",
+        "energyball",
+        "toxic",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Cooltrainer Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10805334125292099
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "quiet",
+      "ability": "syncronize",
+      "moveset": [
+        "icepunch",
+        "pound",
+        "flashcannon",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "lonely",
+      "ability": "pressure",
+      "moveset": [
+        "outrage",
+        "shadowclaw",
+        "protect",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "timid",
+      "ability": "syncronize",
+      "moveset": [
+        "fireblast",
+        "quickattack",
+        "substitute",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

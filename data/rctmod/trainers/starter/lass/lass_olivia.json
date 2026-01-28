@@ -1,0 +1,35 @@
+{
+  "name": "Lass Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11920982589885194
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 10,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "recover",
+        "flareblitz",
+        "darkpulse",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

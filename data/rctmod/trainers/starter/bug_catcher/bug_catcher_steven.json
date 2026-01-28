@@ -1,0 +1,35 @@
+{
+  "name": "Bug Catcher Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1883682655505305
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raikou",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "hasty",
+      "ability": "voltabsorb",
+      "moveset": [
+        "blizzard",
+        "wildcharge",
+        "calmmind",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

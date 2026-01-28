@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1278579644314975
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "dazzlinggleam",
+        "quickattack",
+        "pound",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "serious",
+      "ability": "flashfire",
+      "moveset": [
+        "icepunch",
+        "pound",
+        "toxic",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "jolly",
+      "ability": "voltabsorb",
+      "moveset": [
+        "rest",
+        "earthquake",
+        "thrash",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

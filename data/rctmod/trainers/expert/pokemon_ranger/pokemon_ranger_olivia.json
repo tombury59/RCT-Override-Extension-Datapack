@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Ranger Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19001373200465532
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "sassy",
+      "ability": "effectspore",
+      "moveset": [
+        "flashcannon",
+        "icepunch",
+        "thrash",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "calm",
+      "ability": "compoundeyes",
+      "moveset": [
+        "megakick",
+        "thunder",
+        "stealthrock",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "naive",
+      "ability": "soundproof",
+      "moveset": [
+        "vinewhip",
+        "takedown",
+        "closecombat",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "docile",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thundershock",
+        "tailwind",
+        "hyperbeam",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "ironhead",
+        "substitute",
+        "vinewhip",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "quiet",
+      "ability": "pressure",
+      "moveset": [
+        "icepunch",
+        "dragonpulse",
+        "bodyslam",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

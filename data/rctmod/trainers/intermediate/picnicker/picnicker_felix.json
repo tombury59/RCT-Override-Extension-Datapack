@@ -1,0 +1,50 @@
+{
+  "name": "Picnicker Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11977584766258485
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "timid",
+      "ability": "soundproof",
+      "moveset": [
+        "moonblast",
+        "zenheadbutt",
+        "trickroom",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "quirky",
+      "ability": "effectspore",
+      "moveset": [
+        "sleeppowder",
+        "scratch",
+        "flareblitz",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

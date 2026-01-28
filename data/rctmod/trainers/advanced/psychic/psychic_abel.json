@@ -1,0 +1,95 @@
+{
+  "name": "Psychic Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1544627199522977
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "impish",
+      "ability": "overgrow",
+      "moveset": [
+        "swordsdance",
+        "megapunch",
+        "thundershock",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "takedown",
+        "stoneedge",
+        "trickroom",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "stunspore",
+        "thunder",
+        "shadowclaw",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "lonely",
+      "ability": "voltabsorb",
+      "moveset": [
+        "ironhead",
+        "willowisp",
+        "vinewhip",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "sassy",
+      "ability": "overgrow",
+      "moveset": [
+        "watergun",
+        "protect",
+        "hyperbeam",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Ace Trainer Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13544399149638242
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "docile",
+      "ability": "overgrow",
+      "moveset": [
+        "vinewhip",
+        "outrage",
+        "stoneedge",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "quirky",
+      "ability": "swarm",
+      "moveset": [
+        "scratch",
+        "agility",
+        "quickattack",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "hasty",
+      "ability": "soundproof",
+      "moveset": [
+        "stunspore",
+        "flashcannon",
+        "icepunch",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "quiet",
+      "ability": "overgrow",
+      "moveset": [
+        "stoneedge",
+        "shadowclaw",
+        "focusblast",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "outrage",
+        "swordsdance",
+        "focusblast",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

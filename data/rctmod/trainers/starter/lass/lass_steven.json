@@ -1,0 +1,35 @@
+{
+  "name": "Lass Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19879443237208527
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 11,
+      "nature": "impish",
+      "ability": "effectspore",
+      "moveset": [
+        "flashcannon",
+        "detect",
+        "closecombat",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

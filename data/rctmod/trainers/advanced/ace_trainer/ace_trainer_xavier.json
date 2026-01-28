@@ -1,0 +1,80 @@
+{
+  "name": "Ace Trainer Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15517229368963495
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "lax",
+      "ability": "pressure",
+      "moveset": [
+        "doubleedge",
+        "stunspore",
+        "megapunch",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "quiet",
+      "ability": "voltabsorb",
+      "moveset": [
+        "confusion",
+        "stealthrock",
+        "tackle",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "relaxed",
+      "ability": "static",
+      "moveset": [
+        "flashcannon",
+        "outrage",
+        "bodyslam",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "hyperbeam",
+        "shadowball",
+        "trickroom",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

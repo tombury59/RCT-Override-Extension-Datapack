@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Ranger Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12338160132575719
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gallade",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "naive",
+      "ability": "voltabsorb",
+      "moveset": [
+        "flareblitz",
+        "thunderbolt",
+        "stealthrock",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "timid",
+      "ability": "overgrow",
+      "moveset": [
+        "stoneedge",
+        "ironhead",
+        "nastyplot",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "timid",
+      "ability": "immunity",
+      "moveset": [
+        "tackle",
+        "dragonpulse",
+        "whirlwind",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "docile",
+      "ability": "flashfire",
+      "moveset": [
+        "confusion",
+        "zenheadbutt",
+        "ironhead",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "lax",
+      "ability": "pressure",
+      "moveset": [
+        "tailwind",
+        "megapunch",
+        "gigaimpact",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "naive",
+      "ability": "levitate",
+      "moveset": [
+        "wildcharge",
+        "agility",
+        "hyperbeam",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

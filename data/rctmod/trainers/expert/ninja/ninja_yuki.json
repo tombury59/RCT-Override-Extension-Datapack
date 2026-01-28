@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19460429304268823
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "oddish",
+      "gender": "FEMALE",
+      "level": 78,
+      "nature": "bashful",
+      "ability": "keeneye",
+      "moveset": [
+        "surf",
+        "closecombat",
+        "pound",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "rash",
+      "ability": "thickfat",
+      "moveset": [
+        "bodyslam",
+        "thunderwave",
+        "blizzard",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "moveset": [
+        "focusblast",
+        "tailwind",
+        "wildcharge",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "docile",
+      "ability": "static",
+      "moveset": [
+        "thrash",
+        "flamethrower",
+        "tackle",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "quiet",
+      "ability": "torrent",
+      "moveset": [
+        "earthquake",
+        "confusion",
+        "takedown",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

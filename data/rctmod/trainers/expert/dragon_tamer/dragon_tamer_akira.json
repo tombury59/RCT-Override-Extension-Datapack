@@ -1,0 +1,95 @@
+{
+  "name": "Dragon Tamer Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19207684794037078
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "suicune",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "megapunch",
+        "roar",
+        "shadowclaw",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "lax",
+      "ability": "intimidate",
+      "moveset": [
+        "darkpulse",
+        "agility",
+        "zenheadbutt",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "hardy",
+      "ability": "rockhead",
+      "moveset": [
+        "bodyslam",
+        "moonblast",
+        "hyperbeam",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "hardy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "ironhead",
+        "energyball",
+        "toxic",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "fireblast",
+        "megapunch",
+        "thrash",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

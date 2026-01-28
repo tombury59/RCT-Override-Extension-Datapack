@@ -1,0 +1,65 @@
+{
+  "name": "Blackbelt Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16034156079180267
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "sassy",
+      "ability": "overgrow",
+      "moveset": [
+        "psychic",
+        "dragonrush",
+        "outrage",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "mild",
+      "ability": "keeneye",
+      "moveset": [
+        "gigaimpact",
+        "recover",
+        "icepunch",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "confusion",
+        "thunderwave",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Elite Four Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18513792284677427
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 92,
+      "nature": "bold",
+      "ability": "pressure",
+      "moveset": [
+        "stealthrock",
+        "moonblast",
+        "quickattack",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "brave",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderpunch",
+        "stoneedge",
+        "recover",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 87,
+      "nature": "mild",
+      "ability": "effectspore",
+      "moveset": [
+        "calmmind",
+        "quickattack",
+        "tackle",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "FEMALE",
+      "level": 94,
+      "nature": "jolly",
+      "ability": "soundproof",
+      "moveset": [
+        "bodyslam",
+        "substitute",
+        "takedown",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Scientist Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13625412543249749
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "moveset": [
+        "earthquake",
+        "icepunch",
+        "willowisp",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "bold",
+      "ability": "thickfat",
+      "moveset": [
+        "psychic",
+        "quickattack",
+        "willowisp",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

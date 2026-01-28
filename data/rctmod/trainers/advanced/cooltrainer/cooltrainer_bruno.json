@@ -1,0 +1,50 @@
+{
+  "name": "Cooltrainer Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19895952790322616
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ho_oh",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "toxic",
+        "megakick",
+        "quickattack",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "bold",
+      "ability": "immunity",
+      "moveset": [
+        "flashcannon",
+        "substitute",
+        "outrage",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

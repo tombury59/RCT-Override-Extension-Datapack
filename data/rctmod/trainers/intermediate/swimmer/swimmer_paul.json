@@ -1,0 +1,50 @@
+{
+  "name": "Swimmer Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17836938307752773
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "hasty",
+      "ability": "overgrow",
+      "moveset": [
+        "dragonrush",
+        "stoneedge",
+        "recover",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "quirky",
+      "ability": "soundproof",
+      "moveset": [
+        "gigaimpact",
+        "dazzlinggleam",
+        "doubleedge",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

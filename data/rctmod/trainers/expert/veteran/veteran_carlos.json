@@ -1,0 +1,110 @@
+{
+  "name": "Veteran Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13281199232381596
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "timid",
+      "ability": "syncronize",
+      "moveset": [
+        "megapunch",
+        "bodyslam",
+        "thunderbolt",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "relaxed",
+      "ability": "voltabsorb",
+      "moveset": [
+        "bodyslam",
+        "thunder",
+        "tailwind",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "gentle",
+      "ability": "waterabsorb",
+      "moveset": [
+        "shadowclaw",
+        "stealthrock",
+        "dragonpulse",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "quirky",
+      "ability": "immunity",
+      "moveset": [
+        "doubleedge",
+        "recover",
+        "dragonrush",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "trickroom",
+        "scratch",
+        "gigaimpact",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "timid",
+      "ability": "sturdy",
+      "moveset": [
+        "energyball",
+        "roar",
+        "dragonrush",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

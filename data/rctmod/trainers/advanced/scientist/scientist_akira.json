@@ -1,0 +1,65 @@
+{
+  "name": "Scientist Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19741777233895338
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "serious",
+      "ability": "keeneye",
+      "moveset": [
+        "pound",
+        "thundershock",
+        "shadowclaw",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "lax",
+      "ability": "soundproof",
+      "moveset": [
+        "bodyslam",
+        "stoneedge",
+        "calmmind",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "quiet",
+      "ability": "waterabsorb",
+      "moveset": [
+        "pound",
+        "flareblitz",
+        "toxic",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

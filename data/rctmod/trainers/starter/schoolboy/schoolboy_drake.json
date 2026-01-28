@@ -1,0 +1,35 @@
+{
+  "name": "Schoolboy Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18211817995058305
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "shadowball",
+        "bodyslam",
+        "wildcharge",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Youngster Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12493574084306422
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "quirky",
+      "ability": "blaze",
+      "moveset": [
+        "solarbeam",
+        "tailwind",
+        "hyperbeam",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "mild",
+      "ability": "pressure",
+      "moveset": [
+        "focusblast",
+        "pound",
+        "swordsdance",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "icepunch",
+        "growth",
+        "pound",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

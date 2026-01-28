@@ -1,0 +1,50 @@
+{
+  "name": "Ruin Maniac Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1233298078693353
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "brave",
+      "ability": "compoundeyes",
+      "moveset": [
+        "psybeam",
+        "flareblitz",
+        "protect",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "docile",
+      "ability": "flashfire",
+      "moveset": [
+        "darkpulse",
+        "rest",
+        "crunch",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Beauty Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12964520724285186
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latias",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "naive",
+      "ability": "pressure",
+      "moveset": [
+        "willowisp",
+        "zenheadbutt",
+        "shadowball",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "brave",
+      "ability": "syncronize",
+      "moveset": [
+        "quickattack",
+        "willowisp",
+        "zenheadbutt",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "serious",
+      "ability": "rockhead",
+      "moveset": [
+        "psychic",
+        "nastyplot",
+        "stoneedge",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

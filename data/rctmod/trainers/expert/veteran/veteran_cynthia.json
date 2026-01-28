@@ -1,0 +1,110 @@
+{
+  "name": "Veteran Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16894134251669868
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "registeel",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "modest",
+      "ability": "compoundeyes",
+      "moveset": [
+        "flashcannon",
+        "takedown",
+        "thunderwave",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "gentle",
+      "ability": "torrent",
+      "moveset": [
+        "flareblitz",
+        "recover",
+        "closecombat",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "relaxed",
+      "ability": "voltabsorb",
+      "moveset": [
+        "watergun",
+        "bodyslam",
+        "gigaimpact",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "MALE",
+      "level": 61,
+      "nature": "careful",
+      "ability": "blaze",
+      "moveset": [
+        "energyball",
+        "hyperbeam",
+        "zenheadbutt",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "gentle",
+      "ability": "voltabsorb",
+      "moveset": [
+        "sleeppowder",
+        "stoneedge",
+        "fireblast",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "serious",
+      "ability": "keeneye",
+      "moveset": [
+        "vinewhip",
+        "wildcharge",
+        "thrash",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

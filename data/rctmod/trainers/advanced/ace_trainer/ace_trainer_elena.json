@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10933882901244994
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "calm",
+      "ability": "thickfat",
+      "moveset": [
+        "tailwind",
+        "takedown",
+        "flareblitz",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "hasty",
+      "ability": "immunity",
+      "moveset": [
+        "shadowclaw",
+        "pound",
+        "fireblast",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "quirky",
+      "ability": "thickfat",
+      "moveset": [
+        "closecombat",
+        "moonblast",
+        "firepunch",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

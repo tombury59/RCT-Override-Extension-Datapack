@@ -1,0 +1,95 @@
+{
+  "name": "Swimmer Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19854760280673442
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "docile",
+      "ability": "thickfat",
+      "moveset": [
+        "tackle",
+        "shadowball",
+        "ironhead",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "rash",
+      "ability": "static",
+      "moveset": [
+        "flashcannon",
+        "recover",
+        "earthquake",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "wildcharge",
+        "whirlwind",
+        "solarbeam",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "serious",
+      "ability": "rockhead",
+      "moveset": [
+        "energyball",
+        "scratch",
+        "swordsdance",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "lax",
+      "ability": "syncronize",
+      "moveset": [
+        "closecombat",
+        "stealthrock",
+        "thunderpunch",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

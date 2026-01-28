@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11953700577443549
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "careful",
+      "ability": "innerfocus",
+      "moveset": [
+        "swordsdance",
+        "solarbeam",
+        "crunch",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "lonely",
+      "ability": "soundproof",
+      "moveset": [
+        "willowisp",
+        "dragonpulse",
+        "scratch",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "doubleedge",
+        "pound",
+        "moonblast",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "dazzlinggleam",
+        "detect",
+        "megakick",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "brave",
+      "ability": "waterabsorb",
+      "moveset": [
+        "quickattack",
+        "calmmind",
+        "pound",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

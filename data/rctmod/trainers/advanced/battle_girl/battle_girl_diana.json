@@ -1,0 +1,65 @@
+{
+  "name": "Battle Girl Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1723596951855914
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "stoneedge",
+        "watergun",
+        "shadowclaw",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "rash",
+      "ability": "compoundeyes",
+      "moveset": [
+        "gigaimpact",
+        "moonblast",
+        "outrage",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "lonely",
+      "ability": "overgrow",
+      "moveset": [
+        "tailwind",
+        "hydropump",
+        "quickattack",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

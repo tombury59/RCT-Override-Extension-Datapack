@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18769267993266606
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aggron",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "careful",
+      "ability": "rockhead",
+      "moveset": [
+        "darkpulse",
+        "toxic",
+        "gigaimpact",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "timid",
+      "ability": "overgrow",
+      "moveset": [
+        "dragonrush",
+        "fireblast",
+        "hyperbeam",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Beauty Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18957433002707186
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "blastoise",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "relaxed",
+      "ability": "soundproof",
+      "moveset": [
+        "darkpulse",
+        "ironhead",
+        "earthquake",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "quiet",
+      "ability": "swarm",
+      "moveset": [
+        "roar",
+        "thunder",
+        "thrash",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "quiet",
+      "ability": "effectspore",
+      "moveset": [
+        "thunderbolt",
+        "firepunch",
+        "swordsdance",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "quirky",
+      "ability": "levitate",
+      "moveset": [
+        "ironhead",
+        "gigaimpact",
+        "stealthrock",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

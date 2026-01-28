@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1329995895545834
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "gentle",
+      "ability": "keeneye",
+      "moveset": [
+        "closecombat",
+        "whirlwind",
+        "hyperbeam",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "rash",
+      "ability": "soundproof",
+      "moveset": [
+        "agility",
+        "icebeam",
+        "megakick",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "jolly",
+      "ability": "soundproof",
+      "moveset": [
+        "tackle",
+        "flashcannon",
+        "bodyslam",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "docile",
+      "ability": "keeneye",
+      "moveset": [
+        "thrash",
+        "focusblast",
+        "flareblitz",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 87,
+      "nature": "mild",
+      "ability": "syncronize",
+      "moveset": [
+        "tailwind",
+        "flashcannon",
+        "bodyslam",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "naive",
+      "ability": "thickfat",
+      "moveset": [
+        "megakick",
+        "icebeam",
+        "zenheadbutt",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

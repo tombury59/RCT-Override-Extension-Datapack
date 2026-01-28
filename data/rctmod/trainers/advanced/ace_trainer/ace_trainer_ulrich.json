@@ -1,0 +1,95 @@
+{
+  "name": "Ace Trainer Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19356726561328833
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "registeel",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "hardy",
+      "ability": "innerfocus",
+      "moveset": [
+        "thunderpunch",
+        "zenheadbutt",
+        "focusblast",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "mild",
+      "ability": "sturdy",
+      "moveset": [
+        "thrash",
+        "doubleedge",
+        "detect",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "gentle",
+      "ability": "innerfocus",
+      "moveset": [
+        "zenheadbutt",
+        "doubleedge",
+        "trickroom",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "docile",
+      "ability": "thickfat",
+      "moveset": [
+        "shadowball",
+        "stoneedge",
+        "thunderpunch",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "hasty",
+      "ability": "swarm",
+      "moveset": [
+        "rest",
+        "scratch",
+        "moonblast",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

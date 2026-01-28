@@ -1,0 +1,80 @@
+{
+  "name": "Pok\u00e9mon Breeder Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10546898675460024
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "lonely",
+      "ability": "intimidate",
+      "moveset": [
+        "calmmind",
+        "ironhead",
+        "hydropump",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "bold",
+      "ability": "intimidate",
+      "moveset": [
+        "shadowball",
+        "calmmind",
+        "outrage",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "hasty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "calmmind",
+        "wildcharge",
+        "thunder",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "hasty",
+      "ability": "voltabsorb",
+      "moveset": [
+        "icepunch",
+        "icebeam",
+        "growth",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

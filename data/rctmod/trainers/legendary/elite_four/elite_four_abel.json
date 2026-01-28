@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17716797501733533
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "golem",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "quirky",
+      "ability": "blaze",
+      "moveset": [
+        "rest",
+        "flareblitz",
+        "vinewhip",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "thunderbolt",
+        "detect",
+        "stoneedge",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "innerfocus",
+      "moveset": [
+        "dazzlinggleam",
+        "quickattack",
+        "flareblitz",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "bold",
+      "ability": "sturdy",
+      "moveset": [
+        "recover",
+        "vinewhip",
+        "stoneedge",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "careful",
+      "ability": "rockhead",
+      "moveset": [
+        "stunspore",
+        "pound",
+        "icebeam",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 91,
+      "nature": "hardy",
+      "ability": "syncronize",
+      "moveset": [
+        "firepunch",
+        "substitute",
+        "closecombat",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

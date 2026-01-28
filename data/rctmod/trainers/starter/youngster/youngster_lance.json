@@ -1,0 +1,80 @@
+{
+  "name": "Youngster Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18417828855026683
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 10,
+      "nature": "impish",
+      "ability": "swarm",
+      "moveset": [
+        "dragonrush",
+        "shadowball",
+        "nastyplot",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 6,
+      "nature": "serious",
+      "ability": "compoundeyes",
+      "moveset": [
+        "tackle",
+        "thrash",
+        "vinewhip",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 6,
+      "nature": "bashful",
+      "ability": "immunity",
+      "moveset": [
+        "ember",
+        "thunderpunch",
+        "thunderwave",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "mild",
+      "ability": "immunity",
+      "moveset": [
+        "fireblast",
+        "firepunch",
+        "icepunch",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

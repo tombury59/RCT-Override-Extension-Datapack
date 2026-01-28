@@ -1,0 +1,110 @@
+{
+  "name": "Beauty Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17922770631229062
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "timid",
+      "ability": "sturdy",
+      "moveset": [
+        "wildcharge",
+        "surf",
+        "earthquake",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "naive",
+      "ability": "blaze",
+      "moveset": [
+        "doubleedge",
+        "ember",
+        "ironhead",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "hasty",
+      "ability": "swarm",
+      "moveset": [
+        "fireblast",
+        "outrage",
+        "stunspore",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "shadowclaw",
+        "recover",
+        "closecombat",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "adamant",
+      "ability": "keeneye",
+      "moveset": [
+        "crunch",
+        "darkpulse",
+        "tailwind",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "mild",
+      "ability": "blaze",
+      "moveset": [
+        "flareblitz",
+        "trickroom",
+        "stoneedge",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

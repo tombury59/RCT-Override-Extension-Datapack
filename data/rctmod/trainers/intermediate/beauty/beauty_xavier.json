@@ -1,0 +1,65 @@
+{
+  "name": "Beauty Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14273161328381656
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "careful",
+      "ability": "blaze",
+      "moveset": [
+        "shadowclaw",
+        "stealthrock",
+        "takedown",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "hardy",
+      "ability": "syncronize",
+      "moveset": [
+        "crunch",
+        "calmmind",
+        "flamethrower",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "calm",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thunderbolt",
+        "takedown",
+        "shadowclaw",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Schoolboy Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10936164776049778
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "mild",
+      "ability": "syncronize",
+      "moveset": [
+        "watergun",
+        "doubleedge",
+        "closecombat",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "thunder",
+        "tackle",
+        "pound",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "brave",
+      "ability": "pressure",
+      "moveset": [
+        "watergun",
+        "ironhead",
+        "gigaimpact",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "lax",
+      "ability": "torrent",
+      "moveset": [
+        "surf",
+        "toxic",
+        "shadowclaw",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Hiker Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13832614725831216
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "lonely",
+      "ability": "compoundeyes",
+      "moveset": [
+        "hydropump",
+        "wildcharge",
+        "pound",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "thunderbolt",
+        "closecombat",
+        "willowisp",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "gentle",
+      "ability": "syncronize",
+      "moveset": [
+        "tackle",
+        "hyperbeam",
+        "whirlwind",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

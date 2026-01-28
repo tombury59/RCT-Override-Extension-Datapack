@@ -1,0 +1,95 @@
+{
+  "name": "Scientist Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18722889946225713
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "blastoise",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "timid",
+      "ability": "waterabsorb",
+      "moveset": [
+        "icepunch",
+        "takedown",
+        "rest",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 39,
+      "nature": "docile",
+      "ability": "torrent",
+      "moveset": [
+        "blizzard",
+        "gigaimpact",
+        "megakick",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "lax",
+      "ability": "keeneye",
+      "moveset": [
+        "shadowball",
+        "swordsdance",
+        "dragonrush",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "modest",
+      "ability": "immunity",
+      "moveset": [
+        "fireblast",
+        "willowisp",
+        "earthquake",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "quiet",
+      "ability": "torrent",
+      "moveset": [
+        "zenheadbutt",
+        "takedown",
+        "detect",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

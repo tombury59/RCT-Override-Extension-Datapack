@@ -1,0 +1,95 @@
+{
+  "name": "Beauty Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1773019545716708
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "adamant",
+      "ability": "soundproof",
+      "moveset": [
+        "solarbeam",
+        "gigaimpact",
+        "megapunch",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "naive",
+      "ability": "blaze",
+      "moveset": [
+        "outrage",
+        "thunderwave",
+        "stoneedge",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "quirky",
+      "ability": "flashfire",
+      "moveset": [
+        "airslash",
+        "icepunch",
+        "doubleedge",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "quirky",
+      "ability": "torrent",
+      "moveset": [
+        "dazzlinggleam",
+        "megapunch",
+        "hyperbeam",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "brave",
+      "ability": "blaze",
+      "moveset": [
+        "zenheadbutt",
+        "hydropump",
+        "thrash",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

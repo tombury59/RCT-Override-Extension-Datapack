@@ -1,0 +1,65 @@
+{
+  "name": "Bug Catcher Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12131168075041587
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "emboar",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "careful",
+      "ability": "swarm",
+      "moveset": [
+        "ember",
+        "stoneedge",
+        "dragonrush",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "adamant",
+      "ability": "immunity",
+      "moveset": [
+        "tackle",
+        "whirlwind",
+        "icebeam",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "naive",
+      "ability": "overgrow",
+      "moveset": [
+        "thrash",
+        "dragonrush",
+        "focusblast",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

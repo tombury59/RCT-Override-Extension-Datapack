@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10636371900999607
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "dragonrush",
+        "pound",
+        "roar",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "docile",
+      "ability": "static",
+      "moveset": [
+        "psychic",
+        "thunderpunch",
+        "megakick",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "relaxed",
+      "ability": "effectspore",
+      "moveset": [
+        "megapunch",
+        "icebeam",
+        "recover",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

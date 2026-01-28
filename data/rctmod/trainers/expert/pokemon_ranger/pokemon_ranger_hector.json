@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Ranger Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11226800244781236
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "bashful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "moonblast",
+        "wildcharge",
+        "dragonrush",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "mild",
+      "ability": "levitate",
+      "moveset": [
+        "detect",
+        "dragonpulse",
+        "pound",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "roar",
+        "pound",
+        "watergun",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "quiet",
+      "ability": "rockhead",
+      "moveset": [
+        "watergun",
+        "gigaimpact",
+        "stunspore",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "mild",
+      "ability": "voltabsorb",
+      "moveset": [
+        "tailwind",
+        "bodyslam",
+        "megapunch",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "docile",
+      "ability": "voltabsorb",
+      "moveset": [
+        "bodyslam",
+        "ironhead",
+        "psychic",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Blackbelt Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12728437316636884
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "bold",
+      "ability": "thickfat",
+      "moveset": [
+        "thunderpunch",
+        "energyball",
+        "protect",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "timid",
+      "ability": "immunity",
+      "moveset": [
+        "thunder",
+        "recover",
+        "scratch",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "brave",
+      "ability": "intimidate",
+      "moveset": [
+        "ironhead",
+        "energyball",
+        "stealthrock",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "quirky",
+      "ability": "immunity",
+      "moveset": [
+        "fireblast",
+        "megakick",
+        "whirlwind",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

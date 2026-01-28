@@ -1,0 +1,65 @@
+{
+  "name": "Camper Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12218524913287507
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "gentle",
+      "ability": "swarm",
+      "moveset": [
+        "nastyplot",
+        "thrash",
+        "icepunch",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "recover",
+        "dragonpulse",
+        "doubleedge",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "quiet",
+      "ability": "keeneye",
+      "moveset": [
+        "recover",
+        "takedown",
+        "closecombat",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

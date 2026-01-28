@@ -1,0 +1,65 @@
+{
+  "name": "Battle Girl Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12513861423341252
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zekrom",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "bold",
+      "ability": "thickfat",
+      "moveset": [
+        "earthquake",
+        "substitute",
+        "megakick",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "timid",
+      "ability": "sturdy",
+      "moveset": [
+        "crunch",
+        "flashcannon",
+        "megapunch",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "impish",
+      "ability": "swarm",
+      "moveset": [
+        "icepunch",
+        "firepunch",
+        "thundershock",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

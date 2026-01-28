@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1927571764027707
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "naughty",
+      "ability": "torrent",
+      "moveset": [
+        "dragonpulse",
+        "protect",
+        "thunderpunch",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "hasty",
+      "ability": "intimidate",
+      "moveset": [
+        "stealthrock",
+        "thundershock",
+        "megapunch",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "sassy",
+      "ability": "flashfire",
+      "moveset": [
+        "ironhead",
+        "thunderpunch",
+        "nastyplot",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

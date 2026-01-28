@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16263505246672388
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "naughty",
+      "ability": "effectspore",
+      "moveset": [
+        "hyperbeam",
+        "megapunch",
+        "solarbeam",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "timid",
+      "ability": "immunity",
+      "moveset": [
+        "gigaimpact",
+        "agility",
+        "tackle",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "timid",
+      "ability": "effectspore",
+      "moveset": [
+        "flareblitz",
+        "surf",
+        "doubleedge",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "docile",
+      "ability": "syncronize",
+      "moveset": [
+        "rest",
+        "shadowclaw",
+        "thunderbolt",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "quiet",
+      "ability": "immunity",
+      "moveset": [
+        "substitute",
+        "gigaimpact",
+        "shadowball",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

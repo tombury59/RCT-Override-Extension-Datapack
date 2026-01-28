@@ -1,0 +1,80 @@
+{
+  "name": "Swimmer Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1405137125818428
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regice",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "jolly",
+      "ability": "immunity",
+      "moveset": [
+        "icepunch",
+        "moonblast",
+        "wildcharge",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "careful",
+      "ability": "swarm",
+      "moveset": [
+        "fireblast",
+        "icepunch",
+        "tackle",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "lax",
+      "ability": "swarm",
+      "moveset": [
+        "trickroom",
+        "thrash",
+        "blizzard",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "gentle",
+      "ability": "keeneye",
+      "moveset": [
+        "megapunch",
+        "rest",
+        "energyball",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

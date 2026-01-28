@@ -1,0 +1,65 @@
+{
+  "name": "Swimmer Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1858148180951224
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "relaxed",
+      "ability": "immunity",
+      "moveset": [
+        "hydropump",
+        "megapunch",
+        "nastyplot",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "naive",
+      "ability": "blaze",
+      "moveset": [
+        "scratch",
+        "detect",
+        "shadowball",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "modest",
+      "ability": "compoundeyes",
+      "moveset": [
+        "icepunch",
+        "icebeam",
+        "detect",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

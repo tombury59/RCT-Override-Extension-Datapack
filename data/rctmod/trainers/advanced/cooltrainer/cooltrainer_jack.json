@@ -1,0 +1,95 @@
+{
+  "name": "Cooltrainer Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12011523381440532
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "impish",
+      "ability": "flashfire",
+      "moveset": [
+        "thunderwave",
+        "icebeam",
+        "icepunch",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "bashful",
+      "ability": "syncronize",
+      "moveset": [
+        "roar",
+        "closecombat",
+        "thunderbolt",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "bold",
+      "ability": "sturdy",
+      "moveset": [
+        "flashcannon",
+        "pound",
+        "stoneedge",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "serious",
+      "ability": "syncronize",
+      "moveset": [
+        "scratch",
+        "tackle",
+        "roar",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "docile",
+      "ability": "rockhead",
+      "moveset": [
+        "ironhead",
+        "scratch",
+        "detect",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

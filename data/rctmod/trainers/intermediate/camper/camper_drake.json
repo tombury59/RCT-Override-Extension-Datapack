@@ -1,0 +1,50 @@
+{
+  "name": "Camper Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14492347161453112
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "naughty",
+      "ability": "sturdy",
+      "moveset": [
+        "megakick",
+        "trickroom",
+        "solarbeam",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blastoise",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "serious",
+      "ability": "immunity",
+      "moveset": [
+        "gigaimpact",
+        "agility",
+        "airslash",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

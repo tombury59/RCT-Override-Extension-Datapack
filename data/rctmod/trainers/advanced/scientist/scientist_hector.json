@@ -1,0 +1,65 @@
+{
+  "name": "Scientist Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12376970345077387
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "quiet",
+      "ability": "thickfat",
+      "moveset": [
+        "dazzlinggleam",
+        "willowisp",
+        "hyperbeam",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "bold",
+      "ability": "pressure",
+      "moveset": [
+        "vinewhip",
+        "scratch",
+        "willowisp",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "jolly",
+      "ability": "voltabsorb",
+      "moveset": [
+        "stealthrock",
+        "psybeam",
+        "earthquake",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

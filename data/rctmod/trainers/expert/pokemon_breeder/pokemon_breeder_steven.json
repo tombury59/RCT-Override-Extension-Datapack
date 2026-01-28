@@ -1,0 +1,65 @@
+{
+  "name": "Pok\u00e9mon Breeder Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11605513756162233
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "vaporeon",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "docile",
+      "ability": "soundproof",
+      "moveset": [
+        "nastyplot",
+        "firepunch",
+        "solarbeam",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "calm",
+      "ability": "rockhead",
+      "moveset": [
+        "willowisp",
+        "icepunch",
+        "outrage",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "sassy",
+      "ability": "immunity",
+      "moveset": [
+        "whirlwind",
+        "fireblast",
+        "earthquake",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

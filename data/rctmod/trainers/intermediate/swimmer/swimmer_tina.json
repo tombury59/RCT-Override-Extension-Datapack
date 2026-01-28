@@ -1,0 +1,80 @@
+{
+  "name": "Swimmer Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10083242765090894
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "flareon",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "nastyplot",
+        "earthquake",
+        "hyperbeam",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "growth",
+        "stoneedge",
+        "fireblast",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "megapunch",
+        "roar",
+        "energyball",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "sassy",
+      "ability": "effectspore",
+      "moveset": [
+        "ironhead",
+        "dragonrush",
+        "detect",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

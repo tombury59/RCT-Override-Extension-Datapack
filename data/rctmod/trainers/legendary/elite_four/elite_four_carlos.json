@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19128843415418356
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "gentle",
+      "ability": "keeneye",
+      "moveset": [
+        "earthquake",
+        "sleeppowder",
+        "quickattack",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "lax",
+      "ability": "intimidate",
+      "moveset": [
+        "confusion",
+        "scratch",
+        "shadowclaw",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "modest",
+      "ability": "syncronize",
+      "moveset": [
+        "closecombat",
+        "tackle",
+        "watergun",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "bashful",
+      "ability": "waterabsorb",
+      "moveset": [
+        "recover",
+        "gigaimpact",
+        "airslash",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "energyball",
+        "trickroom",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "serious",
+      "ability": "levitate",
+      "moveset": [
+        "megakick",
+        "growth",
+        "shadowball",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

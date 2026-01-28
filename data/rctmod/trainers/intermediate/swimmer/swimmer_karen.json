@@ -1,0 +1,80 @@
+{
+  "name": "Swimmer Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12790413145811308
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "mild",
+      "ability": "pressure",
+      "moveset": [
+        "growth",
+        "thundershock",
+        "takedown",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "lonely",
+      "ability": "syncronize",
+      "moveset": [
+        "shadowclaw",
+        "surf",
+        "thunderpunch",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "serious",
+      "ability": "sturdy",
+      "moveset": [
+        "hyperbeam",
+        "dazzlinggleam",
+        "bodyslam",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "calm",
+      "ability": "sturdy",
+      "moveset": [
+        "doubleedge",
+        "toxic",
+        "wildcharge",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Bird Keeper Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1892752278220334
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "lax",
+      "ability": "rockhead",
+      "moveset": [
+        "stoneedge",
+        "solarbeam",
+        "recover",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "lonely",
+      "ability": "keeneye",
+      "moveset": [
+        "calmmind",
+        "outrage",
+        "zenheadbutt",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "firepunch",
+        "doubleedge",
+        "thundershock",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

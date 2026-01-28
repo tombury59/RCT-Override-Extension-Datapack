@@ -1,0 +1,80 @@
+{
+  "name": "Veteran Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18441096794000328
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "sassy",
+      "ability": "swarm",
+      "moveset": [
+        "vinewhip",
+        "recover",
+        "earthquake",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "timid",
+      "ability": "sturdy",
+      "moveset": [
+        "sleeppowder",
+        "pound",
+        "earthquake",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "lonely",
+      "ability": "thickfat",
+      "moveset": [
+        "quickattack",
+        "protect",
+        "takedown",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "swordsdance",
+        "vinewhip",
+        "quickattack",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

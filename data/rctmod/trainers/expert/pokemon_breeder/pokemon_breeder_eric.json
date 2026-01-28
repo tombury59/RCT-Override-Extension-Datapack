@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Breeder Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19160486425715934
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "adamant",
+      "ability": "immunity",
+      "moveset": [
+        "solarbeam",
+        "quickattack",
+        "swordsdance",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "brave",
+      "ability": "waterabsorb",
+      "moveset": [
+        "wildcharge",
+        "stoneedge",
+        "dazzlinggleam",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "lax",
+      "ability": "blaze",
+      "moveset": [
+        "thrash",
+        "dazzlinggleam",
+        "tackle",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "careful",
+      "ability": "blaze",
+      "moveset": [
+        "closecombat",
+        "stealthrock",
+        "icebeam",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "hardy",
+      "ability": "pressure",
+      "moveset": [
+        "quickattack",
+        "stunspore",
+        "gigaimpact",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "serious",
+      "ability": "static",
+      "moveset": [
+        "shadowclaw",
+        "nastyplot",
+        "ironhead",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

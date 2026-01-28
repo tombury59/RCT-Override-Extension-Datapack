@@ -1,0 +1,50 @@
+{
+  "name": "Camper Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1187192703002257
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoran_m",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "swordsdance",
+        "thrash",
+        "psybeam",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "hasty",
+      "ability": "intimidate",
+      "moveset": [
+        "agility",
+        "scratch",
+        "doubleedge",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

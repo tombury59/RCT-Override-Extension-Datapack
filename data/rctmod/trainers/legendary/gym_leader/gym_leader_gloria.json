@@ -1,0 +1,65 @@
+{
+  "name": "Gym Leader Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10246694189834951
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "level": 84,
+      "nature": "careful",
+      "ability": "effectspore",
+      "moveset": [
+        "darkpulse",
+        "bodyslam",
+        "doubleedge",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 84,
+      "nature": "bold",
+      "ability": "syncronize",
+      "moveset": [
+        "shadowclaw",
+        "energyball",
+        "gigaimpact",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 81,
+      "nature": "lax",
+      "ability": "keeneye",
+      "moveset": [
+        "zenheadbutt",
+        "thunderpunch",
+        "hydropump",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

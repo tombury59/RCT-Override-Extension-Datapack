@@ -1,0 +1,95 @@
+{
+  "name": "Blackbelt Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19979656164809628
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "brave",
+      "ability": "keeneye",
+      "moveset": [
+        "growth",
+        "firepunch",
+        "flashcannon",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "jolly",
+      "ability": "overgrow",
+      "moveset": [
+        "fireblast",
+        "dragonrush",
+        "stunspore",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "serious",
+      "ability": "immunity",
+      "moveset": [
+        "gigaimpact",
+        "watergun",
+        "thunderpunch",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "relaxed",
+      "ability": "effectspore",
+      "moveset": [
+        "swordsdance",
+        "earthquake",
+        "zenheadbutt",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "impish",
+      "ability": "immunity",
+      "moveset": [
+        "doubleedge",
+        "roar",
+        "closecombat",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

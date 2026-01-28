@@ -1,0 +1,35 @@
+{
+  "name": "Youngster Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13922889951773387
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "thrash",
+        "stealthrock",
+        "energyball",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

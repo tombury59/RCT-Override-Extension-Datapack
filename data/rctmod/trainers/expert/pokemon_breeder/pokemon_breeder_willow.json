@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1744249869522192
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "quirky",
+      "ability": "voltabsorb",
+      "moveset": [
+        "stoneedge",
+        "icebeam",
+        "doubleedge",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "naive",
+      "ability": "thickfat",
+      "moveset": [
+        "rest",
+        "flamethrower",
+        "quickattack",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "lonely",
+      "ability": "effectspore",
+      "moveset": [
+        "quickattack",
+        "icepunch",
+        "thundershock",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "bashful",
+      "ability": "soundproof",
+      "moveset": [
+        "stoneedge",
+        "trickroom",
+        "thrash",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "psybeam",
+        "wildcharge",
+        "protect",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

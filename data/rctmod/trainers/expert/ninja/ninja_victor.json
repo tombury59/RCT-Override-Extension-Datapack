@@ -1,0 +1,110 @@
+{
+  "name": "Ninja Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19130951987757996
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "hasty",
+      "ability": "thickfat",
+      "moveset": [
+        "flamethrower",
+        "roar",
+        "hyperbeam",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "rash",
+      "ability": "compoundeyes",
+      "moveset": [
+        "icepunch",
+        "agility",
+        "solarbeam",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "modest",
+      "ability": "keeneye",
+      "moveset": [
+        "swordsdance",
+        "crunch",
+        "energyball",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "sassy",
+      "ability": "overgrow",
+      "moveset": [
+        "dragonpulse",
+        "thunderpunch",
+        "outrage",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "hasty",
+      "ability": "keeneye",
+      "moveset": [
+        "thunderwave",
+        "icebeam",
+        "outrage",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "docile",
+      "ability": "syncronize",
+      "moveset": [
+        "tackle",
+        "flashcannon",
+        "crunch",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

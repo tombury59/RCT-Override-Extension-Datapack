@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1558230705810747
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "pidgey",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "protect",
+        "focusblast",
+        "bodyslam",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "lax",
+      "ability": "flashfire",
+      "moveset": [
+        "doubleedge",
+        "megakick",
+        "tailwind",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "modest",
+      "ability": "syncronize",
+      "moveset": [
+        "roar",
+        "moonblast",
+        "shadowclaw",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "sassy",
+      "ability": "keeneye",
+      "moveset": [
+        "toxic",
+        "dragonrush",
+        "confusion",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "stealthrock",
+        "ember",
+        "thrash",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

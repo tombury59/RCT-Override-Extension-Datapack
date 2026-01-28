@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16552749602072014
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 16,
+      "nature": "relaxed",
+      "ability": "thickfat",
+      "moveset": [
+        "swordsdance",
+        "megakick",
+        "zenheadbutt",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "impish",
+      "ability": "voltabsorb",
+      "moveset": [
+        "ironhead",
+        "tailwind",
+        "thunderpunch",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Fisherman Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15822297178410738
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "rash",
+      "ability": "flashfire",
+      "moveset": [
+        "thunder",
+        "tackle",
+        "flareblitz",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "sassy",
+      "ability": "thickfat",
+      "moveset": [
+        "flamethrower",
+        "earthquake",
+        "ironhead",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "relaxed",
+      "ability": "compoundeyes",
+      "moveset": [
+        "protect",
+        "quickattack",
+        "watergun",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "bashful",
+      "ability": "syncronize",
+      "moveset": [
+        "takedown",
+        "outrage",
+        "surf",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

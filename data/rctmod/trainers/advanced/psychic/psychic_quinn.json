@@ -1,0 +1,80 @@
+{
+  "name": "Psychic Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.198930517651202
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "brave",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderpunch",
+        "megapunch",
+        "willowisp",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "calm",
+      "ability": "intimidate",
+      "moveset": [
+        "scratch",
+        "protect",
+        "thrash",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "agility",
+        "dragonrush",
+        "thrash",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "shadowclaw",
+        "firepunch",
+        "stunspore",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

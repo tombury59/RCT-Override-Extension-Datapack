@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16617233232975842
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "golem",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "naughty",
+      "ability": "sturdy",
+      "moveset": [
+        "outrage",
+        "nastyplot",
+        "ironhead",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "mild",
+      "ability": "effectspore",
+      "moveset": [
+        "surf",
+        "agility",
+        "thrash",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "mild",
+      "ability": "effectspore",
+      "moveset": [
+        "protect",
+        "gigaimpact",
+        "wildcharge",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

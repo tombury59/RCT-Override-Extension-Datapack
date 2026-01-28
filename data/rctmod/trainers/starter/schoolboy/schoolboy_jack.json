@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15297797602542682
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "gentle",
+      "ability": "static",
+      "moveset": [
+        "fireblast",
+        "sleeppowder",
+        "takedown",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "quirky",
+      "ability": "pressure",
+      "moveset": [
+        "stoneedge",
+        "dragonpulse",
+        "tailwind",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

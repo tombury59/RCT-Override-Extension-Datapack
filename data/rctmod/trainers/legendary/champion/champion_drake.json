@@ -1,0 +1,95 @@
+{
+  "name": "Champion Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.191750971102417
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": [
+        "sleeppowder",
+        "hyperbeam",
+        "megakick",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 99,
+      "nature": "serious",
+      "ability": "thickfat",
+      "moveset": [
+        "thunderbolt",
+        "scratch",
+        "pound",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "MALE",
+      "level": 91,
+      "nature": "mild",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thunderwave",
+        "thunder",
+        "shadowclaw",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 99,
+      "nature": "docile",
+      "ability": "pressure",
+      "moveset": [
+        "toxic",
+        "moonblast",
+        "icepunch",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 92,
+      "nature": "rash",
+      "ability": "immunity",
+      "moveset": [
+        "dragonrush",
+        "darkpulse",
+        "bodyslam",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

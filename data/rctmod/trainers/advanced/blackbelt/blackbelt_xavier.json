@@ -1,0 +1,65 @@
+{
+  "name": "Blackbelt Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1906663607862039
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "careful",
+      "ability": "flashfire",
+      "moveset": [
+        "nastyplot",
+        "stoneedge",
+        "closecombat",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "modest",
+      "ability": "rockhead",
+      "moveset": [
+        "megapunch",
+        "thunderwave",
+        "ironhead",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "bold",
+      "ability": "overgrow",
+      "moveset": [
+        "thunderpunch",
+        "hyperbeam",
+        "solarbeam",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

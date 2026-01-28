@@ -1,0 +1,65 @@
+{
+  "name": "Blackbelt Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11489814297757964
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "bashful",
+      "ability": "keeneye",
+      "moveset": [
+        "dazzlinggleam",
+        "icepunch",
+        "megakick",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "bashful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "bodyslam",
+        "flamethrower",
+        "growth",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "brave",
+      "ability": "overgrow",
+      "moveset": [
+        "bodyslam",
+        "moonblast",
+        "icepunch",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

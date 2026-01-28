@@ -1,0 +1,80 @@
+{
+  "name": "Cooltrainer Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19867631806110847
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "serious",
+      "ability": "static",
+      "moveset": [
+        "shadowclaw",
+        "energyball",
+        "doubleedge",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "sassy",
+      "ability": "effectspore",
+      "moveset": [
+        "vinewhip",
+        "scratch",
+        "thrash",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "jolly",
+      "ability": "overgrow",
+      "moveset": [
+        "thunder",
+        "dragonrush",
+        "closecombat",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "hasty",
+      "ability": "sturdy",
+      "moveset": [
+        "thrash",
+        "agility",
+        "hydropump",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

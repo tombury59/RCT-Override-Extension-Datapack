@@ -1,0 +1,110 @@
+{
+  "name": "Champion Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15784918277074406
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "alakazam",
+      "gender": "MALE",
+      "level": 96,
+      "nature": "relaxed",
+      "ability": "compoundeyes",
+      "moveset": [
+        "dazzlinggleam",
+        "recover",
+        "bodyslam",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 98,
+      "nature": "adamant",
+      "ability": "swarm",
+      "moveset": [
+        "dragonrush",
+        "tackle",
+        "darkpulse",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "brave",
+      "ability": "rockhead",
+      "moveset": [
+        "closecombat",
+        "psybeam",
+        "rest",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "gentle",
+      "ability": "blaze",
+      "moveset": [
+        "closecombat",
+        "icepunch",
+        "thunderbolt",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 97,
+      "nature": "sassy",
+      "ability": "immunity",
+      "moveset": [
+        "icepunch",
+        "flareblitz",
+        "rest",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 96,
+      "nature": "hardy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "recover",
+        "tackle",
+        "thundershock",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

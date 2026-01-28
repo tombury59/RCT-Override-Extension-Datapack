@@ -1,0 +1,95 @@
+{
+  "name": "Blackbelt Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1528714584572435
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "gentle",
+      "ability": "swarm",
+      "moveset": [
+        "ironhead",
+        "agility",
+        "firepunch",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "quirky",
+      "ability": "sturdy",
+      "moveset": [
+        "agility",
+        "hydropump",
+        "takedown",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "relaxed",
+      "ability": "waterabsorb",
+      "moveset": [
+        "ember",
+        "ironhead",
+        "pound",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "hasty",
+      "ability": "keeneye",
+      "moveset": [
+        "dragonrush",
+        "airslash",
+        "trickroom",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "hasty",
+      "ability": "soundproof",
+      "moveset": [
+        "tackle",
+        "firepunch",
+        "watergun",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

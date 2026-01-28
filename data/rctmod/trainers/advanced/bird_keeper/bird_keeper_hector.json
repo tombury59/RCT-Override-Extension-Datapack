@@ -1,0 +1,80 @@
+{
+  "name": "Bird Keeper Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18645731362750165
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "mild",
+      "ability": "pressure",
+      "moveset": [
+        "dragonrush",
+        "zenheadbutt",
+        "toxic",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "naive",
+      "ability": "static",
+      "moveset": [
+        "ironhead",
+        "sleeppowder",
+        "watergun",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "naive",
+      "ability": "pressure",
+      "moveset": [
+        "flamethrower",
+        "stoneedge",
+        "crunch",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "moveset": [
+        "megakick",
+        "thunderbolt",
+        "ironhead",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Blackbelt Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18994924887913175
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regice",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "hasty",
+      "ability": "voltabsorb",
+      "moveset": [
+        "stoneedge",
+        "protect",
+        "crunch",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "rash",
+      "ability": "overgrow",
+      "moveset": [
+        "icepunch",
+        "roar",
+        "ironhead",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "hasty",
+      "ability": "soundproof",
+      "moveset": [
+        "protect",
+        "pound",
+        "quickattack",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "rash",
+      "ability": "syncronize",
+      "moveset": [
+        "sleeppowder",
+        "wildcharge",
+        "megapunch",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "mild",
+      "ability": "overgrow",
+      "moveset": [
+        "fireblast",
+        "quickattack",
+        "detect",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

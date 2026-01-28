@@ -1,0 +1,65 @@
+{
+  "name": "Battle Girl Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18813371294859088
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "hasty",
+      "ability": "syncronize",
+      "moveset": [
+        "crunch",
+        "ember",
+        "sleeppowder",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "bold",
+      "ability": "voltabsorb",
+      "moveset": [
+        "roar",
+        "tackle",
+        "blizzard",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "quiet",
+      "ability": "flashfire",
+      "moveset": [
+        "megakick",
+        "doubleedge",
+        "flashcannon",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

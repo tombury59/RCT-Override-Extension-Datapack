@@ -1,0 +1,110 @@
+{
+  "name": "Champion Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13499825190946999
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 97,
+      "nature": "relaxed",
+      "ability": "compoundeyes",
+      "moveset": [
+        "pound",
+        "firepunch",
+        "recover",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 92,
+      "nature": "lax",
+      "ability": "swarm",
+      "moveset": [
+        "psychic",
+        "sleeppowder",
+        "firepunch",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "rash",
+      "ability": "flashfire",
+      "moveset": [
+        "vinewhip",
+        "icepunch",
+        "ironhead",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 97,
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "hyperbeam",
+        "detect",
+        "quickattack",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 94,
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "wildcharge",
+        "closecombat",
+        "watergun",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "relaxed",
+      "ability": "static",
+      "moveset": [
+        "stunspore",
+        "ember",
+        "earthquake",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

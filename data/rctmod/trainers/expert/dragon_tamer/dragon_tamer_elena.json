@@ -1,0 +1,110 @@
+{
+  "name": "Dragon Tamer Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1981405039258941
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "trickroom",
+        "gigaimpact",
+        "dragonpulse",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "rash",
+      "ability": "effectspore",
+      "moveset": [
+        "dragonpulse",
+        "pound",
+        "doubleedge",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "docile",
+      "ability": "compoundeyes",
+      "moveset": [
+        "toxic",
+        "thrash",
+        "icebeam",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "dragonrush",
+        "thundershock",
+        "ironhead",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "darkpulse",
+        "shadowclaw",
+        "hyperbeam",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "flashcannon",
+        "calmmind",
+        "pound",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

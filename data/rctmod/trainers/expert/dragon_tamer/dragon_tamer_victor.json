@@ -1,0 +1,95 @@
+{
+  "name": "Dragon Tamer Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1683642359221028
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "lonely",
+      "ability": "torrent",
+      "moveset": [
+        "rest",
+        "gigaimpact",
+        "flareblitz",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "sassy",
+      "ability": "soundproof",
+      "moveset": [
+        "pound",
+        "shadowball",
+        "substitute",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "sassy",
+      "ability": "flashfire",
+      "moveset": [
+        "gigaimpact",
+        "detect",
+        "thunderpunch",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "lax",
+      "ability": "syncronize",
+      "moveset": [
+        "roar",
+        "energyball",
+        "icepunch",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "lax",
+      "ability": "torrent",
+      "moveset": [
+        "airslash",
+        "firepunch",
+        "megakick",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

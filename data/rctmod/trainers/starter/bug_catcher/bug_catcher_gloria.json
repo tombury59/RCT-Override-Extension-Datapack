@@ -1,0 +1,35 @@
+{
+  "name": "Bug Catcher Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1491351642298187
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zekrom",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "careful",
+      "ability": "levitate",
+      "moveset": [
+        "icepunch",
+        "sleeppowder",
+        "gigaimpact",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Pok\u00e9mon Ranger Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13834679425577892
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "quiet",
+      "ability": "waterabsorb",
+      "moveset": [
+        "bodyslam",
+        "stealthrock",
+        "energyball",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "modest",
+      "ability": "immunity",
+      "moveset": [
+        "wildcharge",
+        "stoneedge",
+        "swordsdance",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "hardy",
+      "ability": "levitate",
+      "moveset": [
+        "solarbeam",
+        "detect",
+        "wildcharge",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "bashful",
+      "ability": "overgrow",
+      "moveset": [
+        "wildcharge",
+        "whirlwind",
+        "outrage",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

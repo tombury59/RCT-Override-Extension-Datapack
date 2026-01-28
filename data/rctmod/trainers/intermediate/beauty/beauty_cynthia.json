@@ -1,0 +1,65 @@
+{
+  "name": "Beauty Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1690663892784398
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "moveset": [
+        "pound",
+        "gigaimpact",
+        "darkpulse",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "jolly",
+      "ability": "waterabsorb",
+      "moveset": [
+        "toxic",
+        "shadowball",
+        "icepunch",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "timid",
+      "ability": "syncronize",
+      "moveset": [
+        "bodyslam",
+        "thunderpunch",
+        "focusblast",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

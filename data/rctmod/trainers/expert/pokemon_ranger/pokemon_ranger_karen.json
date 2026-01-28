@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Ranger Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1368876353832585
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "impish",
+      "ability": "thickfat",
+      "moveset": [
+        "doubleedge",
+        "stealthrock",
+        "firepunch",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "adamant",
+      "ability": "blaze",
+      "moveset": [
+        "outrage",
+        "hyperbeam",
+        "airslash",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "bold",
+      "ability": "blaze",
+      "moveset": [
+        "tailwind",
+        "icepunch",
+        "quickattack",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "calm",
+      "ability": "torrent",
+      "moveset": [
+        "ironhead",
+        "agility",
+        "focusblast",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "serious",
+      "ability": "sturdy",
+      "moveset": [
+        "doubleedge",
+        "calmmind",
+        "closecombat",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

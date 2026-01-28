@@ -1,0 +1,80 @@
+{
+  "name": "Blackbelt Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13913801892036812
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "impish",
+      "ability": "thickfat",
+      "moveset": [
+        "detect",
+        "focusblast",
+        "flareblitz",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "gigaimpact",
+        "thunderbolt",
+        "sleeppowder",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "lonely",
+      "ability": "overgrow",
+      "moveset": [
+        "agility",
+        "dragonrush",
+        "airslash",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "quiet",
+      "ability": "keeneye",
+      "moveset": [
+        "scratch",
+        "outrage",
+        "calmmind",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

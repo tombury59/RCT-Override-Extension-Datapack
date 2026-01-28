@@ -1,0 +1,95 @@
+{
+  "name": "Psychic Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19212177292665192
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "bashful",
+      "ability": "static",
+      "moveset": [
+        "wildcharge",
+        "thunderbolt",
+        "protect",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "mild",
+      "ability": "intimidate",
+      "moveset": [
+        "megapunch",
+        "thunderbolt",
+        "closecombat",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "rash",
+      "ability": "swarm",
+      "moveset": [
+        "tackle",
+        "psybeam",
+        "ironhead",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "hydropump",
+        "bodyslam",
+        "thunderwave",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "lax",
+      "ability": "thickfat",
+      "moveset": [
+        "stealthrock",
+        "closecombat",
+        "thunderbolt",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

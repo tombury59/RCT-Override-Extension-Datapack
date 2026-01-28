@@ -1,0 +1,95 @@
+{
+  "name": "Dragon Tamer Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1917171917247484
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "lonely",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "tailwind",
+        "watergun",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "lonely",
+      "ability": "flashfire",
+      "moveset": [
+        "ironhead",
+        "bodyslam",
+        "icebeam",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "quirky",
+      "ability": "effectspore",
+      "moveset": [
+        "hyperbeam",
+        "crunch",
+        "thundershock",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "hasty",
+      "ability": "soundproof",
+      "moveset": [
+        "surf",
+        "scratch",
+        "agility",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "bold",
+      "ability": "flashfire",
+      "moveset": [
+        "detect",
+        "thunderpunch",
+        "closecombat",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Ranger Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14507343434620423
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "bold",
+      "ability": "intimidate",
+      "moveset": [
+        "icebeam",
+        "megakick",
+        "zenheadbutt",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "mild",
+      "ability": "syncronize",
+      "moveset": [
+        "whirlwind",
+        "megapunch",
+        "flashcannon",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "tailwind",
+        "thundershock",
+        "gigaimpact",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "nastyplot",
+        "thunderpunch",
+        "wildcharge",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "rash",
+      "ability": "keeneye",
+      "moveset": [
+        "thunderwave",
+        "gigaimpact",
+        "thrash",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

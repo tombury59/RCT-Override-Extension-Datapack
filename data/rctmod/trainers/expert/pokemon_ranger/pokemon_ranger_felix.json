@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Ranger Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16305736803060203
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "vinewhip",
+        "doubleedge",
+        "gigaimpact",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "sleeppowder",
+        "focusblast",
+        "megapunch",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "naughty",
+      "ability": "syncronize",
+      "moveset": [
+        "toxic",
+        "airslash",
+        "scratch",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "serious",
+      "ability": "pressure",
+      "moveset": [
+        "nastyplot",
+        "hydropump",
+        "ironhead",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "darkpulse",
+        "gigaimpact",
+        "takedown",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

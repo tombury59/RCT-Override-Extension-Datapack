@@ -1,0 +1,80 @@
+{
+  "name": "Bird Keeper Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1960315662116041
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "emboar",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "bashful",
+      "ability": "compoundeyes",
+      "moveset": [
+        "dragonrush",
+        "detect",
+        "tackle",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "quirky",
+      "ability": "rockhead",
+      "moveset": [
+        "stealthrock",
+        "earthquake",
+        "solarbeam",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "brave",
+      "ability": "voltabsorb",
+      "moveset": [
+        "ember",
+        "takedown",
+        "thunderpunch",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "detect",
+        "dragonpulse",
+        "tackle",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

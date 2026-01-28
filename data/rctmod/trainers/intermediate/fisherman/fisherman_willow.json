@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1198283678825678
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "wartortle",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "hasty",
+      "ability": "torrent",
+      "moveset": [
+        "doubleedge",
+        "dazzlinggleam",
+        "willowisp",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "naughty",
+      "ability": "immunity",
+      "moveset": [
+        "trickroom",
+        "firepunch",
+        "crunch",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "timid",
+      "ability": "immunity",
+      "moveset": [
+        "dragonrush",
+        "nastyplot",
+        "airslash",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

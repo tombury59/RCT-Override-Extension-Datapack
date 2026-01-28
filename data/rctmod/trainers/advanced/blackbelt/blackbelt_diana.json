@@ -1,0 +1,50 @@
+{
+  "name": "Blackbelt Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1552863674483067
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lugia",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "stealthrock",
+        "quickattack",
+        "confusion",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "docile",
+      "ability": "rockhead",
+      "moveset": [
+        "dragonpulse",
+        "firepunch",
+        "scratch",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

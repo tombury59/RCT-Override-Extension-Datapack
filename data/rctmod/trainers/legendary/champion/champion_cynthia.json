@@ -1,0 +1,110 @@
+{
+  "name": "Champion Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15901001798059564
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 92,
+      "nature": "bashful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "blizzard",
+        "detect",
+        "tackle",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "naive",
+      "ability": "static",
+      "moveset": [
+        "rest",
+        "earthquake",
+        "ironhead",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "bashful",
+      "ability": "overgrow",
+      "moveset": [
+        "willowisp",
+        "outrage",
+        "doubleedge",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "brave",
+      "ability": "pressure",
+      "moveset": [
+        "surf",
+        "icepunch",
+        "zenheadbutt",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "mild",
+      "ability": "immunity",
+      "moveset": [
+        "crunch",
+        "solarbeam",
+        "protect",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "gentle",
+      "ability": "immunity",
+      "moveset": [
+        "doubleedge",
+        "willowisp",
+        "thunder",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

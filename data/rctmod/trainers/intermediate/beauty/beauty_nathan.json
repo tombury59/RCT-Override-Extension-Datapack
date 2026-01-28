@@ -1,0 +1,80 @@
+{
+  "name": "Beauty Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10423017464476012
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "quirky",
+      "ability": "flashfire",
+      "moveset": [
+        "stoneedge",
+        "energyball",
+        "whirlwind",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "hardy",
+      "ability": "rockhead",
+      "moveset": [
+        "shadowclaw",
+        "roar",
+        "bodyslam",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "docile",
+      "ability": "overgrow",
+      "moveset": [
+        "bodyslam",
+        "doubleedge",
+        "toxic",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "naive",
+      "ability": "soundproof",
+      "moveset": [
+        "wildcharge",
+        "substitute",
+        "confusion",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

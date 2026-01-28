@@ -1,0 +1,50 @@
+{
+  "name": "Beauty Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1432152774338347
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "bold",
+      "ability": "soundproof",
+      "moveset": [
+        "hyperbeam",
+        "thunderbolt",
+        "outrage",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "naive",
+      "ability": "levitate",
+      "moveset": [
+        "shadowclaw",
+        "solarbeam",
+        "bodyslam",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

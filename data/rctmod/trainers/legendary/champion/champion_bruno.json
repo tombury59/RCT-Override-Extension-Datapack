@@ -1,0 +1,95 @@
+{
+  "name": "Champion Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11655116202025224
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 97,
+      "nature": "bashful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "dragonpulse",
+        "calmmind",
+        "dragonrush",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 94,
+      "nature": "naughty",
+      "ability": "syncronize",
+      "moveset": [
+        "agility",
+        "dazzlinggleam",
+        "bodyslam",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "MALE",
+      "level": 97,
+      "nature": "mild",
+      "ability": "syncronize",
+      "moveset": [
+        "shadowball",
+        "trickroom",
+        "doubleedge",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "relaxed",
+      "ability": "swarm",
+      "moveset": [
+        "rest",
+        "megapunch",
+        "moonblast",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 98,
+      "nature": "bashful",
+      "ability": "rockhead",
+      "moveset": [
+        "stoneedge",
+        "rest",
+        "airslash",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

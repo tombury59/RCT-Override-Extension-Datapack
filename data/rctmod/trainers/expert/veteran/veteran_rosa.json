@@ -1,0 +1,80 @@
+{
+  "name": "Veteran Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18151395357737848
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "squirtle",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "brave",
+      "ability": "swarm",
+      "moveset": [
+        "ember",
+        "detect",
+        "earthquake",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "modest",
+      "ability": "thickfat",
+      "moveset": [
+        "psychic",
+        "dragonrush",
+        "quickattack",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "brave",
+      "ability": "immunity",
+      "moveset": [
+        "darkpulse",
+        "quickattack",
+        "toxic",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "naive",
+      "ability": "flashfire",
+      "moveset": [
+        "dragonrush",
+        "stealthrock",
+        "dazzlinggleam",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

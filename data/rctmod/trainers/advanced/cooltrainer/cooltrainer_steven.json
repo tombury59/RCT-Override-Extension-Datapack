@@ -1,0 +1,95 @@
+{
+  "name": "Cooltrainer Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12949703564726486
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "lonely",
+      "ability": "soundproof",
+      "moveset": [
+        "stealthrock",
+        "takedown",
+        "confusion",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "hardy",
+      "ability": "levitate",
+      "moveset": [
+        "trickroom",
+        "pound",
+        "icepunch",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "naughty",
+      "ability": "innerfocus",
+      "moveset": [
+        "hyperbeam",
+        "whirlwind",
+        "closecombat",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "impish",
+      "ability": "compoundeyes",
+      "moveset": [
+        "zenheadbutt",
+        "tailwind",
+        "ember",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "rash",
+      "ability": "levitate",
+      "moveset": [
+        "focusblast",
+        "flareblitz",
+        "scratch",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

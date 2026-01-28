@@ -1,0 +1,65 @@
+{
+  "name": "Youngster Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11987277495715858
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "brave",
+      "ability": "flashfire",
+      "moveset": [
+        "swordsdance",
+        "flareblitz",
+        "airslash",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 6,
+      "nature": "quiet",
+      "ability": "swarm",
+      "moveset": [
+        "gigaimpact",
+        "focusblast",
+        "growth",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "naive",
+      "ability": "overgrow",
+      "moveset": [
+        "megakick",
+        "whirlwind",
+        "gigaimpact",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

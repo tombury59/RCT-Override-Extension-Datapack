@@ -1,0 +1,95 @@
+{
+  "name": "Swimmer Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11924392069890843
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "mild",
+      "ability": "immunity",
+      "moveset": [
+        "megakick",
+        "quickattack",
+        "nastyplot",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "calm",
+      "ability": "syncronize",
+      "moveset": [
+        "crunch",
+        "focusblast",
+        "substitute",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "rash",
+      "ability": "compoundeyes",
+      "moveset": [
+        "hydropump",
+        "rest",
+        "scratch",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "careful",
+      "ability": "effectspore",
+      "moveset": [
+        "shadowclaw",
+        "nastyplot",
+        "solarbeam",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "jolly",
+      "ability": "voltabsorb",
+      "moveset": [
+        "megapunch",
+        "recover",
+        "ironhead",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Ruin Maniac Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12485514625015068
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "mild",
+      "ability": "rockhead",
+      "moveset": [
+        "vinewhip",
+        "willowisp",
+        "megakick",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "mild",
+      "ability": "levitate",
+      "moveset": [
+        "roar",
+        "hyperbeam",
+        "blizzard",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "naive",
+      "ability": "voltabsorb",
+      "moveset": [
+        "thunderbolt",
+        "megakick",
+        "recover",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "sassy",
+      "ability": "torrent",
+      "moveset": [
+        "airslash",
+        "scratch",
+        "tailwind",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "mild",
+      "ability": "immunity",
+      "moveset": [
+        "ironhead",
+        "outrage",
+        "solarbeam",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

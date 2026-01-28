@@ -1,0 +1,110 @@
+{
+  "name": "Dragon Tamer Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19501775236027374
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "snorlax",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "serious",
+      "ability": "soundproof",
+      "moveset": [
+        "icepunch",
+        "growth",
+        "thunder",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "mild",
+      "ability": "syncronize",
+      "moveset": [
+        "gigaimpact",
+        "darkpulse",
+        "thrash",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "serious",
+      "ability": "pressure",
+      "moveset": [
+        "dazzlinggleam",
+        "megakick",
+        "flareblitz",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "calm",
+      "ability": "pressure",
+      "moveset": [
+        "hyperbeam",
+        "crunch",
+        "agility",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "quirky",
+      "ability": "voltabsorb",
+      "moveset": [
+        "stealthrock",
+        "wildcharge",
+        "flareblitz",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "quirky",
+      "ability": "torrent",
+      "moveset": [
+        "takedown",
+        "closecombat",
+        "willowisp",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

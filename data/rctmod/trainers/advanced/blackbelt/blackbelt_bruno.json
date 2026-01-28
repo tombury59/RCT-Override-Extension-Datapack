@@ -1,0 +1,65 @@
+{
+  "name": "Blackbelt Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18434634343429473
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "bashful",
+      "ability": "syncronize",
+      "moveset": [
+        "shadowclaw",
+        "crunch",
+        "confusion",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "lonely",
+      "ability": "swarm",
+      "moveset": [
+        "stoneedge",
+        "flashcannon",
+        "calmmind",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "mild",
+      "ability": "pressure",
+      "moveset": [
+        "sleeppowder",
+        "takedown",
+        "firepunch",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

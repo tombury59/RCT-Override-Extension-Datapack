@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14354620248627165
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "blastoise",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "timid",
+      "ability": "immunity",
+      "moveset": [
+        "closecombat",
+        "energyball",
+        "wildcharge",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "naughty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "gigaimpact",
+        "psybeam",
+        "icepunch",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "quirky",
+      "ability": "overgrow",
+      "moveset": [
+        "doubleedge",
+        "watergun",
+        "toxic",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

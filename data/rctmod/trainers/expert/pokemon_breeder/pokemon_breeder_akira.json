@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Breeder Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14187863776446513
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "rash",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thunder",
+        "crunch",
+        "detect",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "hardy",
+      "ability": "overgrow",
+      "moveset": [
+        "growth",
+        "fireblast",
+        "stoneedge",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "serious",
+      "ability": "compoundeyes",
+      "moveset": [
+        "darkpulse",
+        "willowisp",
+        "doubleedge",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "mild",
+      "ability": "static",
+      "moveset": [
+        "scratch",
+        "surf",
+        "pound",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "lax",
+      "ability": "thickfat",
+      "moveset": [
+        "bodyslam",
+        "sleeppowder",
+        "ironhead",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "careful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "shadowclaw",
+        "sleeppowder",
+        "pound",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1741545374156755
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "quirky",
+      "ability": "static",
+      "moveset": [
+        "agility",
+        "bodyslam",
+        "fireblast",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "naughty",
+      "ability": "immunity",
+      "moveset": [
+        "rest",
+        "wildcharge",
+        "vinewhip",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "calm",
+      "ability": "blaze",
+      "moveset": [
+        "whirlwind",
+        "dazzlinggleam",
+        "thrash",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

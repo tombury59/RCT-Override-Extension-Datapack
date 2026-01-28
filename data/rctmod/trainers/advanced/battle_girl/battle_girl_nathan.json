@@ -1,0 +1,80 @@
+{
+  "name": "Battle Girl Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.178130823960312
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "serious",
+      "ability": "waterabsorb",
+      "moveset": [
+        "outrage",
+        "stoneedge",
+        "thunderwave",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "quiet",
+      "ability": "immunity",
+      "moveset": [
+        "hyperbeam",
+        "psychic",
+        "rest",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "relaxed",
+      "ability": "waterabsorb",
+      "moveset": [
+        "bodyslam",
+        "flashcannon",
+        "hyperbeam",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "naughty",
+      "ability": "keeneye",
+      "moveset": [
+        "earthquake",
+        "recover",
+        "doubleedge",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

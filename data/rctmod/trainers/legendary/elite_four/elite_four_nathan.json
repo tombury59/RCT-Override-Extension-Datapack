@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19174176780000765
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "hardy",
+      "ability": "thickfat",
+      "moveset": [
+        "megakick",
+        "sleeppowder",
+        "moonblast",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "stoneedge",
+        "rest",
+        "thunder",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "naive",
+      "ability": "voltabsorb",
+      "moveset": [
+        "firepunch",
+        "dazzlinggleam",
+        "roar",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "lonely",
+      "ability": "pressure",
+      "moveset": [
+        "icepunch",
+        "flamethrower",
+        "scratch",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "calm",
+      "ability": "keeneye",
+      "moveset": [
+        "flareblitz",
+        "solarbeam",
+        "quickattack",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "mild",
+      "ability": "soundproof",
+      "moveset": [
+        "outrage",
+        "dazzlinggleam",
+        "zenheadbutt",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

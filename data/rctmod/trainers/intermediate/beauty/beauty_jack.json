@@ -1,0 +1,80 @@
+{
+  "name": "Beauty Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17322357405586924
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "modest",
+      "ability": "blaze",
+      "moveset": [
+        "toxic",
+        "vinewhip",
+        "flareblitz",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "relaxed",
+      "ability": "torrent",
+      "moveset": [
+        "hyperbeam",
+        "gigaimpact",
+        "solarbeam",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "bodyslam",
+        "sleeppowder",
+        "quickattack",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "impish",
+      "ability": "flashfire",
+      "moveset": [
+        "crunch",
+        "whirlwind",
+        "hydropump",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

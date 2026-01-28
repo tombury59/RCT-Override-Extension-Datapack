@@ -1,0 +1,95 @@
+{
+  "name": "Beauty Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19886970922258518
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "lonely",
+      "ability": "levitate",
+      "moveset": [
+        "wildcharge",
+        "blizzard",
+        "pound",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "mild",
+      "ability": "thickfat",
+      "moveset": [
+        "airslash",
+        "stealthrock",
+        "dragonrush",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "naive",
+      "ability": "keeneye",
+      "moveset": [
+        "psychic",
+        "takedown",
+        "quickattack",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "stoneedge",
+        "megapunch",
+        "roar",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "firepunch",
+        "sleeppowder",
+        "hydropump",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

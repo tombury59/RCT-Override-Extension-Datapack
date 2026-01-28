@@ -1,0 +1,65 @@
+{
+  "name": "Pok\u00e9mon Breeder Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1793317461869911
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "docile",
+      "ability": "syncronize",
+      "moveset": [
+        "stunspore",
+        "outrage",
+        "ironhead",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "careful",
+      "ability": "blaze",
+      "moveset": [
+        "quickattack",
+        "bodyslam",
+        "agility",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "naive",
+      "ability": "soundproof",
+      "moveset": [
+        "icebeam",
+        "ironhead",
+        "stunspore",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

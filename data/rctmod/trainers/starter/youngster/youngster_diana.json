@@ -1,0 +1,35 @@
+{
+  "name": "Youngster Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10783618676824691
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "relaxed",
+      "ability": "voltabsorb",
+      "moveset": [
+        "whirlwind",
+        "dragonrush",
+        "scratch",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

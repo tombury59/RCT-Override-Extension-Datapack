@@ -1,0 +1,95 @@
+{
+  "name": "Battle Girl Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10281236977000943
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "serious",
+      "ability": "waterabsorb",
+      "moveset": [
+        "darkpulse",
+        "earthquake",
+        "rest",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "calm",
+      "ability": "effectspore",
+      "moveset": [
+        "focusblast",
+        "crunch",
+        "calmmind",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "sassy",
+      "ability": "syncronize",
+      "moveset": [
+        "solarbeam",
+        "hyperbeam",
+        "willowisp",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "lonely",
+      "ability": "rockhead",
+      "moveset": [
+        "solarbeam",
+        "dragonrush",
+        "swordsdance",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thunderpunch",
+        "quickattack",
+        "calmmind",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17719638163535997
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "timid",
+      "ability": "immunity",
+      "moveset": [
+        "sleeppowder",
+        "wildcharge",
+        "scratch",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "serious",
+      "ability": "overgrow",
+      "moveset": [
+        "gigaimpact",
+        "tailwind",
+        "watergun",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "sassy",
+      "ability": "blaze",
+      "moveset": [
+        "outrage",
+        "thunderpunch",
+        "hydropump",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "quiet",
+      "ability": "voltabsorb",
+      "moveset": [
+        "confusion",
+        "icepunch",
+        "closecombat",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "calm",
+      "ability": "syncronize",
+      "moveset": [
+        "protect",
+        "quickattack",
+        "psychic",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

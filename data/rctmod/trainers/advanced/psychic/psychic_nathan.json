@@ -1,0 +1,80 @@
+{
+  "name": "Psychic Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14292556896060699
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "sassy",
+      "ability": "soundproof",
+      "moveset": [
+        "shadowclaw",
+        "whirlwind",
+        "thundershock",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "adamant",
+      "ability": "soundproof",
+      "moveset": [
+        "agility",
+        "moonblast",
+        "outrage",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "naughty",
+      "ability": "rockhead",
+      "moveset": [
+        "thunderwave",
+        "ironhead",
+        "firepunch",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "adamant",
+      "ability": "syncronize",
+      "moveset": [
+        "icepunch",
+        "willowisp",
+        "blizzard",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Scientist Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19186610466277493
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "calm",
+      "ability": "overgrow",
+      "moveset": [
+        "scratch",
+        "surf",
+        "megapunch",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "pound",
+        "dragonpulse",
+        "swordsdance",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "crunch",
+        "nastyplot",
+        "dragonrush",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

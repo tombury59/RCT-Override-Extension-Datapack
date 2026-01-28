@@ -1,0 +1,50 @@
+{
+  "name": "Bug Catcher Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16070015426207507
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "adamant",
+      "ability": "swarm",
+      "moveset": [
+        "scratch",
+        "takedown",
+        "moonblast",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "hardy",
+      "ability": "compoundeyes",
+      "moveset": [
+        "firepunch",
+        "flamethrower",
+        "doubleedge",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

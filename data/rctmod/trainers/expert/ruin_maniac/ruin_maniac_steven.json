@@ -1,0 +1,80 @@
+{
+  "name": "Ruin Maniac Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19161408025602744
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "bashful",
+      "ability": "intimidate",
+      "moveset": [
+        "dragonpulse",
+        "firepunch",
+        "calmmind",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "jolly",
+      "ability": "waterabsorb",
+      "moveset": [
+        "stealthrock",
+        "airslash",
+        "doubleedge",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "careful",
+      "ability": "syncronize",
+      "moveset": [
+        "confusion",
+        "tailwind",
+        "closecombat",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "lonely",
+      "ability": "overgrow",
+      "moveset": [
+        "dazzlinggleam",
+        "thrash",
+        "trickroom",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

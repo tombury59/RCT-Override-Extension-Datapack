@@ -1,0 +1,95 @@
+{
+  "name": "Elite Four Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11749849114427478
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "bold",
+      "ability": "overgrow",
+      "moveset": [
+        "whirlwind",
+        "earthquake",
+        "surf",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "hasty",
+      "ability": "flashfire",
+      "moveset": [
+        "thrash",
+        "stunspore",
+        "thunder",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "serious",
+      "ability": "voltabsorb",
+      "moveset": [
+        "moonblast",
+        "detect",
+        "megakick",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "naive",
+      "ability": "flashfire",
+      "moveset": [
+        "firepunch",
+        "takedown",
+        "stealthrock",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "sassy",
+      "ability": "overgrow",
+      "moveset": [
+        "scratch",
+        "flareblitz",
+        "vinewhip",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

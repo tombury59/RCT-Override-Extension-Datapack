@@ -1,0 +1,80 @@
+{
+  "name": "Blackbelt Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16584380273158078
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "modest",
+      "ability": "soundproof",
+      "moveset": [
+        "thunderwave",
+        "closecombat",
+        "thunderpunch",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "lonely",
+      "ability": "waterabsorb",
+      "moveset": [
+        "psychic",
+        "gigaimpact",
+        "toxic",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "rash",
+      "ability": "overgrow",
+      "moveset": [
+        "thunderbolt",
+        "recover",
+        "dragonrush",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "energyball",
+        "flareblitz",
+        "earthquake",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

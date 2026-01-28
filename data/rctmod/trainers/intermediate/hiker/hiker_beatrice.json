@@ -1,0 +1,80 @@
+{
+  "name": "Hiker Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1028383531519363
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zekrom",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "naughty",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderpunch",
+        "focusblast",
+        "stunspore",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "growth",
+        "surf",
+        "doubleedge",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "brave",
+      "ability": "syncronize",
+      "moveset": [
+        "outrage",
+        "thunderbolt",
+        "toxic",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "calm",
+      "ability": "flashfire",
+      "moveset": [
+        "doubleedge",
+        "stunspore",
+        "outrage",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Battle Girl Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11761893014247696
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "bold",
+      "ability": "intimidate",
+      "moveset": [
+        "protect",
+        "solarbeam",
+        "icepunch",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "lonely",
+      "ability": "keeneye",
+      "moveset": [
+        "rest",
+        "earthquake",
+        "takedown",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "hardy",
+      "ability": "compoundeyes",
+      "moveset": [
+        "gigaimpact",
+        "blizzard",
+        "sleeppowder",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "timid",
+      "ability": "thickfat",
+      "moveset": [
+        "trickroom",
+        "pound",
+        "outrage",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

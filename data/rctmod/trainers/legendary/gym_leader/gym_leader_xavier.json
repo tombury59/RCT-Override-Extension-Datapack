@@ -1,0 +1,110 @@
+{
+  "name": "Gym Leader Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18084781897573357
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 81,
+      "nature": "hasty",
+      "ability": "blaze",
+      "moveset": [
+        "gigaimpact",
+        "willowisp",
+        "darkpulse",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "serious",
+      "ability": "compoundeyes",
+      "moveset": [
+        "dragonpulse",
+        "tackle",
+        "icepunch",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "quiet",
+      "ability": "flashfire",
+      "moveset": [
+        "rest",
+        "gigaimpact",
+        "ember",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "lax",
+      "ability": "sturdy",
+      "moveset": [
+        "darkpulse",
+        "pound",
+        "thunderpunch",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "lonely",
+      "ability": "pressure",
+      "moveset": [
+        "swordsdance",
+        "dragonpulse",
+        "thunderpunch",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "willowisp",
+        "flashcannon",
+        "gigaimpact",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

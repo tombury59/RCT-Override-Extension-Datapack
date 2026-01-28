@@ -1,0 +1,50 @@
+{
+  "name": "Fisherman Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14901717937285294
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "thunder",
+        "tailwind",
+        "thrash",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "shadowclaw",
+        "doubleedge",
+        "stunspore",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

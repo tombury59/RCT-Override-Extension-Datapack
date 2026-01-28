@@ -1,0 +1,50 @@
+{
+  "name": "Picnicker Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19404380201556248
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "brave",
+      "ability": "effectspore",
+      "moveset": [
+        "thunder",
+        "flareblitz",
+        "substitute",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "icepunch",
+        "rest",
+        "wildcharge",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

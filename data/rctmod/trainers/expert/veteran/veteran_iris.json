@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1418152841767838
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "tailwind",
+        "flareblitz",
+        "icebeam",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blastoise",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "naughty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "airslash",
+        "firepunch",
+        "calmmind",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "modest",
+      "ability": "swarm",
+      "moveset": [
+        "megakick",
+        "nastyplot",
+        "wildcharge",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "docile",
+      "ability": "static",
+      "moveset": [
+        "thunderpunch",
+        "darkpulse",
+        "quickattack",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "naughty",
+      "ability": "syncronize",
+      "moveset": [
+        "tackle",
+        "protect",
+        "fireblast",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

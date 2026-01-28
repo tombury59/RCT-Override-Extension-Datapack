@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15967888927890012
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "calm",
+      "ability": "blaze",
+      "moveset": [
+        "gigaimpact",
+        "ember",
+        "thrash",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "quiet",
+      "ability": "thickfat",
+      "moveset": [
+        "willowisp",
+        "fireblast",
+        "quickattack",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "quiet",
+      "ability": "rockhead",
+      "moveset": [
+        "dazzlinggleam",
+        "bodyslam",
+        "earthquake",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "impish",
+      "ability": "thickfat",
+      "moveset": [
+        "closecombat",
+        "flashcannon",
+        "trickroom",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "hyperbeam",
+        "fireblast",
+        "wildcharge",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Bird Keeper Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18873314407651343
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "lax",
+      "ability": "static",
+      "moveset": [
+        "energyball",
+        "protect",
+        "gigaimpact",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "relaxed",
+      "ability": "voltabsorb",
+      "moveset": [
+        "flareblitz",
+        "blizzard",
+        "roar",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "megakick",
+        "bodyslam",
+        "hydropump",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "vinewhip",
+        "agility",
+        "icepunch",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "detect",
+        "thunderpunch",
+        "quickattack",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

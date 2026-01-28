@@ -1,0 +1,50 @@
+{
+  "name": "Lass Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10167393920987777
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 10,
+      "nature": "quiet",
+      "ability": "thickfat",
+      "moveset": [
+        "megapunch",
+        "outrage",
+        "ember",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "sassy",
+      "ability": "swarm",
+      "moveset": [
+        "vinewhip",
+        "earthquake",
+        "whirlwind",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

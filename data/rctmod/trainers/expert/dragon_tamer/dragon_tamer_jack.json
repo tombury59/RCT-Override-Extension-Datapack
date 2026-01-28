@@ -1,0 +1,65 @@
+{
+  "name": "Dragon Tamer Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13210075572285893
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "impish",
+      "ability": "immunity",
+      "moveset": [
+        "quickattack",
+        "bodyslam",
+        "substitute",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "brave",
+      "ability": "voltabsorb",
+      "moveset": [
+        "ember",
+        "recover",
+        "pound",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "timid",
+      "ability": "waterabsorb",
+      "moveset": [
+        "zenheadbutt",
+        "outrage",
+        "whirlwind",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

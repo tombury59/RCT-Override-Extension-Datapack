@@ -1,0 +1,80 @@
+{
+  "name": "Cooltrainer Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12422403462936643
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "mild",
+      "ability": "sturdy",
+      "moveset": [
+        "takedown",
+        "calmmind",
+        "surf",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "whirlwind",
+        "confusion",
+        "wildcharge",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aggron",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "serious",
+      "ability": "immunity",
+      "moveset": [
+        "agility",
+        "icepunch",
+        "solarbeam",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "lonely",
+      "ability": "torrent",
+      "moveset": [
+        "scratch",
+        "vinewhip",
+        "stunspore",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

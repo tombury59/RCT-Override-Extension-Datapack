@@ -1,0 +1,65 @@
+{
+  "name": "Bug Catcher Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1779229973758328
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "sassy",
+      "ability": "swarm",
+      "moveset": [
+        "hydropump",
+        "megapunch",
+        "protect",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 14,
+      "nature": "quiet",
+      "ability": "sturdy",
+      "moveset": [
+        "icebeam",
+        "bodyslam",
+        "megakick",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "hasty",
+      "ability": "blaze",
+      "moveset": [
+        "energyball",
+        "earthquake",
+        "takedown",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

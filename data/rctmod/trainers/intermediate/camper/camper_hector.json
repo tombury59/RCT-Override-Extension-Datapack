@@ -1,0 +1,50 @@
+{
+  "name": "Camper Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1579510605169908
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "mild",
+      "ability": "compoundeyes",
+      "moveset": [
+        "scratch",
+        "confusion",
+        "stunspore",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "psybeam",
+        "outrage",
+        "roar",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

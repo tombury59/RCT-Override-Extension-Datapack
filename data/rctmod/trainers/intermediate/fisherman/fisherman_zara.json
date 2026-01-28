@@ -1,0 +1,50 @@
+{
+  "name": "Fisherman Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15522151391173397
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "adamant",
+      "ability": "static",
+      "moveset": [
+        "pound",
+        "rest",
+        "hyperbeam",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "calm",
+      "ability": "swarm",
+      "moveset": [
+        "energyball",
+        "tailwind",
+        "takedown",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

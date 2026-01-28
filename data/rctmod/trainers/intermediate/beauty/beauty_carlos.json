@@ -1,0 +1,95 @@
+{
+  "name": "Beauty Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1988731006000323
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "rash",
+      "ability": "swarm",
+      "moveset": [
+        "recover",
+        "icebeam",
+        "closecombat",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "thunderwave",
+        "psychic",
+        "closecombat",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "lonely",
+      "ability": "flashfire",
+      "moveset": [
+        "detect",
+        "airslash",
+        "megakick",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "psychic",
+        "megapunch",
+        "thunderwave",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "detect",
+        "closecombat",
+        "thrash",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

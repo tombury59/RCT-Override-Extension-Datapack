@@ -1,0 +1,95 @@
+{
+  "name": "Bird Keeper Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17766233710691312
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "shadowball",
+        "substitute",
+        "earthquake",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "docile",
+      "ability": "innerfocus",
+      "moveset": [
+        "trickroom",
+        "ironhead",
+        "flashcannon",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "rash",
+      "ability": "soundproof",
+      "moveset": [
+        "toxic",
+        "dragonrush",
+        "bodyslam",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "quirky",
+      "ability": "pressure",
+      "moveset": [
+        "tailwind",
+        "fireblast",
+        "doubleedge",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blastoise",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "modest",
+      "ability": "overgrow",
+      "moveset": [
+        "airslash",
+        "sleeppowder",
+        "crunch",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

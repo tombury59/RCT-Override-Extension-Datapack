@@ -1,0 +1,80 @@
+{
+  "name": "Psychic Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14834564216073137
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "docile",
+      "ability": "overgrow",
+      "moveset": [
+        "tailwind",
+        "blizzard",
+        "flareblitz",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "mild",
+      "ability": "rockhead",
+      "moveset": [
+        "nastyplot",
+        "firepunch",
+        "flashcannon",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "sassy",
+      "ability": "sturdy",
+      "moveset": [
+        "focusblast",
+        "wildcharge",
+        "hyperbeam",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "gentle",
+      "ability": "sturdy",
+      "moveset": [
+        "closecombat",
+        "nastyplot",
+        "tackle",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

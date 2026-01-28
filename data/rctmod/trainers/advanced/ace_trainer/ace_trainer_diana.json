@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1068442678748794
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raikou",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "gentle",
+      "ability": "levitate",
+      "moveset": [
+        "dazzlinggleam",
+        "outrage",
+        "rest",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "brave",
+      "ability": "soundproof",
+      "moveset": [
+        "scratch",
+        "ember",
+        "gigaimpact",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "mild",
+      "ability": "overgrow",
+      "moveset": [
+        "thunderbolt",
+        "detect",
+        "ironhead",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Fisherman Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1707990260589528
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "hasty",
+      "ability": "effectspore",
+      "moveset": [
+        "psybeam",
+        "icepunch",
+        "stealthrock",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "hardy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "vinewhip",
+        "icepunch",
+        "growth",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "mild",
+      "ability": "compoundeyes",
+      "moveset": [
+        "tailwind",
+        "moonblast",
+        "dragonrush",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "quirky",
+      "ability": "torrent",
+      "moveset": [
+        "tailwind",
+        "wildcharge",
+        "watergun",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "darkpulse",
+        "tailwind",
+        "zenheadbutt",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "doubleedge",
+        "flashcannon",
+        "detect",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

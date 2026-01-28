@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17510342962440212
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "gentle",
+      "ability": "static",
+      "moveset": [
+        "shadowball",
+        "hyperbeam",
+        "thunderwave",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "thunderwave",
+        "vinewhip",
+        "icepunch",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "naughty",
+      "ability": "static",
+      "moveset": [
+        "airslash",
+        "icepunch",
+        "ironhead",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

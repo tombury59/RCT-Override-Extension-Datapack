@@ -1,0 +1,95 @@
+{
+  "name": "Champion Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11304257538255226
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 98,
+      "nature": "brave",
+      "ability": "syncronize",
+      "moveset": [
+        "psychic",
+        "scratch",
+        "toxic",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "FEMALE",
+      "level": 94,
+      "nature": "docile",
+      "ability": "innerfocus",
+      "moveset": [
+        "stoneedge",
+        "psychic",
+        "toxic",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "naughty",
+      "ability": "flashfire",
+      "moveset": [
+        "doubleedge",
+        "darkpulse",
+        "stealthrock",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "thunderwave",
+        "hyperbeam",
+        "megakick",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "relaxed",
+      "ability": "effectspore",
+      "moveset": [
+        "bodyslam",
+        "airslash",
+        "thunderpunch",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

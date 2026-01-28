@@ -1,0 +1,110 @@
+{
+  "name": "Dragon Tamer Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17754828704193826
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "hasty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "megakick",
+        "rest",
+        "megapunch",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "careful",
+      "ability": "soundproof",
+      "moveset": [
+        "icepunch",
+        "substitute",
+        "flareblitz",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "impish",
+      "ability": "soundproof",
+      "moveset": [
+        "fireblast",
+        "crunch",
+        "quickattack",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "agility",
+        "earthquake",
+        "dragonpulse",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "naive",
+      "ability": "torrent",
+      "moveset": [
+        "flareblitz",
+        "dragonpulse",
+        "protect",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "thundershock",
+        "willowisp",
+        "doubleedge",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Battle Girl Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11437494533108267
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "naive",
+      "ability": "soundproof",
+      "moveset": [
+        "quickattack",
+        "recover",
+        "confusion",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "thunderpunch",
+        "pound",
+        "detect",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "brave",
+      "ability": "innerfocus",
+      "moveset": [
+        "substitute",
+        "scratch",
+        "fireblast",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "pound",
+        "sleeppowder",
+        "vinewhip",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Bird Keeper Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18898179835215137
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "naughty",
+      "ability": "immunity",
+      "moveset": [
+        "pound",
+        "growth",
+        "flamethrower",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "mild",
+      "ability": "pressure",
+      "moveset": [
+        "shadowclaw",
+        "earthquake",
+        "recover",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "calmmind",
+        "hyperbeam",
+        "vinewhip",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "docile",
+      "ability": "effectspore",
+      "moveset": [
+        "dragonrush",
+        "ember",
+        "protect",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

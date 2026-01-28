@@ -1,0 +1,110 @@
+{
+  "name": "Bug Catcher Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13795264594085688
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 9,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "growth",
+        "thundershock",
+        "bodyslam",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "MALE",
+      "level": 13,
+      "nature": "hardy",
+      "ability": "compoundeyes",
+      "moveset": [
+        "hyperbeam",
+        "doubleedge",
+        "ember",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 13,
+      "nature": "bashful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "dragonpulse",
+        "thunderpunch",
+        "dragonrush",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "relaxed",
+      "ability": "immunity",
+      "moveset": [
+        "toxic",
+        "stoneedge",
+        "darkpulse",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "careful",
+      "ability": "thickfat",
+      "moveset": [
+        "pound",
+        "flareblitz",
+        "surf",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "icepunch",
+        "outrage",
+        "icebeam",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

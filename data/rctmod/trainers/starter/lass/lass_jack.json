@@ -1,0 +1,35 @@
+{
+  "name": "Lass Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13688902599989086
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "hydropump",
+        "closecombat",
+        "calmmind",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

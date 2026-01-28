@@ -1,0 +1,110 @@
+{
+  "name": "Ninja Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11106064819993307
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lucario",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "gentle",
+      "ability": "intimidate",
+      "moveset": [
+        "megapunch",
+        "flareblitz",
+        "protect",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "lax",
+      "ability": "swarm",
+      "moveset": [
+        "recover",
+        "hydropump",
+        "gigaimpact",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "jolly",
+      "ability": "overgrow",
+      "moveset": [
+        "agility",
+        "thunder",
+        "bodyslam",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "thunder",
+        "stoneedge",
+        "growth",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "brave",
+      "ability": "intimidate",
+      "moveset": [
+        "blizzard",
+        "pound",
+        "bodyslam",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "lax",
+      "ability": "sturdy",
+      "moveset": [
+        "firepunch",
+        "nastyplot",
+        "thunderbolt",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

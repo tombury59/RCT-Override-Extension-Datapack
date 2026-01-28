@@ -1,0 +1,95 @@
+{
+  "name": "Battle Girl Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18247499398040484
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "quiet",
+      "ability": "innerfocus",
+      "moveset": [
+        "zenheadbutt",
+        "thunder",
+        "shadowclaw",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "roar",
+        "dragonpulse",
+        "gigaimpact",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "brave",
+      "ability": "torrent",
+      "moveset": [
+        "sleeppowder",
+        "shadowclaw",
+        "thunder",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "modest",
+      "ability": "swarm",
+      "moveset": [
+        "scratch",
+        "closecombat",
+        "moonblast",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "docile",
+      "ability": "static",
+      "moveset": [
+        "roar",
+        "thundershock",
+        "bodyslam",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

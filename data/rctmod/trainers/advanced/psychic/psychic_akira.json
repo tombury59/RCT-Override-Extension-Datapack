@@ -1,0 +1,35 @@
+{
+  "name": "Psychic Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10122839683678492
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "stunspore",
+        "dragonrush",
+        "blizzard",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Youngster Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11782610127988524
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "hasty",
+      "ability": "intimidate",
+      "moveset": [
+        "trickroom",
+        "firepunch",
+        "ironhead",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

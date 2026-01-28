@@ -1,0 +1,80 @@
+{
+  "name": "Hiker Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18183131637759836
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "naive",
+      "ability": "compoundeyes",
+      "moveset": [
+        "megapunch",
+        "thundershock",
+        "takedown",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "docile",
+      "ability": "voltabsorb",
+      "moveset": [
+        "trickroom",
+        "wildcharge",
+        "thundershock",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "brave",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "quickattack",
+        "roar",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "quickattack",
+        "megakick",
+        "rest",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Ruin Maniac Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1312002173788716
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "careful",
+      "ability": "rockhead",
+      "moveset": [
+        "recover",
+        "icepunch",
+        "megakick",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

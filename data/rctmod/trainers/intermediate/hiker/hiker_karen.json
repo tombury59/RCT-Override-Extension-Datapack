@@ -1,0 +1,35 @@
+{
+  "name": "Hiker Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12439151397889532
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "bashful",
+      "ability": "keeneye",
+      "moveset": [
+        "airslash",
+        "icepunch",
+        "takedown",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

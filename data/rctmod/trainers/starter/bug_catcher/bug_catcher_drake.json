@@ -1,0 +1,50 @@
+{
+  "name": "Bug Catcher Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10020939136563588
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "quiet",
+      "ability": "overgrow",
+      "moveset": [
+        "recover",
+        "doubleedge",
+        "airslash",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "gigaimpact",
+        "trickroom",
+        "airslash",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

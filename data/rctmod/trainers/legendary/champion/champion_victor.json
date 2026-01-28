@@ -1,0 +1,110 @@
+{
+  "name": "Champion Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10881457023550628
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "naughty",
+      "ability": "flashfire",
+      "moveset": [
+        "shadowclaw",
+        "flashcannon",
+        "hyperbeam",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 92,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "fireblast",
+        "dragonrush",
+        "willowisp",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 92,
+      "nature": "rash",
+      "ability": "thickfat",
+      "moveset": [
+        "megakick",
+        "outrage",
+        "thundershock",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "bold",
+      "ability": "intimidate",
+      "moveset": [
+        "ironhead",
+        "vinewhip",
+        "wildcharge",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 97,
+      "nature": "brave",
+      "ability": "keeneye",
+      "moveset": [
+        "gigaimpact",
+        "roar",
+        "shadowball",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "FEMALE",
+      "level": 99,
+      "nature": "lax",
+      "ability": "pressure",
+      "moveset": [
+        "psybeam",
+        "zenheadbutt",
+        "megapunch",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

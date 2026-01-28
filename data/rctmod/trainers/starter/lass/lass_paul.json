@@ -1,0 +1,65 @@
+{
+  "name": "Lass Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11019443653418777
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "impish",
+      "ability": "voltabsorb",
+      "moveset": [
+        "substitute",
+        "quickattack",
+        "closecombat",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "zenheadbutt",
+        "dazzlinggleam",
+        "substitute",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "gentle",
+      "ability": "blaze",
+      "moveset": [
+        "stoneedge",
+        "shadowball",
+        "growth",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

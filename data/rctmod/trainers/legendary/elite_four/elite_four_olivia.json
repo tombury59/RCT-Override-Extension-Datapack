@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12580482345312113
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "bashful",
+      "ability": "compoundeyes",
+      "moveset": [
+        "solarbeam",
+        "nastyplot",
+        "icepunch",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "lax",
+      "ability": "intimidate",
+      "moveset": [
+        "zenheadbutt",
+        "toxic",
+        "outrage",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "bold",
+      "ability": "intimidate",
+      "moveset": [
+        "blizzard",
+        "gigaimpact",
+        "thunderwave",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 94,
+      "nature": "quirky",
+      "ability": "flashfire",
+      "moveset": [
+        "thunderbolt",
+        "quickattack",
+        "megapunch",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "bold",
+      "ability": "overgrow",
+      "moveset": [
+        "protect",
+        "moonblast",
+        "doubleedge",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "MALE",
+      "level": 87,
+      "nature": "brave",
+      "ability": "static",
+      "moveset": [
+        "ironhead",
+        "gigaimpact",
+        "flashcannon",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

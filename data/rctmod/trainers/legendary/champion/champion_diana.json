@@ -1,0 +1,80 @@
+{
+  "name": "Champion Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17930281737149936
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 98,
+      "nature": "rash",
+      "ability": "swarm",
+      "moveset": [
+        "dazzlinggleam",
+        "wildcharge",
+        "ironhead",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 94,
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "airslash",
+        "zenheadbutt",
+        "shadowclaw",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "quirky",
+      "ability": "effectspore",
+      "moveset": [
+        "stoneedge",
+        "ember",
+        "calmmind",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "docile",
+      "ability": "torrent",
+      "moveset": [
+        "ember",
+        "outrage",
+        "roar",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

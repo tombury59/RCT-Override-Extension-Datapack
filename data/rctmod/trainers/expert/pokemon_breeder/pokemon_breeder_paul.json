@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Breeder Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.195208701884211
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "hasty",
+      "ability": "rockhead",
+      "moveset": [
+        "takedown",
+        "energyball",
+        "stoneedge",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "brave",
+      "ability": "rockhead",
+      "moveset": [
+        "toxic",
+        "earthquake",
+        "energyball",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "hasty",
+      "ability": "swarm",
+      "moveset": [
+        "gigaimpact",
+        "calmmind",
+        "flashcannon",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "detect",
+        "icebeam",
+        "hyperbeam",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "megakick",
+        "protect",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "zenheadbutt",
+        "swordsdance",
+        "confusion",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

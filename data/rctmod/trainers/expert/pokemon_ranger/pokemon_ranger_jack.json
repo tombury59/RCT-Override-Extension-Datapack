@@ -1,0 +1,50 @@
+{
+  "name": "Pok\u00e9mon Ranger Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1302450891787635
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "adamant",
+      "ability": "blaze",
+      "moveset": [
+        "vinewhip",
+        "stunspore",
+        "hyperbeam",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "quiet",
+      "ability": "keeneye",
+      "moveset": [
+        "swordsdance",
+        "icepunch",
+        "earthquake",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

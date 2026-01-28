@@ -1,0 +1,80 @@
+{
+  "name": "Ace Trainer Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1981799683011301
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latias",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "lonely",
+      "ability": "pressure",
+      "moveset": [
+        "dragonpulse",
+        "earthquake",
+        "icepunch",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "quiet",
+      "ability": "waterabsorb",
+      "moveset": [
+        "fireblast",
+        "megakick",
+        "recover",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "jolly",
+      "ability": "torrent",
+      "moveset": [
+        "earthquake",
+        "psybeam",
+        "thrash",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "toxic",
+        "moonblast",
+        "dragonrush",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

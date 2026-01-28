@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19105209535777462
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "samurott",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "quiet",
+      "ability": "blaze",
+      "moveset": [
+        "megakick",
+        "dazzlinggleam",
+        "toxic",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "doubleedge",
+        "shadowball",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

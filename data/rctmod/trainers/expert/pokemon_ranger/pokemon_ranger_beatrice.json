@@ -1,0 +1,50 @@
+{
+  "name": "Pok\u00e9mon Ranger Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10235457631396466
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "reshiram",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "quiet",
+      "ability": "blaze",
+      "moveset": [
+        "icebeam",
+        "hyperbeam",
+        "roar",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "detect",
+        "flareblitz",
+        "outrage",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

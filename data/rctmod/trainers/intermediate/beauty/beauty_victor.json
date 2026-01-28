@@ -1,0 +1,95 @@
+{
+  "name": "Beauty Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15995130595968793
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "sassy",
+      "ability": "swarm",
+      "moveset": [
+        "crunch",
+        "substitute",
+        "shadowball",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "hasty",
+      "ability": "pressure",
+      "moveset": [
+        "flashcannon",
+        "earthquake",
+        "closecombat",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "naive",
+      "ability": "swarm",
+      "moveset": [
+        "willowisp",
+        "thrash",
+        "dragonpulse",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "docile",
+      "ability": "syncronize",
+      "moveset": [
+        "energyball",
+        "shadowclaw",
+        "willowisp",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "bold",
+      "ability": "soundproof",
+      "moveset": [
+        "confusion",
+        "takedown",
+        "growth",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

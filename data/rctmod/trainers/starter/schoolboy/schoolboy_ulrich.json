@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17127508987320375
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 11,
+      "nature": "impish",
+      "ability": "effectspore",
+      "moveset": [
+        "airslash",
+        "growth",
+        "firepunch",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "FEMALE",
+      "level": 14,
+      "nature": "sassy",
+      "ability": "blaze",
+      "moveset": [
+        "wildcharge",
+        "solarbeam",
+        "sleeppowder",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

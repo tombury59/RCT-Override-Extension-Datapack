@@ -1,0 +1,110 @@
+{
+  "name": "Bird Keeper Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17588923593575875
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "naive",
+      "ability": "voltabsorb",
+      "moveset": [
+        "wildcharge",
+        "earthquake",
+        "icebeam",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "quiet",
+      "ability": "compoundeyes",
+      "moveset": [
+        "flamethrower",
+        "crunch",
+        "swordsdance",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "bold",
+      "ability": "blaze",
+      "moveset": [
+        "icepunch",
+        "stealthrock",
+        "megapunch",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "brave",
+      "ability": "torrent",
+      "moveset": [
+        "flashcannon",
+        "gigaimpact",
+        "firepunch",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "stealthrock",
+        "quickattack",
+        "doubleedge",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "docile",
+      "ability": "voltabsorb",
+      "moveset": [
+        "closecombat",
+        "flareblitz",
+        "fireblast",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

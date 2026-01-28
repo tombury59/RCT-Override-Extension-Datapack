@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15258222400433225
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "quirky",
+      "ability": "overgrow",
+      "moveset": [
+        "protect",
+        "tackle",
+        "bodyslam",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "gentle",
+      "ability": "waterabsorb",
+      "moveset": [
+        "solarbeam",
+        "bodyslam",
+        "detect",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Elite Four Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15846648825744522
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aerodactyl",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "calm",
+      "ability": "soundproof",
+      "moveset": [
+        "willowisp",
+        "fireblast",
+        "earthquake",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "careful",
+      "ability": "soundproof",
+      "moveset": [
+        "dragonrush",
+        "focusblast",
+        "swordsdance",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "earthquake",
+        "rest",
+        "ironhead",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "immunity",
+      "moveset": [
+        "stoneedge",
+        "darkpulse",
+        "detect",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

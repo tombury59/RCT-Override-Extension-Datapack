@@ -1,0 +1,80 @@
+{
+  "name": "Pok\u00e9mon Breeder Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12276944124020421
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "sassy",
+      "ability": "thickfat",
+      "moveset": [
+        "takedown",
+        "thunder",
+        "recover",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "modest",
+      "ability": "compoundeyes",
+      "moveset": [
+        "earthquake",
+        "airslash",
+        "gigaimpact",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "quirky",
+      "ability": "voltabsorb",
+      "moveset": [
+        "quickattack",
+        "gigaimpact",
+        "thunderwave",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "rash",
+      "ability": "keeneye",
+      "moveset": [
+        "pound",
+        "doubleedge",
+        "nastyplot",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

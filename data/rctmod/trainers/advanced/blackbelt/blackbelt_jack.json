@@ -1,0 +1,50 @@
+{
+  "name": "Blackbelt Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12264445554558051
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "moltres",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "quirky",
+      "ability": "pressure",
+      "moveset": [
+        "tackle",
+        "willowisp",
+        "zenheadbutt",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "hasty",
+      "ability": "blaze",
+      "moveset": [
+        "closecombat",
+        "thunderbolt",
+        "crunch",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Elite Four Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14659886059207422
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "quirky",
+      "ability": "thickfat",
+      "moveset": [
+        "surf",
+        "outrage",
+        "thunderpunch",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "naughty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "scratch",
+        "sleeppowder",
+        "tackle",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

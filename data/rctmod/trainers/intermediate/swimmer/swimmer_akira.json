@@ -1,0 +1,95 @@
+{
+  "name": "Swimmer Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10797943338406668
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "relaxed",
+      "ability": "overgrow",
+      "moveset": [
+        "focusblast",
+        "calmmind",
+        "crunch",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "timid",
+      "ability": "thickfat",
+      "moveset": [
+        "megakick",
+        "outrage",
+        "roar",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blastoise",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "relaxed",
+      "ability": "pressure",
+      "moveset": [
+        "stunspore",
+        "zenheadbutt",
+        "doubleedge",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "naive",
+      "ability": "soundproof",
+      "moveset": [
+        "tailwind",
+        "hyperbeam",
+        "focusblast",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "bashful",
+      "ability": "immunity",
+      "moveset": [
+        "growth",
+        "firepunch",
+        "thunder",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

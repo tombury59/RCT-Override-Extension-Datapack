@@ -1,0 +1,65 @@
+{
+  "name": "Youngster Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14826500116189184
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "impish",
+      "ability": "flashfire",
+      "moveset": [
+        "ember",
+        "flareblitz",
+        "trickroom",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "calm",
+      "ability": "intimidate",
+      "moveset": [
+        "crunch",
+        "vinewhip",
+        "thrash",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "rash",
+      "ability": "soundproof",
+      "moveset": [
+        "firepunch",
+        "roar",
+        "watergun",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

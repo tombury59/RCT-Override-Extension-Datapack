@@ -1,0 +1,80 @@
+{
+  "name": "Ruin Maniac Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1455212260980834
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "hydropump",
+        "tailwind",
+        "firepunch",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "hyperbeam",
+        "detect",
+        "airslash",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "quirky",
+      "ability": "rockhead",
+      "moveset": [
+        "trickroom",
+        "blizzard",
+        "pound",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "hasty",
+      "ability": "syncronize",
+      "moveset": [
+        "icepunch",
+        "shadowclaw",
+        "thundershock",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

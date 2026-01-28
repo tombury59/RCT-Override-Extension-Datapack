@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11206007047144562
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "blastoise",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "rash",
+      "ability": "blaze",
+      "moveset": [
+        "zenheadbutt",
+        "dragonrush",
+        "thunder",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "mild",
+      "ability": "compoundeyes",
+      "moveset": [
+        "stoneedge",
+        "tackle",
+        "thunder",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "lonely",
+      "ability": "sturdy",
+      "moveset": [
+        "icepunch",
+        "flamethrower",
+        "doubleedge",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "modest",
+      "ability": "soundproof",
+      "moveset": [
+        "agility",
+        "thunderpunch",
+        "hyperbeam",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "serious",
+      "ability": "swarm",
+      "moveset": [
+        "hyperbeam",
+        "megakick",
+        "rest",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

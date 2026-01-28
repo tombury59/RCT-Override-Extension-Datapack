@@ -1,0 +1,35 @@
+{
+  "name": "Schoolboy Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16665345365713752
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "bold",
+      "ability": "innerfocus",
+      "moveset": [
+        "detect",
+        "dragonpulse",
+        "quickattack",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

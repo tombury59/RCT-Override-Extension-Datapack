@@ -1,0 +1,110 @@
+{
+  "name": "Dragon Tamer Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1963576785021576
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "tackle",
+        "sleeppowder",
+        "outrage",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "sassy",
+      "ability": "sturdy",
+      "moveset": [
+        "dazzlinggleam",
+        "scratch",
+        "outrage",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "gentle",
+      "ability": "keeneye",
+      "moveset": [
+        "hyperbeam",
+        "blizzard",
+        "thunderwave",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "quiet",
+      "ability": "blaze",
+      "moveset": [
+        "sleeppowder",
+        "thrash",
+        "darkpulse",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "careful",
+      "ability": "overgrow",
+      "moveset": [
+        "megapunch",
+        "stunspore",
+        "psybeam",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "adamant",
+      "ability": "effectspore",
+      "moveset": [
+        "flareblitz",
+        "substitute",
+        "flamethrower",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

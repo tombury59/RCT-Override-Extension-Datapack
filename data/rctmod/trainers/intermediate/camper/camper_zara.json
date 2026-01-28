@@ -1,0 +1,80 @@
+{
+  "name": "Camper Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10330463370223782
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "timid",
+      "ability": "syncronize",
+      "moveset": [
+        "detect",
+        "flareblitz",
+        "wildcharge",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "quiet",
+      "ability": "rockhead",
+      "moveset": [
+        "fireblast",
+        "sleeppowder",
+        "tackle",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "bold",
+      "ability": "thickfat",
+      "moveset": [
+        "earthquake",
+        "solarbeam",
+        "flareblitz",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "timid",
+      "ability": "intimidate",
+      "moveset": [
+        "scratch",
+        "thundershock",
+        "detect",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

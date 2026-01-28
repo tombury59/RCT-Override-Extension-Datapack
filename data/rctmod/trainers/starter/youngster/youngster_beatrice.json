@@ -1,0 +1,65 @@
+{
+  "name": "Youngster Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14882483174758468
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 6,
+      "nature": "impish",
+      "ability": "innerfocus",
+      "moveset": [
+        "crunch",
+        "scratch",
+        "rest",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 6,
+      "nature": "lonely",
+      "ability": "thickfat",
+      "moveset": [
+        "icebeam",
+        "calmmind",
+        "bodyslam",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "impish",
+      "ability": "voltabsorb",
+      "moveset": [
+        "megakick",
+        "takedown",
+        "moonblast",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

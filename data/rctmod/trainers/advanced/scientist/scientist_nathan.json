@@ -1,0 +1,50 @@
+{
+  "name": "Scientist Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14334572533915987
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "mild",
+      "ability": "flashfire",
+      "moveset": [
+        "hydropump",
+        "outrage",
+        "roar",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "thrash",
+        "shadowclaw",
+        "willowisp",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

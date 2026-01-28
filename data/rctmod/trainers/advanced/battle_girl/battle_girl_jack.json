@@ -1,0 +1,50 @@
+{
+  "name": "Battle Girl Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15784528273037826
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "careful",
+      "ability": "overgrow",
+      "moveset": [
+        "thunderbolt",
+        "agility",
+        "stoneedge",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "bashful",
+      "ability": "blaze",
+      "moveset": [
+        "outrage",
+        "trickroom",
+        "gigaimpact",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Veteran Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19097323960058246
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "bashful",
+      "ability": "flashfire",
+      "moveset": [
+        "flashcannon",
+        "outrage",
+        "agility",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "static",
+      "moveset": [
+        "psychic",
+        "nastyplot",
+        "shadowclaw",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

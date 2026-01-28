@@ -1,0 +1,110 @@
+{
+  "name": "Ace Trainer Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16416057832258552
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "rash",
+      "ability": "rockhead",
+      "moveset": [
+        "ironhead",
+        "toxic",
+        "flareblitz",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "hyperbeam",
+        "psybeam",
+        "toxic",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "jolly",
+      "ability": "overgrow",
+      "moveset": [
+        "stoneedge",
+        "icebeam",
+        "bodyslam",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "fireblast",
+        "roar",
+        "hyperbeam",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "hasty",
+      "ability": "levitate",
+      "moveset": [
+        "bodyslam",
+        "firepunch",
+        "roar",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "lax",
+      "ability": "innerfocus",
+      "moveset": [
+        "crunch",
+        "airslash",
+        "thrash",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

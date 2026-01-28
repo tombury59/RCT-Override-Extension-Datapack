@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Ranger Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18476491808523185
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "impish",
+      "ability": "thickfat",
+      "moveset": [
+        "quickattack",
+        "swordsdance",
+        "flareblitz",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "hardy",
+      "ability": "compoundeyes",
+      "moveset": [
+        "bodyslam",
+        "psybeam",
+        "detect",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "nastyplot",
+        "focusblast",
+        "flareblitz",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "calm",
+      "ability": "innerfocus",
+      "moveset": [
+        "wildcharge",
+        "thunderpunch",
+        "hydropump",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "impish",
+      "ability": "flashfire",
+      "moveset": [
+        "thrash",
+        "substitute",
+        "takedown",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

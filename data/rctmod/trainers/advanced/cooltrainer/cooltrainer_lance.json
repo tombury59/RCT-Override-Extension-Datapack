@@ -1,0 +1,95 @@
+{
+  "name": "Cooltrainer Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13699850939324737
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "hardy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "flareblitz",
+        "shadowclaw",
+        "protect",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "quirky",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thrash",
+        "ironhead",
+        "growth",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "takedown",
+        "icebeam",
+        "bodyslam",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "adamant",
+      "ability": "flashfire",
+      "moveset": [
+        "fireblast",
+        "stoneedge",
+        "firepunch",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "brave",
+      "ability": "swarm",
+      "moveset": [
+        "ironhead",
+        "whirlwind",
+        "solarbeam",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

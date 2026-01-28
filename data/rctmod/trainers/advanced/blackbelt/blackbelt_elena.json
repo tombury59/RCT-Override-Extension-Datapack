@@ -1,0 +1,80 @@
+{
+  "name": "Blackbelt Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14004451032972678
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gardevoir",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "serious",
+      "ability": "sturdy",
+      "moveset": [
+        "takedown",
+        "megapunch",
+        "focusblast",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "brave",
+      "ability": "innerfocus",
+      "moveset": [
+        "hyperbeam",
+        "stunspore",
+        "psychic",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "serious",
+      "ability": "flashfire",
+      "moveset": [
+        "closecombat",
+        "vinewhip",
+        "sleeppowder",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "brave",
+      "ability": "sturdy",
+      "moveset": [
+        "stoneedge",
+        "rest",
+        "ironhead",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

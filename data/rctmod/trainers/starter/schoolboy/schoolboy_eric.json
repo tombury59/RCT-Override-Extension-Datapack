@@ -1,0 +1,35 @@
+{
+  "name": "Schoolboy Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10659673243741419
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "magneton",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "lonely",
+      "ability": "overgrow",
+      "moveset": [
+        "stealthrock",
+        "darkpulse",
+        "doubleedge",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

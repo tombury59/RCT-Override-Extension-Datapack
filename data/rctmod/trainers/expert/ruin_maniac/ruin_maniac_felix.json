@@ -1,0 +1,65 @@
+{
+  "name": "Ruin Maniac Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1587064338797479
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "naive",
+      "ability": "keeneye",
+      "moveset": [
+        "bodyslam",
+        "pound",
+        "protect",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "modest",
+      "ability": "immunity",
+      "moveset": [
+        "thunderpunch",
+        "zenheadbutt",
+        "fireblast",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "docile",
+      "ability": "static",
+      "moveset": [
+        "dragonrush",
+        "ember",
+        "outrage",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

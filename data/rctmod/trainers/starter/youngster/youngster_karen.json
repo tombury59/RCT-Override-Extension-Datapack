@@ -1,0 +1,80 @@
+{
+  "name": "Youngster Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14574097452949208
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "serious",
+      "ability": "soundproof",
+      "moveset": [
+        "shadowball",
+        "recover",
+        "earthquake",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "MALE",
+      "level": 11,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "pound",
+        "nastyplot",
+        "megapunch",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "brave",
+      "ability": "static",
+      "moveset": [
+        "watergun",
+        "pound",
+        "megakick",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "naughty",
+      "ability": "flashfire",
+      "moveset": [
+        "tackle",
+        "icebeam",
+        "quickattack",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

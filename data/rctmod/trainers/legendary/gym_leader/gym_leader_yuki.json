@@ -1,0 +1,50 @@
+{
+  "name": "Gym Leader Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13219393898926513
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 81,
+      "nature": "calm",
+      "ability": "intimidate",
+      "moveset": [
+        "confusion",
+        "megakick",
+        "sleeppowder",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "quirky",
+      "ability": "pressure",
+      "moveset": [
+        "bodyslam",
+        "fireblast",
+        "hyperbeam",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

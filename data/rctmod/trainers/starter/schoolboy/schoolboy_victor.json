@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18162338398736047
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "modest",
+      "ability": "syncronize",
+      "moveset": [
+        "flareblitz",
+        "hydropump",
+        "earthquake",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "quiet",
+      "ability": "voltabsorb",
+      "moveset": [
+        "surf",
+        "earthquake",
+        "substitute",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Ruin Maniac Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11629485908183515
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aggron",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "lonely",
+      "ability": "intimidate",
+      "moveset": [
+        "takedown",
+        "megapunch",
+        "dazzlinggleam",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "rash",
+      "ability": "static",
+      "moveset": [
+        "zenheadbutt",
+        "thrash",
+        "sleeppowder",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "brave",
+      "ability": "syncronize",
+      "moveset": [
+        "confusion",
+        "icepunch",
+        "thunderwave",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "lax",
+      "ability": "effectspore",
+      "moveset": [
+        "outrage",
+        "protect",
+        "flareblitz",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

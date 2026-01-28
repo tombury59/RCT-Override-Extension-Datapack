@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Breeder Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1213320172681498
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "lax",
+      "ability": "swarm",
+      "moveset": [
+        "growth",
+        "thunderpunch",
+        "blizzard",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "careful",
+      "ability": "waterabsorb",
+      "moveset": [
+        "icepunch",
+        "megapunch",
+        "agility",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "gentle",
+      "ability": "torrent",
+      "moveset": [
+        "roar",
+        "hyperbeam",
+        "dragonpulse",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "lax",
+      "ability": "rockhead",
+      "moveset": [
+        "flareblitz",
+        "dragonrush",
+        "focusblast",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "docile",
+      "ability": "static",
+      "moveset": [
+        "takedown",
+        "psybeam",
+        "tackle",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "jolly",
+      "ability": "soundproof",
+      "moveset": [
+        "takedown",
+        "scratch",
+        "surf",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

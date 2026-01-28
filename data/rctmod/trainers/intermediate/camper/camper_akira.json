@@ -1,0 +1,65 @@
+{
+  "name": "Camper Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14272687104173465
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "quirky",
+      "ability": "soundproof",
+      "moveset": [
+        "tailwind",
+        "megapunch",
+        "vinewhip",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "brave",
+      "ability": "swarm",
+      "moveset": [
+        "vinewhip",
+        "earthquake",
+        "stunspore",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "docile",
+      "ability": "innerfocus",
+      "moveset": [
+        "shadowclaw",
+        "confusion",
+        "flareblitz",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

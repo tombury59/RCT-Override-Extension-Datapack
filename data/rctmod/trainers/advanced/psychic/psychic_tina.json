@@ -1,0 +1,80 @@
+{
+  "name": "Psychic Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12921503595818498
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "brave",
+      "ability": "waterabsorb",
+      "moveset": [
+        "zenheadbutt",
+        "firepunch",
+        "detect",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "naive",
+      "ability": "syncronize",
+      "moveset": [
+        "protect",
+        "megapunch",
+        "takedown",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "lax",
+      "ability": "rockhead",
+      "moveset": [
+        "protect",
+        "wildcharge",
+        "darkpulse",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "relaxed",
+      "ability": "swarm",
+      "moveset": [
+        "thrash",
+        "blizzard",
+        "bodyslam",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

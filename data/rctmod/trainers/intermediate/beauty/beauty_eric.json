@@ -1,0 +1,95 @@
+{
+  "name": "Beauty Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18841834466112065
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zekrom",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "hasty",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "shadowclaw",
+        "trickroom",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "calm",
+      "ability": "torrent",
+      "moveset": [
+        "hyperbeam",
+        "thundershock",
+        "bodyslam",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "modest",
+      "ability": "soundproof",
+      "moveset": [
+        "thrash",
+        "thundershock",
+        "dragonrush",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "hardy",
+      "ability": "pressure",
+      "moveset": [
+        "earthquake",
+        "thunderbolt",
+        "sleeppowder",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "zenheadbutt",
+        "icebeam",
+        "tackle",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Cooltrainer Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1112289583902405
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "scratch",
+        "hyperbeam",
+        "psybeam",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "sassy",
+      "ability": "effectspore",
+      "moveset": [
+        "closecombat",
+        "sleeppowder",
+        "flareblitz",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "gentle",
+      "ability": "rockhead",
+      "moveset": [
+        "stealthrock",
+        "earthquake",
+        "stoneedge",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

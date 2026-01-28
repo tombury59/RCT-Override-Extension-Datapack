@@ -1,0 +1,80 @@
+{
+  "name": "Cooltrainer Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14694835861700406
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "bold",
+      "ability": "syncronize",
+      "moveset": [
+        "hydropump",
+        "takedown",
+        "gigaimpact",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "sassy",
+      "ability": "swarm",
+      "moveset": [
+        "sleeppowder",
+        "earthquake",
+        "crunch",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "lax",
+      "ability": "levitate",
+      "moveset": [
+        "flamethrower",
+        "dragonrush",
+        "firepunch",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "hasty",
+      "ability": "torrent",
+      "moveset": [
+        "hyperbeam",
+        "vinewhip",
+        "closecombat",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

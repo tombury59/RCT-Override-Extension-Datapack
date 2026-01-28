@@ -1,0 +1,110 @@
+{
+  "name": "Ruin Maniac Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18610222544783794
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "golem",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "naughty",
+      "ability": "immunity",
+      "moveset": [
+        "sleeppowder",
+        "thunderpunch",
+        "firepunch",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "sassy",
+      "ability": "flashfire",
+      "moveset": [
+        "outrage",
+        "ironhead",
+        "dazzlinggleam",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "quirky",
+      "ability": "sturdy",
+      "moveset": [
+        "closecombat",
+        "rest",
+        "dragonpulse",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "careful",
+      "ability": "intimidate",
+      "moveset": [
+        "detect",
+        "icebeam",
+        "quickattack",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "lonely",
+      "ability": "intimidate",
+      "moveset": [
+        "confusion",
+        "megakick",
+        "stunspore",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "relaxed",
+      "ability": "voltabsorb",
+      "moveset": [
+        "watergun",
+        "crunch",
+        "thrash",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

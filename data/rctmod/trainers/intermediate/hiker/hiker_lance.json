@@ -1,0 +1,95 @@
+{
+  "name": "Hiker Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17494486249909677
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "bold",
+      "ability": "blaze",
+      "moveset": [
+        "substitute",
+        "shadowclaw",
+        "vinewhip",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "calm",
+      "ability": "immunity",
+      "moveset": [
+        "closecombat",
+        "thunderwave",
+        "hydropump",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "quiet",
+      "ability": "sturdy",
+      "moveset": [
+        "quickattack",
+        "dragonrush",
+        "detect",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "lonely",
+      "ability": "blaze",
+      "moveset": [
+        "watergun",
+        "wildcharge",
+        "willowisp",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "naughty",
+      "ability": "compoundeyes",
+      "moveset": [
+        "zenheadbutt",
+        "dragonrush",
+        "calmmind",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

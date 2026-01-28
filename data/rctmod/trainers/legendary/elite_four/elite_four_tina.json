@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15993783472547327
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regice",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "mild",
+      "ability": "rockhead",
+      "moveset": [
+        "firepunch",
+        "detect",
+        "flashcannon",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "rash",
+      "ability": "keeneye",
+      "moveset": [
+        "megakick",
+        "detect",
+        "vinewhip",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "hyperbeam",
+        "dazzlinggleam",
+        "firepunch",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "brave",
+      "ability": "compoundeyes",
+      "moveset": [
+        "hyperbeam",
+        "tailwind",
+        "flashcannon",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "relaxed",
+      "ability": "pressure",
+      "moveset": [
+        "calmmind",
+        "thrash",
+        "closecombat",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "hardy",
+      "ability": "static",
+      "moveset": [
+        "thunderpunch",
+        "flareblitz",
+        "energyball",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

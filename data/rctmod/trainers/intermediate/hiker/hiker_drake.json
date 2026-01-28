@@ -1,0 +1,65 @@
+{
+  "name": "Hiker Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16884116428412954
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "registeel",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "naughty",
+      "ability": "innerfocus",
+      "moveset": [
+        "agility",
+        "hyperbeam",
+        "closecombat",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "docile",
+      "ability": "syncronize",
+      "moveset": [
+        "toxic",
+        "vinewhip",
+        "megakick",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "thunderwave",
+        "earthquake",
+        "psychic",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

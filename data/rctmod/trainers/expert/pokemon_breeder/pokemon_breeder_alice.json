@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Breeder Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17011268145747732
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "hasty",
+      "ability": "syncronize",
+      "moveset": [
+        "nastyplot",
+        "flamethrower",
+        "wildcharge",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "hasty",
+      "ability": "pressure",
+      "moveset": [
+        "crunch",
+        "whirlwind",
+        "moonblast",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "thunderpunch",
+        "rest",
+        "thundershock",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "megakick",
+        "scratch",
+        "thundershock",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "timid",
+      "ability": "syncronize",
+      "moveset": [
+        "quickattack",
+        "psybeam",
+        "growth",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "relaxed",
+      "ability": "innerfocus",
+      "moveset": [
+        "fireblast",
+        "pound",
+        "tackle",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Scientist Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1948483459428037
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aggron",
+      "gender": "FEMALE",
+      "level": 39,
+      "nature": "gentle",
+      "ability": "soundproof",
+      "moveset": [
+        "surf",
+        "toxic",
+        "crunch",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 39,
+      "nature": "rash",
+      "ability": "pressure",
+      "moveset": [
+        "takedown",
+        "recover",
+        "dragonpulse",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "darkpulse",
+        "hyperbeam",
+        "tailwind",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "timid",
+      "ability": "syncronize",
+      "moveset": [
+        "earthquake",
+        "zenheadbutt",
+        "protect",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

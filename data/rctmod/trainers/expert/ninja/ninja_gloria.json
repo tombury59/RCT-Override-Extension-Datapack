@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13835079416077808
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "oddish",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "hasty",
+      "ability": "overgrow",
+      "moveset": [
+        "shadowball",
+        "earthquake",
+        "icepunch",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "bold",
+      "ability": "swarm",
+      "moveset": [
+        "crunch",
+        "tailwind",
+        "surf",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "quirky",
+      "ability": "effectspore",
+      "moveset": [
+        "swordsdance",
+        "earthquake",
+        "hydropump",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "naughty",
+      "ability": "swarm",
+      "moveset": [
+        "toxic",
+        "pound",
+        "moonblast",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aggron",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "bashful",
+      "ability": "flashfire",
+      "moveset": [
+        "substitute",
+        "scratch",
+        "hyperbeam",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

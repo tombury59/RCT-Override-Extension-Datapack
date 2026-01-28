@@ -1,0 +1,65 @@
+{
+  "name": "Champion Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14553583125561653
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 96,
+      "nature": "calm",
+      "ability": "voltabsorb",
+      "moveset": [
+        "nastyplot",
+        "ember",
+        "closecombat",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "sassy",
+      "ability": "immunity",
+      "moveset": [
+        "earthquake",
+        "gigaimpact",
+        "growth",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "quirky",
+      "ability": "swarm",
+      "moveset": [
+        "flareblitz",
+        "tackle",
+        "calmmind",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

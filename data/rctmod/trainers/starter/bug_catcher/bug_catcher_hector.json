@@ -1,0 +1,50 @@
+{
+  "name": "Bug Catcher Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10296498350841775
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "adamant",
+      "ability": "pressure",
+      "moveset": [
+        "closecombat",
+        "substitute",
+        "flamethrower",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "quiet",
+      "ability": "intimidate",
+      "moveset": [
+        "megakick",
+        "watergun",
+        "thunderpunch",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

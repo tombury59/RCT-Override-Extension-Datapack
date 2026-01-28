@@ -1,0 +1,80 @@
+{
+  "name": "Bird Keeper Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11460184219235252
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "calm",
+      "ability": "intimidate",
+      "moveset": [
+        "thrash",
+        "energyball",
+        "earthquake",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "impish",
+      "ability": "thickfat",
+      "moveset": [
+        "thrash",
+        "thunderwave",
+        "zenheadbutt",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "quirky",
+      "ability": "rockhead",
+      "moveset": [
+        "doubleedge",
+        "tackle",
+        "nastyplot",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "roar",
+        "thrash",
+        "doubleedge",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

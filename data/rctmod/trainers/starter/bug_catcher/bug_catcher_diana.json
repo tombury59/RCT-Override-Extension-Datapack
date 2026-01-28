@@ -1,0 +1,35 @@
+{
+  "name": "Bug Catcher Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19371496821225076
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "adamant",
+      "ability": "innerfocus",
+      "moveset": [
+        "calmmind",
+        "pound",
+        "tackle",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Ace Trainer Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1153123811164809
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aggron",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "mild",
+      "ability": "keeneye",
+      "moveset": [
+        "earthquake",
+        "roar",
+        "icebeam",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "sassy",
+      "ability": "sturdy",
+      "moveset": [
+        "energyball",
+        "protect",
+        "wildcharge",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "hasty",
+      "ability": "compoundeyes",
+      "moveset": [
+        "roar",
+        "doubleedge",
+        "ember",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "icepunch",
+        "icebeam",
+        "swordsdance",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "mild",
+      "ability": "syncronize",
+      "moveset": [
+        "protect",
+        "icepunch",
+        "psybeam",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

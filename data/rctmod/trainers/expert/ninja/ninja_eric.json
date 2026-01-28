@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1635796419887131
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aggron",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "naive",
+      "ability": "innerfocus",
+      "moveset": [
+        "toxic",
+        "megapunch",
+        "thunder",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "serious",
+      "ability": "innerfocus",
+      "moveset": [
+        "dragonrush",
+        "megapunch",
+        "protect",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "impish",
+      "ability": "effectspore",
+      "moveset": [
+        "psybeam",
+        "crunch",
+        "roar",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "quirky",
+      "ability": "waterabsorb",
+      "moveset": [
+        "dragonpulse",
+        "trickroom",
+        "doubleedge",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "quirky",
+      "ability": "voltabsorb",
+      "moveset": [
+        "swordsdance",
+        "doubleedge",
+        "psychic",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

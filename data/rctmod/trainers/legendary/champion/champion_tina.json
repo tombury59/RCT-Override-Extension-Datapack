@@ -1,0 +1,110 @@
+{
+  "name": "Champion Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17977937979651648
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 99,
+      "nature": "quiet",
+      "ability": "effectspore",
+      "moveset": [
+        "sleeppowder",
+        "tackle",
+        "darkpulse",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 97,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "hydropump",
+        "ironhead",
+        "dragonrush",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "bashful",
+      "ability": "soundproof",
+      "moveset": [
+        "recover",
+        "takedown",
+        "shadowclaw",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "energyball",
+        "stealthrock",
+        "zenheadbutt",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "MALE",
+      "level": 97,
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "hyperbeam",
+        "psybeam",
+        "swordsdance",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 97,
+      "nature": "timid",
+      "ability": "effectspore",
+      "moveset": [
+        "thunder",
+        "shadowclaw",
+        "megapunch",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

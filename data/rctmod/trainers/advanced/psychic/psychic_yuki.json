@@ -1,0 +1,80 @@
+{
+  "name": "Psychic Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15759426116245745
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "emboar",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "gentle",
+      "ability": "intimidate",
+      "moveset": [
+        "outrage",
+        "firepunch",
+        "growth",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "dragonrush",
+        "recover",
+        "wildcharge",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "modest",
+      "ability": "syncronize",
+      "moveset": [
+        "bodyslam",
+        "rest",
+        "thundershock",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "modest",
+      "ability": "pressure",
+      "moveset": [
+        "earthquake",
+        "firepunch",
+        "psychic",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18056738723896143
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "quiet",
+      "ability": "sturdy",
+      "moveset": [
+        "firepunch",
+        "tailwind",
+        "takedown",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "modest",
+      "ability": "torrent",
+      "moveset": [
+        "thunderpunch",
+        "thunderwave",
+        "flashcannon",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

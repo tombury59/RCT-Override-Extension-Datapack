@@ -1,0 +1,35 @@
+{
+  "name": "Schoolboy Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1603484446698936
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "brave",
+      "ability": "syncronize",
+      "moveset": [
+        "megapunch",
+        "vinewhip",
+        "toxic",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

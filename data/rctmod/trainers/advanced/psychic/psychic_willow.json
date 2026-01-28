@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17926674677662502
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "mild",
+      "ability": "rockhead",
+      "moveset": [
+        "fireblast",
+        "hyperbeam",
+        "zenheadbutt",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "adamant",
+      "ability": "voltabsorb",
+      "moveset": [
+        "psychic",
+        "thrash",
+        "substitute",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "naive",
+      "ability": "soundproof",
+      "moveset": [
+        "dazzlinggleam",
+        "crunch",
+        "ironhead",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

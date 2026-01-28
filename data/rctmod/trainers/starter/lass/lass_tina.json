@@ -1,0 +1,50 @@
+{
+  "name": "Lass Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16789831563529944
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "modest",
+      "ability": "blaze",
+      "moveset": [
+        "pound",
+        "zenheadbutt",
+        "protect",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "gentle",
+      "ability": "waterabsorb",
+      "moveset": [
+        "pound",
+        "vinewhip",
+        "stealthrock",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

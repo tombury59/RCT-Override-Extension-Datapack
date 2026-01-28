@@ -1,0 +1,80 @@
+{
+  "name": "Veteran Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17260786451636578
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "hardy",
+      "ability": "soundproof",
+      "moveset": [
+        "focusblast",
+        "dragonrush",
+        "stunspore",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 61,
+      "nature": "adamant",
+      "ability": "static",
+      "moveset": [
+        "shadowball",
+        "tailwind",
+        "crunch",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "lax",
+      "ability": "pressure",
+      "moveset": [
+        "willowisp",
+        "tackle",
+        "firepunch",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "rash",
+      "ability": "keeneye",
+      "moveset": [
+        "toxic",
+        "stoneedge",
+        "shadowball",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

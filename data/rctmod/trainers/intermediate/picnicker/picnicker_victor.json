@@ -1,0 +1,50 @@
+{
+  "name": "Picnicker Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13967657519271987
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "hasty",
+      "ability": "soundproof",
+      "moveset": [
+        "tackle",
+        "thunderbolt",
+        "willowisp",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "serious",
+      "ability": "torrent",
+      "moveset": [
+        "doubleedge",
+        "hyperbeam",
+        "nastyplot",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

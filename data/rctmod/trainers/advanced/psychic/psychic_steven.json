@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12174126763333172
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "bold",
+      "ability": "intimidate",
+      "moveset": [
+        "dragonpulse",
+        "ironhead",
+        "sleeppowder",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "rash",
+      "ability": "pressure",
+      "moveset": [
+        "dragonpulse",
+        "hyperbeam",
+        "tailwind",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aggron",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "mild",
+      "ability": "overgrow",
+      "moveset": [
+        "agility",
+        "gigaimpact",
+        "psybeam",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

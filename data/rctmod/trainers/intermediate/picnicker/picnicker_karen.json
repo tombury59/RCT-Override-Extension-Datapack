@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12109872482232713
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "sassy",
+      "ability": "syncronize",
+      "moveset": [
+        "flashcannon",
+        "bodyslam",
+        "thunderpunch",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "brave",
+      "ability": "swarm",
+      "moveset": [
+        "dragonpulse",
+        "zenheadbutt",
+        "nastyplot",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "quiet",
+      "ability": "overgrow",
+      "moveset": [
+        "stoneedge",
+        "thundershock",
+        "recover",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

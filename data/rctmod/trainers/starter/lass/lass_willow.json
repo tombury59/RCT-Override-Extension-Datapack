@@ -1,0 +1,50 @@
+{
+  "name": "Lass Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11379778495440025
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 6,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "whirlwind",
+        "solarbeam",
+        "takedown",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "sassy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "bodyslam",
+        "recover",
+        "darkpulse",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

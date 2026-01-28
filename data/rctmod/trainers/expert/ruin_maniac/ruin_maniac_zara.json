@@ -1,0 +1,80 @@
+{
+  "name": "Ruin Maniac Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14772182754341343
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "calm",
+      "ability": "pressure",
+      "moveset": [
+        "thrash",
+        "takedown",
+        "psychic",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "hasty",
+      "ability": "immunity",
+      "moveset": [
+        "flashcannon",
+        "megapunch",
+        "wildcharge",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "bashful",
+      "ability": "soundproof",
+      "moveset": [
+        "flareblitz",
+        "watergun",
+        "zenheadbutt",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "quirky",
+      "ability": "static",
+      "moveset": [
+        "thrash",
+        "icebeam",
+        "megapunch",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

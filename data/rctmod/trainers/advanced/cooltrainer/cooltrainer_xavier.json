@@ -1,0 +1,80 @@
+{
+  "name": "Cooltrainer Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1470780224510927
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "quiet",
+      "ability": "static",
+      "moveset": [
+        "airslash",
+        "toxic",
+        "ironhead",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "hardy",
+      "ability": "blaze",
+      "moveset": [
+        "dragonpulse",
+        "substitute",
+        "icepunch",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "careful",
+      "ability": "effectspore",
+      "moveset": [
+        "calmmind",
+        "icebeam",
+        "icepunch",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "adamant",
+      "ability": "swarm",
+      "moveset": [
+        "focusblast",
+        "substitute",
+        "wildcharge",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

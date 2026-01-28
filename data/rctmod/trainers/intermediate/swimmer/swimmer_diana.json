@@ -1,0 +1,50 @@
+{
+  "name": "Swimmer Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1225857960135352
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "timid",
+      "ability": "soundproof",
+      "moveset": [
+        "stunspore",
+        "flareblitz",
+        "confusion",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "calm",
+      "ability": "rockhead",
+      "moveset": [
+        "megapunch",
+        "crunch",
+        "willowisp",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

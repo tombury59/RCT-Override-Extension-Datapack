@@ -1,0 +1,80 @@
+{
+  "name": "Fisherman Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14299770032613562
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "dazzlinggleam",
+        "growth",
+        "quickattack",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "sassy",
+      "ability": "sturdy",
+      "moveset": [
+        "doubleedge",
+        "sleeppowder",
+        "ember",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "hasty",
+      "ability": "keeneye",
+      "moveset": [
+        "darkpulse",
+        "doubleedge",
+        "thunderpunch",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "naive",
+      "ability": "immunity",
+      "moveset": [
+        "icepunch",
+        "sleeppowder",
+        "moonblast",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Psychic Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1628948467048494
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "hasty",
+      "ability": "blaze",
+      "moveset": [
+        "closecombat",
+        "stunspore",
+        "thrash",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "bodyslam",
+        "thunderpunch",
+        "calmmind",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

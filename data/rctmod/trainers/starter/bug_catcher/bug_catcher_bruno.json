@@ -1,0 +1,50 @@
+{
+  "name": "Bug Catcher Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11550909012456881
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ho_oh",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "lonely",
+      "ability": "intimidate",
+      "moveset": [
+        "earthquake",
+        "firepunch",
+        "solarbeam",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 14,
+      "nature": "modest",
+      "ability": "voltabsorb",
+      "moveset": [
+        "closecombat",
+        "watergun",
+        "protect",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

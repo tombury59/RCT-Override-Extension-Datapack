@@ -1,0 +1,80 @@
+{
+  "name": "Battle Girl Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19297611117599356
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "lax",
+      "ability": "effectspore",
+      "moveset": [
+        "vinewhip",
+        "takedown",
+        "earthquake",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "brave",
+      "ability": "voltabsorb",
+      "moveset": [
+        "focusblast",
+        "thunderpunch",
+        "stealthrock",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "mild",
+      "ability": "keeneye",
+      "moveset": [
+        "wildcharge",
+        "doubleedge",
+        "agility",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "swordsdance",
+        "megakick",
+        "watergun",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

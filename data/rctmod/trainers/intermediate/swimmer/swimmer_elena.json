@@ -1,0 +1,95 @@
+{
+  "name": "Swimmer Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11747049322512064
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "modest",
+      "ability": "compoundeyes",
+      "moveset": [
+        "dragonrush",
+        "detect",
+        "blizzard",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "naive",
+      "ability": "syncronize",
+      "moveset": [
+        "fireblast",
+        "pound",
+        "shadowclaw",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "hardy",
+      "ability": "soundproof",
+      "moveset": [
+        "thunderwave",
+        "gigaimpact",
+        "confusion",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "lonely",
+      "ability": "immunity",
+      "moveset": [
+        "closecombat",
+        "rest",
+        "watergun",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "detect",
+        "thrash",
+        "blizzard",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

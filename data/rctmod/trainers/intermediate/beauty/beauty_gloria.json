@@ -1,0 +1,65 @@
+{
+  "name": "Beauty Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15693466542393297
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "brave",
+      "ability": "compoundeyes",
+      "moveset": [
+        "firepunch",
+        "doubleedge",
+        "hydropump",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "impish",
+      "ability": "compoundeyes",
+      "moveset": [
+        "pound",
+        "thunderwave",
+        "quickattack",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "impish",
+      "ability": "waterabsorb",
+      "moveset": [
+        "detect",
+        "surf",
+        "dragonrush",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

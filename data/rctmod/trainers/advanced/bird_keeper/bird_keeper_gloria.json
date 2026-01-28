@@ -1,0 +1,65 @@
+{
+  "name": "Bird Keeper Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1759526709190903
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "solarbeam",
+        "tackle",
+        "trickroom",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "calm",
+      "ability": "compoundeyes",
+      "moveset": [
+        "fireblast",
+        "firepunch",
+        "pound",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "jolly",
+      "ability": "overgrow",
+      "moveset": [
+        "surf",
+        "gigaimpact",
+        "bodyslam",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Hiker Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17442624738998053
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "modest",
+      "ability": "overgrow",
+      "moveset": [
+        "calmmind",
+        "outrage",
+        "surf",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "careful",
+      "ability": "immunity",
+      "moveset": [
+        "agility",
+        "flareblitz",
+        "firepunch",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

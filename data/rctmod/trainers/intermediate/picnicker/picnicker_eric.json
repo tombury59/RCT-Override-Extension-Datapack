@@ -1,0 +1,50 @@
+{
+  "name": "Picnicker Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15904414599286015
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "adamant",
+      "ability": "compoundeyes",
+      "moveset": [
+        "takedown",
+        "dragonpulse",
+        "hyperbeam",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "quirky",
+      "ability": "torrent",
+      "moveset": [
+        "takedown",
+        "detect",
+        "gigaimpact",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

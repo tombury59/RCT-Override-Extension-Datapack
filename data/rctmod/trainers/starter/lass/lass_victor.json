@@ -1,0 +1,65 @@
+{
+  "name": "Lass Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16558519470367225
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "gentle",
+      "ability": "thickfat",
+      "moveset": [
+        "darkpulse",
+        "hyperbeam",
+        "willowisp",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "quirky",
+      "ability": "rockhead",
+      "moveset": [
+        "gigaimpact",
+        "darkpulse",
+        "quickattack",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 10,
+      "nature": "docile",
+      "ability": "sturdy",
+      "moveset": [
+        "crunch",
+        "wildcharge",
+        "recover",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

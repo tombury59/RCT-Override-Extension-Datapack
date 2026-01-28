@@ -1,0 +1,65 @@
+{
+  "name": "Scientist Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17337720930246625
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "lonely",
+      "ability": "flashfire",
+      "moveset": [
+        "stealthrock",
+        "megapunch",
+        "firepunch",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "bashful",
+      "ability": "waterabsorb",
+      "moveset": [
+        "sleeppowder",
+        "flamethrower",
+        "takedown",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "bold",
+      "ability": "effectspore",
+      "moveset": [
+        "icepunch",
+        "stunspore",
+        "takedown",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

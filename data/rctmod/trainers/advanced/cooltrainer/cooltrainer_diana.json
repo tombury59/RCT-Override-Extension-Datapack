@@ -1,0 +1,50 @@
+{
+  "name": "Cooltrainer Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18703562147605673
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "serious",
+      "ability": "sturdy",
+      "moveset": [
+        "whirlwind",
+        "pound",
+        "wildcharge",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "dazzlinggleam",
+        "tackle",
+        "pound",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

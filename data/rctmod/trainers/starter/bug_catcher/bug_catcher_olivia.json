@@ -1,0 +1,50 @@
+{
+  "name": "Bug Catcher Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16957929992455917
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "naughty",
+      "ability": "keeneye",
+      "moveset": [
+        "thunderpunch",
+        "substitute",
+        "dazzlinggleam",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "sassy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "firepunch",
+        "thundershock",
+        "dragonrush",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

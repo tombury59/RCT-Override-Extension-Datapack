@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1315600712991655
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "calm",
+      "ability": "static",
+      "moveset": [
+        "crunch",
+        "thunderwave",
+        "ember",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "brave",
+      "ability": "static",
+      "moveset": [
+        "gigaimpact",
+        "watergun",
+        "firepunch",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "thundershock",
+        "swordsdance",
+        "crunch",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

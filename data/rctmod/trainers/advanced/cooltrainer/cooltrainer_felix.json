@@ -1,0 +1,80 @@
+{
+  "name": "Cooltrainer Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11741006700992596
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "bashful",
+      "ability": "static",
+      "moveset": [
+        "willowisp",
+        "psychic",
+        "doubleedge",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "brave",
+      "ability": "levitate",
+      "moveset": [
+        "tailwind",
+        "energyball",
+        "hyperbeam",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "lax",
+      "ability": "flashfire",
+      "moveset": [
+        "stoneedge",
+        "bodyslam",
+        "calmmind",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "sassy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "bodyslam",
+        "thunder",
+        "growth",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

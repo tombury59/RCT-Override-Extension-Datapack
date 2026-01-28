@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11427046361646194
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ho_oh",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "quirky",
+      "ability": "compoundeyes",
+      "moveset": [
+        "surf",
+        "dragonrush",
+        "icepunch",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "thunderbolt",
+        "tailwind",
+        "crunch",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "hasty",
+      "ability": "effectspore",
+      "moveset": [
+        "rest",
+        "dragonrush",
+        "surf",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "brave",
+      "ability": "syncronize",
+      "moveset": [
+        "growth",
+        "closecombat",
+        "psychic",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "bashful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "nastyplot",
+        "dazzlinggleam",
+        "zenheadbutt",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "calm",
+      "ability": "torrent",
+      "moveset": [
+        "airslash",
+        "detect",
+        "tackle",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

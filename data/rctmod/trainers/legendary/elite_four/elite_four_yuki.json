@@ -1,0 +1,95 @@
+{
+  "name": "Elite Four Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15930549721112897
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "hasty",
+      "ability": "soundproof",
+      "moveset": [
+        "icepunch",
+        "recover",
+        "airslash",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "relaxed",
+      "ability": "immunity",
+      "moveset": [
+        "stealthrock",
+        "hyperbeam",
+        "hydropump",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 94,
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "dragonrush",
+        "toxic",
+        "shadowball",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "hydropump",
+        "sleeppowder",
+        "shadowclaw",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "serious",
+      "ability": "swarm",
+      "moveset": [
+        "trickroom",
+        "flareblitz",
+        "dazzlinggleam",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

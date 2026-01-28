@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15802734419950448
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "sassy",
+      "ability": "soundproof",
+      "moveset": [
+        "swordsdance",
+        "stoneedge",
+        "moonblast",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "lax",
+      "ability": "voltabsorb",
+      "moveset": [
+        "energyball",
+        "megakick",
+        "shadowclaw",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "quiet",
+      "ability": "sturdy",
+      "moveset": [
+        "firepunch",
+        "rest",
+        "quickattack",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Bird Keeper Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19126887949420068
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "quirky",
+      "ability": "effectspore",
+      "moveset": [
+        "thrash",
+        "darkpulse",
+        "ironhead",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "lax",
+      "ability": "static",
+      "moveset": [
+        "bodyslam",
+        "substitute",
+        "fireblast",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "blizzard",
+        "zenheadbutt",
+        "tailwind",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "serious",
+      "ability": "static",
+      "moveset": [
+        "stoneedge",
+        "dragonrush",
+        "flamethrower",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "serious",
+      "ability": "sturdy",
+      "moveset": [
+        "thrash",
+        "scratch",
+        "calmmind",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

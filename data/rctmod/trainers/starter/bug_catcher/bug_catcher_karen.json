@@ -1,0 +1,35 @@
+{
+  "name": "Bug Catcher Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1608557031046703
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "relaxed",
+      "ability": "blaze",
+      "moveset": [
+        "protect",
+        "pound",
+        "energyball",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

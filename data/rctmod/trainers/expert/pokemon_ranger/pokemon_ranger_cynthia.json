@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Ranger Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1437762183279181
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "naughty",
+      "ability": "voltabsorb",
+      "moveset": [
+        "whirlwind",
+        "stoneedge",
+        "dazzlinggleam",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "detect",
+        "scratch",
+        "hydropump",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "naughty",
+      "ability": "overgrow",
+      "moveset": [
+        "thunderpunch",
+        "stunspore",
+        "thundershock",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "relaxed",
+      "ability": "overgrow",
+      "moveset": [
+        "tackle",
+        "swordsdance",
+        "dazzlinggleam",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "quirky",
+      "ability": "syncronize",
+      "moveset": [
+        "blizzard",
+        "roar",
+        "hyperbeam",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

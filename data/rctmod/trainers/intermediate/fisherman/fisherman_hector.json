@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1783977444964624
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "naive",
+      "ability": "torrent",
+      "moveset": [
+        "icepunch",
+        "stunspore",
+        "surf",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "serious",
+      "ability": "sturdy",
+      "moveset": [
+        "dragonrush",
+        "quickattack",
+        "thunderbolt",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "serious",
+      "ability": "immunity",
+      "moveset": [
+        "bodyslam",
+        "shadowball",
+        "hyperbeam",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

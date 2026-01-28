@@ -1,0 +1,80 @@
+{
+  "name": "Bird Keeper Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13677588032599902
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "careful",
+      "ability": "overgrow",
+      "moveset": [
+        "thunderwave",
+        "scratch",
+        "vinewhip",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "brave",
+      "ability": "syncronize",
+      "moveset": [
+        "thunderwave",
+        "icepunch",
+        "thundershock",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "mild",
+      "ability": "waterabsorb",
+      "moveset": [
+        "bodyslam",
+        "outrage",
+        "growth",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "zenheadbutt",
+        "tackle",
+        "sleeppowder",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

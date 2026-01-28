@@ -1,0 +1,80 @@
+{
+  "name": "Ruin Maniac Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17614810052856777
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "sassy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "doubleedge",
+        "earthquake",
+        "psybeam",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "impish",
+      "ability": "thickfat",
+      "moveset": [
+        "bodyslam",
+        "wildcharge",
+        "sleeppowder",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "quiet",
+      "ability": "levitate",
+      "moveset": [
+        "ironhead",
+        "stealthrock",
+        "zenheadbutt",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "nastyplot",
+        "icebeam",
+        "flareblitz",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

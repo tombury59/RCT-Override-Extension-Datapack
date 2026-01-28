@@ -1,0 +1,95 @@
+{
+  "name": "Elite Four Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16352994112279284
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "quiet",
+      "ability": "thickfat",
+      "moveset": [
+        "crunch",
+        "growth",
+        "thrash",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "modest",
+      "ability": "torrent",
+      "moveset": [
+        "surf",
+        "stealthrock",
+        "closecombat",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "adamant",
+      "ability": "pressure",
+      "moveset": [
+        "psybeam",
+        "outrage",
+        "tailwind",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "tailwind",
+        "wildcharge",
+        "megapunch",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "tailwind",
+        "confusion",
+        "firepunch",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

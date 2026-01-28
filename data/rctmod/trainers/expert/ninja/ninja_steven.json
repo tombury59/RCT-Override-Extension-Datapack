@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10539505762244347
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "quiet",
+      "ability": "pressure",
+      "moveset": [
+        "darkpulse",
+        "crunch",
+        "zenheadbutt",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "sassy",
+      "ability": "swarm",
+      "moveset": [
+        "stoneedge",
+        "thunderpunch",
+        "protect",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "modest",
+      "ability": "waterabsorb",
+      "moveset": [
+        "doubleedge",
+        "zenheadbutt",
+        "flamethrower",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "sassy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "ironhead",
+        "stealthrock",
+        "megakick",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "lax",
+      "ability": "immunity",
+      "moveset": [
+        "pound",
+        "flamethrower",
+        "toxic",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

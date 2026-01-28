@@ -1,0 +1,65 @@
+{
+  "name": "Camper Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12270871884826556
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "rash",
+      "ability": "torrent",
+      "moveset": [
+        "thundershock",
+        "substitute",
+        "hyperbeam",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "docile",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thunderbolt",
+        "icepunch",
+        "sleeppowder",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "firepunch",
+        "rest",
+        "icebeam",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

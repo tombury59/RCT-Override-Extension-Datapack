@@ -1,0 +1,65 @@
+{
+  "name": "Youngster Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18676050148281226
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "lonely",
+      "ability": "blaze",
+      "moveset": [
+        "psychic",
+        "gigaimpact",
+        "takedown",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "lonely",
+      "ability": "thickfat",
+      "moveset": [
+        "ironhead",
+        "stoneedge",
+        "fireblast",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 6,
+      "nature": "quirky",
+      "ability": "compoundeyes",
+      "moveset": [
+        "moonblast",
+        "outrage",
+        "roar",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

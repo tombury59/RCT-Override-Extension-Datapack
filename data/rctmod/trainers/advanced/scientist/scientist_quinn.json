@@ -1,0 +1,80 @@
+{
+  "name": "Scientist Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14318728811531609
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "naughty",
+      "ability": "keeneye",
+      "moveset": [
+        "dragonrush",
+        "firepunch",
+        "trickroom",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "FEMALE",
+      "level": 39,
+      "nature": "hasty",
+      "ability": "soundproof",
+      "moveset": [
+        "psychic",
+        "flareblitz",
+        "megapunch",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "thrash",
+        "growth",
+        "closecombat",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "relaxed",
+      "ability": "torrent",
+      "moveset": [
+        "hyperbeam",
+        "calmmind",
+        "flashcannon",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

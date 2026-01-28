@@ -1,0 +1,95 @@
+{
+  "name": "Dragon Tamer Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16225535891146864
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "haunter",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "serious",
+      "ability": "innerfocus",
+      "moveset": [
+        "shadowclaw",
+        "tackle",
+        "darkpulse",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "careful",
+      "ability": "flashfire",
+      "moveset": [
+        "darkpulse",
+        "tackle",
+        "earthquake",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "scratch",
+        "solarbeam",
+        "earthquake",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "timid",
+      "ability": "sturdy",
+      "moveset": [
+        "scratch",
+        "swordsdance",
+        "pound",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "mild",
+      "ability": "flashfire",
+      "moveset": [
+        "pound",
+        "tailwind",
+        "shadowball",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

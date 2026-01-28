@@ -1,0 +1,80 @@
+{
+  "name": "Swimmer Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16177184764204197
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "quirky",
+      "ability": "keeneye",
+      "moveset": [
+        "firepunch",
+        "growth",
+        "thundershock",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "bold",
+      "ability": "pressure",
+      "moveset": [
+        "icepunch",
+        "crunch",
+        "dazzlinggleam",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "quiet",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderwave",
+        "crunch",
+        "solarbeam",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "brave",
+      "ability": "voltabsorb",
+      "moveset": [
+        "nastyplot",
+        "takedown",
+        "dazzlinggleam",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

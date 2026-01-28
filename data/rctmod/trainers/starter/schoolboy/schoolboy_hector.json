@@ -1,0 +1,35 @@
+{
+  "name": "Schoolboy Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1450134613902076
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "togekiss",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "adamant",
+      "ability": "static",
+      "moveset": [
+        "swordsdance",
+        "shadowclaw",
+        "blizzard",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

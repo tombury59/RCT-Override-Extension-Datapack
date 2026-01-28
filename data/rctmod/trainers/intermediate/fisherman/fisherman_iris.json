@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1566374816326151
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "palkia",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "relaxed",
+      "ability": "swarm",
+      "moveset": [
+        "solarbeam",
+        "shadowclaw",
+        "closecombat",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "quirky",
+      "ability": "thickfat",
+      "moveset": [
+        "tailwind",
+        "psybeam",
+        "quickattack",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "quiet",
+      "ability": "levitate",
+      "moveset": [
+        "megakick",
+        "moonblast",
+        "crunch",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

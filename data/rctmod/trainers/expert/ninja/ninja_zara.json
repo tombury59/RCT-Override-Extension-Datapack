@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10856613143985896
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "calm",
+      "ability": "thickfat",
+      "moveset": [
+        "detect",
+        "thunder",
+        "scratch",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aggron",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "lonely",
+      "ability": "static",
+      "moveset": [
+        "thunderpunch",
+        "fireblast",
+        "dragonrush",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "impish",
+      "ability": "effectspore",
+      "moveset": [
+        "bodyslam",
+        "ember",
+        "wildcharge",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "careful",
+      "ability": "soundproof",
+      "moveset": [
+        "thunderwave",
+        "thunderbolt",
+        "wildcharge",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "sassy",
+      "ability": "rockhead",
+      "moveset": [
+        "thunderbolt",
+        "wildcharge",
+        "protect",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

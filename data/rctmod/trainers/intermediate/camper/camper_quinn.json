@@ -1,0 +1,80 @@
+{
+  "name": "Camper Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14951587440239666
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "sandslash",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "modest",
+      "ability": "syncronize",
+      "moveset": [
+        "willowisp",
+        "wildcharge",
+        "bodyslam",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "docile",
+      "ability": "pressure",
+      "moveset": [
+        "scratch",
+        "thrash",
+        "stunspore",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "moveset": [
+        "moonblast",
+        "thunderwave",
+        "gigaimpact",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "modest",
+      "ability": "rockhead",
+      "moveset": [
+        "scratch",
+        "trickroom",
+        "fireblast",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

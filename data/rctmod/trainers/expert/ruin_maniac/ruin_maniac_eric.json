@@ -1,0 +1,50 @@
+{
+  "name": "Ruin Maniac Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18081167305951118
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "relaxed",
+      "ability": "overgrow",
+      "moveset": [
+        "crunch",
+        "airslash",
+        "wildcharge",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "waterabsorb",
+      "moveset": [
+        "willowisp",
+        "flareblitz",
+        "scratch",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

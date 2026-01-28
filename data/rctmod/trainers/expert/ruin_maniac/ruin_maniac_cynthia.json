@@ -1,0 +1,95 @@
+{
+  "name": "Ruin Maniac Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13267332093508877
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoran_m",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "jolly",
+      "ability": "waterabsorb",
+      "moveset": [
+        "ember",
+        "hyperbeam",
+        "rest",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "hasty",
+      "ability": "overgrow",
+      "moveset": [
+        "toxic",
+        "outrage",
+        "megapunch",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "timid",
+      "ability": "effectspore",
+      "moveset": [
+        "whirlwind",
+        "shadowclaw",
+        "psychic",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "naive",
+      "ability": "levitate",
+      "moveset": [
+        "shadowclaw",
+        "hydropump",
+        "growth",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "hasty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "bodyslam",
+        "roar",
+        "darkpulse",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

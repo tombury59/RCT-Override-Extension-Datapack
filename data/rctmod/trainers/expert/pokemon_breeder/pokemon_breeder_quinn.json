@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15177714882124693
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "calm",
+      "ability": "torrent",
+      "moveset": [
+        "dragonrush",
+        "trickroom",
+        "blizzard",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "quiet",
+      "ability": "levitate",
+      "moveset": [
+        "thunderbolt",
+        "wildcharge",
+        "stunspore",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "careful",
+      "ability": "soundproof",
+      "moveset": [
+        "flareblitz",
+        "whirlwind",
+        "darkpulse",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "docile",
+      "ability": "flashfire",
+      "moveset": [
+        "crunch",
+        "ember",
+        "quickattack",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "modest",
+      "ability": "keeneye",
+      "moveset": [
+        "dragonpulse",
+        "takedown",
+        "stealthrock",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

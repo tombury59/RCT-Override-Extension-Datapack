@@ -1,0 +1,35 @@
+{
+  "name": "Schoolboy Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12697622429360517
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 18,
+      "nature": "quiet",
+      "ability": "sturdy",
+      "moveset": [
+        "ember",
+        "sleeppowder",
+        "ironhead",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12421103169463905
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "vulpix",
+      "gender": "MALE",
+      "level": 91,
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "blizzard",
+        "scratch",
+        "stealthrock",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "quickattack",
+        "darkpulse",
+        "stealthrock",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "quiet",
+      "ability": "immunity",
+      "moveset": [
+        "rest",
+        "blizzard",
+        "shadowclaw",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "quiet",
+      "ability": "innerfocus",
+      "moveset": [
+        "tackle",
+        "substitute",
+        "wildcharge",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "rash",
+      "ability": "levitate",
+      "moveset": [
+        "icepunch",
+        "blizzard",
+        "thunderwave",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blastoise",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "hasty",
+      "ability": "keeneye",
+      "moveset": [
+        "dragonrush",
+        "wildcharge",
+        "airslash",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

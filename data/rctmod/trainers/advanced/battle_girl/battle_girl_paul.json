@@ -1,0 +1,50 @@
+{
+  "name": "Battle Girl Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19081851357526916
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "vulpix",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "sassy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "roar",
+        "dragonpulse",
+        "gigaimpact",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "modest",
+      "ability": "rockhead",
+      "moveset": [
+        "energyball",
+        "rest",
+        "bodyslam",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

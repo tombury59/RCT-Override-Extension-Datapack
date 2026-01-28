@@ -1,0 +1,95 @@
+{
+  "name": "Champion Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16239143062138123
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 96,
+      "nature": "hardy",
+      "ability": "thickfat",
+      "moveset": [
+        "doubleedge",
+        "zenheadbutt",
+        "toxic",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "naive",
+      "ability": "levitate",
+      "moveset": [
+        "thundershock",
+        "thunderpunch",
+        "outrage",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 94,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "doubleedge",
+        "thunder",
+        "icepunch",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "lonely",
+      "ability": "effectspore",
+      "moveset": [
+        "doubleedge",
+        "growth",
+        "tackle",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 99,
+      "nature": "rash",
+      "ability": "immunity",
+      "moveset": [
+        "surf",
+        "detect",
+        "icepunch",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

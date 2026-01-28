@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13269402690474852
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "whirlwind",
+        "solarbeam",
+        "scratch",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "gentle",
+      "ability": "effectspore",
+      "moveset": [
+        "psychic",
+        "scratch",
+        "ironhead",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "docile",
+      "ability": "waterabsorb",
+      "moveset": [
+        "energyball",
+        "protect",
+        "doubleedge",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

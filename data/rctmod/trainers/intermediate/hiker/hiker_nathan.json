@@ -1,0 +1,35 @@
+{
+  "name": "Hiker Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15706746633671848
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "lax",
+      "ability": "overgrow",
+      "moveset": [
+        "hyperbeam",
+        "stealthrock",
+        "flamethrower",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

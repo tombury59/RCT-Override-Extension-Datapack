@@ -1,0 +1,50 @@
+{
+  "name": "Picnicker Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1786502715892893
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "bashful",
+      "ability": "blaze",
+      "moveset": [
+        "protect",
+        "shadowball",
+        "doubleedge",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "bashful",
+      "ability": "keeneye",
+      "moveset": [
+        "willowisp",
+        "firepunch",
+        "darkpulse",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

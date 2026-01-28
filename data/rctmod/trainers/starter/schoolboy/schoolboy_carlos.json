@@ -1,0 +1,80 @@
+{
+  "name": "Schoolboy Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1854223806003334
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "quirky",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thunderpunch",
+        "focusblast",
+        "closecombat",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "mild",
+      "ability": "waterabsorb",
+      "moveset": [
+        "quickattack",
+        "swordsdance",
+        "psybeam",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "level": 13,
+      "nature": "hardy",
+      "ability": "static",
+      "moveset": [
+        "stunspore",
+        "airslash",
+        "wildcharge",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "FEMALE",
+      "level": 14,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "wildcharge",
+        "stunspore",
+        "icebeam",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

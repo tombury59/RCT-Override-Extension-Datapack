@@ -1,0 +1,110 @@
+{
+  "name": "Ruin Maniac Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10579479248066263
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "relaxed",
+      "ability": "keeneye",
+      "moveset": [
+        "hyperbeam",
+        "calmmind",
+        "flamethrower",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "impish",
+      "ability": "immunity",
+      "moveset": [
+        "shadowclaw",
+        "takedown",
+        "sleeppowder",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "bashful",
+      "ability": "voltabsorb",
+      "moveset": [
+        "wildcharge",
+        "closecombat",
+        "dazzlinggleam",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "stealthrock",
+        "shadowball",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "sassy",
+      "ability": "immunity",
+      "moveset": [
+        "icebeam",
+        "bodyslam",
+        "megakick",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "pound",
+        "flareblitz",
+        "surf",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

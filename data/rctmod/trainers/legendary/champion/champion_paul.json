@@ -1,0 +1,110 @@
+{
+  "name": "Champion Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1341606804171116
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "hardy",
+      "ability": "sturdy",
+      "moveset": [
+        "rest",
+        "crunch",
+        "tackle",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "hardy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thundershock",
+        "earthquake",
+        "ironhead",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "stunspore",
+        "energyball",
+        "quickattack",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 96,
+      "nature": "quiet",
+      "ability": "immunity",
+      "moveset": [
+        "toxic",
+        "shadowclaw",
+        "airslash",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 96,
+      "nature": "sassy",
+      "ability": "syncronize",
+      "moveset": [
+        "megakick",
+        "trickroom",
+        "darkpulse",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "FEMALE",
+      "level": 92,
+      "nature": "docile",
+      "ability": "keeneye",
+      "moveset": [
+        "crunch",
+        "substitute",
+        "outrage",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

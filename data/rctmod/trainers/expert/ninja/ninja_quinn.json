@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17938871605498932
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "bashful",
+      "ability": "syncronize",
+      "moveset": [
+        "psybeam",
+        "ironhead",
+        "hyperbeam",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "gentle",
+      "ability": "swarm",
+      "moveset": [
+        "tailwind",
+        "earthquake",
+        "outrage",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "mild",
+      "ability": "effectspore",
+      "moveset": [
+        "pound",
+        "surf",
+        "rest",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "quiet",
+      "ability": "innerfocus",
+      "moveset": [
+        "icepunch",
+        "agility",
+        "solarbeam",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "brave",
+      "ability": "torrent",
+      "moveset": [
+        "flareblitz",
+        "willowisp",
+        "dazzlinggleam",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

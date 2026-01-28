@@ -1,0 +1,110 @@
+{
+  "name": "Gym Leader Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18340171898525495
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "quiet",
+      "ability": "immunity",
+      "moveset": [
+        "crunch",
+        "tackle",
+        "dragonpulse",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "gentle",
+      "ability": "torrent",
+      "moveset": [
+        "protect",
+        "watergun",
+        "thunderpunch",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "thrash",
+        "protect",
+        "thundershock",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "hardy",
+      "ability": "pressure",
+      "moveset": [
+        "psychic",
+        "ironhead",
+        "toxic",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "sassy",
+      "ability": "effectspore",
+      "moveset": [
+        "bodyslam",
+        "swordsdance",
+        "megakick",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "lonely",
+      "ability": "overgrow",
+      "moveset": [
+        "ironhead",
+        "shadowclaw",
+        "flashcannon",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

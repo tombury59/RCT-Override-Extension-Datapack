@@ -1,0 +1,95 @@
+{
+  "name": "Elite Four Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11329081103307048
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "serious",
+      "ability": "immunity",
+      "moveset": [
+        "dragonrush",
+        "wildcharge",
+        "thunderbolt",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "hasty",
+      "ability": "compoundeyes",
+      "moveset": [
+        "outrage",
+        "blizzard",
+        "flareblitz",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "quirky",
+      "ability": "overgrow",
+      "moveset": [
+        "megakick",
+        "calmmind",
+        "quickattack",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "calm",
+      "ability": "immunity",
+      "moveset": [
+        "swordsdance",
+        "pound",
+        "thunderpunch",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "impish",
+      "ability": "soundproof",
+      "moveset": [
+        "focusblast",
+        "stoneedge",
+        "quickattack",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

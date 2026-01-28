@@ -1,0 +1,95 @@
+{
+  "name": "Fisherman Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14120798573352897
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "suicune",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "megakick",
+        "crunch",
+        "confusion",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "quiet",
+      "ability": "sturdy",
+      "moveset": [
+        "flashcannon",
+        "thrash",
+        "doubleedge",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "timid",
+      "ability": "syncronize",
+      "moveset": [
+        "dragonrush",
+        "wildcharge",
+        "trickroom",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "calm",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderpunch",
+        "thunderwave",
+        "bodyslam",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "careful",
+      "ability": "compoundeyes",
+      "moveset": [
+        "tackle",
+        "rest",
+        "icepunch",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Scientist Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1478458548534999
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regice",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "timid",
+      "ability": "intimidate",
+      "moveset": [
+        "bodyslam",
+        "gigaimpact",
+        "thundershock",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "bashful",
+      "ability": "soundproof",
+      "moveset": [
+        "flamethrower",
+        "ironhead",
+        "stunspore",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "naive",
+      "ability": "waterabsorb",
+      "moveset": [
+        "stoneedge",
+        "doubleedge",
+        "airslash",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "naughty",
+      "ability": "static",
+      "moveset": [
+        "energyball",
+        "megapunch",
+        "tailwind",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

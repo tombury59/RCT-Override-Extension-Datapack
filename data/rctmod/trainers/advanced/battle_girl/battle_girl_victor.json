@@ -1,0 +1,95 @@
+{
+  "name": "Battle Girl Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1205554790547034
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "squirtle",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "doubleedge",
+        "dazzlinggleam",
+        "thrash",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "sassy",
+      "ability": "sturdy",
+      "moveset": [
+        "firepunch",
+        "pound",
+        "flashcannon",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "doubleedge",
+        "confusion",
+        "firepunch",
+        "protect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "naive",
+      "ability": "overgrow",
+      "moveset": [
+        "trickroom",
+        "surf",
+        "ironhead",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "bold",
+      "ability": "syncronize",
+      "moveset": [
+        "solarbeam",
+        "quickattack",
+        "trickroom",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

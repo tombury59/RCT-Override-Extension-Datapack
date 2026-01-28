@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13458987603656078
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "adamant",
+      "ability": "compoundeyes",
+      "moveset": [
+        "megapunch",
+        "sleeppowder",
+        "outrage",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "adamant",
+      "ability": "immunity",
+      "moveset": [
+        "zenheadbutt",
+        "takedown",
+        "blizzard",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "calm",
+      "ability": "static",
+      "moveset": [
+        "stealthrock",
+        "earthquake",
+        "thunderbolt",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

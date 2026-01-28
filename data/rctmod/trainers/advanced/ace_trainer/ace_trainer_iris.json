@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14922907347167488
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "quirky",
+      "ability": "voltabsorb",
+      "moveset": [
+        "ember",
+        "earthquake",
+        "rest",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "rash",
+      "ability": "swarm",
+      "moveset": [
+        "outrage",
+        "zenheadbutt",
+        "ember",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "relaxed",
+      "ability": "waterabsorb",
+      "moveset": [
+        "tailwind",
+        "moonblast",
+        "thunderpunch",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

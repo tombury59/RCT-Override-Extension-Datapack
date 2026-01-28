@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18899962643517287
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "timid",
+      "ability": "waterabsorb",
+      "moveset": [
+        "roar",
+        "flareblitz",
+        "focusblast",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "naive",
+      "ability": "keeneye",
+      "moveset": [
+        "solarbeam",
+        "pound",
+        "tackle",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "detect",
+        "wildcharge",
+        "vinewhip",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "moonblast",
+        "shadowclaw",
+        "calmmind",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "hasty",
+      "ability": "torrent",
+      "moveset": [
+        "darkpulse",
+        "icepunch",
+        "thunderwave",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

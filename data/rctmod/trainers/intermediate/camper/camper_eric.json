@@ -1,0 +1,65 @@
+{
+  "name": "Camper Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10302727417548406
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "naive",
+      "ability": "compoundeyes",
+      "moveset": [
+        "zenheadbutt",
+        "willowisp",
+        "dazzlinggleam",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "mild",
+      "ability": "levitate",
+      "moveset": [
+        "shadowclaw",
+        "dragonrush",
+        "blizzard",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "naughty",
+      "ability": "keeneye",
+      "moveset": [
+        "ember",
+        "bodyslam",
+        "closecombat",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1644367936089806
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 87,
+      "nature": "mild",
+      "ability": "intimidate",
+      "moveset": [
+        "flareblitz",
+        "moonblast",
+        "outrage",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 84,
+      "nature": "lonely",
+      "ability": "waterabsorb",
+      "moveset": [
+        "airslash",
+        "swordsdance",
+        "quickattack",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "quiet",
+      "ability": "blaze",
+      "moveset": [
+        "earthquake",
+        "tailwind",
+        "watergun",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 87,
+      "nature": "hasty",
+      "ability": "flashfire",
+      "moveset": [
+        "substitute",
+        "dragonrush",
+        "surf",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "relaxed",
+      "ability": "torrent",
+      "moveset": [
+        "whirlwind",
+        "zenheadbutt",
+        "fireblast",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Bird Keeper Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15206747851132138
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "stoneedge",
+        "earthquake",
+        "sleeppowder",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "sassy",
+      "ability": "torrent",
+      "moveset": [
+        "shadowclaw",
+        "dragonpulse",
+        "icepunch",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "hasty",
+      "ability": "voltabsorb",
+      "moveset": [
+        "closecombat",
+        "thrash",
+        "energyball",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "impish",
+      "ability": "voltabsorb",
+      "moveset": [
+        "bodyslam",
+        "icebeam",
+        "protect",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "quirky",
+      "ability": "rockhead",
+      "moveset": [
+        "shadowclaw",
+        "agility",
+        "moonblast",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

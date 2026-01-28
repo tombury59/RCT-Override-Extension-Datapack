@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Ranger Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13553428127051922
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "hardy",
+      "ability": "overgrow",
+      "moveset": [
+        "tackle",
+        "blizzard",
+        "thunderwave",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "naughty",
+      "ability": "overgrow",
+      "moveset": [
+        "quickattack",
+        "fireblast",
+        "trickroom",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "calm",
+      "ability": "pressure",
+      "moveset": [
+        "dragonrush",
+        "thunderpunch",
+        "swordsdance",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "careful",
+      "ability": "immunity",
+      "moveset": [
+        "toxic",
+        "flashcannon",
+        "megapunch",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "quiet",
+      "ability": "static",
+      "moveset": [
+        "psychic",
+        "scratch",
+        "rest",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Ninja Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12955594039827123
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regice",
+      "gender": "FEMALE",
+      "level": 78,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "roar",
+        "thrash",
+        "megakick",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "relaxed",
+      "ability": "waterabsorb",
+      "moveset": [
+        "moonblast",
+        "pound",
+        "thunderpunch",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "lax",
+      "ability": "immunity",
+      "moveset": [
+        "doubleedge",
+        "thunderpunch",
+        "recover",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "bashful",
+      "ability": "static",
+      "moveset": [
+        "flareblitz",
+        "roar",
+        "firepunch",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

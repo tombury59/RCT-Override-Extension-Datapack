@@ -1,0 +1,50 @@
+{
+  "name": "Blackbelt Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1554682210327391
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "roar",
+        "flamethrower",
+        "wildcharge",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "quirky",
+      "ability": "keeneye",
+      "moveset": [
+        "earthquake",
+        "shadowball",
+        "whirlwind",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

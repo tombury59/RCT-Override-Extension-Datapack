@@ -1,0 +1,35 @@
+{
+  "name": "Youngster Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17178097654255436
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "quiet",
+      "ability": "overgrow",
+      "moveset": [
+        "thunderpunch",
+        "dragonrush",
+        "whirlwind",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

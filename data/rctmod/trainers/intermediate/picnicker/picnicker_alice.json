@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13796714015981126
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "brave",
+      "ability": "static",
+      "moveset": [
+        "solarbeam",
+        "swordsdance",
+        "thrash",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "quirky",
+      "ability": "pressure",
+      "moveset": [
+        "outrage",
+        "recover",
+        "shadowball",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "relaxed",
+      "ability": "overgrow",
+      "moveset": [
+        "quickattack",
+        "shadowclaw",
+        "willowisp",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

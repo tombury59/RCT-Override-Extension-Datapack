@@ -1,0 +1,95 @@
+{
+  "name": "Blackbelt Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19236382041978042
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latias",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "quirky",
+      "ability": "rockhead",
+      "moveset": [
+        "stealthrock",
+        "energyball",
+        "doubleedge",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "rash",
+      "ability": "pressure",
+      "moveset": [
+        "calmmind",
+        "outrage",
+        "watergun",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "quirky",
+      "ability": "flashfire",
+      "moveset": [
+        "earthquake",
+        "hyperbeam",
+        "hydropump",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "bashful",
+      "ability": "flashfire",
+      "moveset": [
+        "protect",
+        "focusblast",
+        "crunch",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "bold",
+      "ability": "torrent",
+      "moveset": [
+        "hydropump",
+        "gigaimpact",
+        "protect",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

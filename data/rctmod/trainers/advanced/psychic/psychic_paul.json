@@ -1,0 +1,65 @@
+{
+  "name": "Psychic Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12329519781013681
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "tackle",
+        "closecombat",
+        "shadowball",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "quiet",
+      "ability": "compoundeyes",
+      "moveset": [
+        "closecombat",
+        "bodyslam",
+        "hydropump",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "bold",
+      "ability": "swarm",
+      "moveset": [
+        "swordsdance",
+        "shadowclaw",
+        "dazzlinggleam",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

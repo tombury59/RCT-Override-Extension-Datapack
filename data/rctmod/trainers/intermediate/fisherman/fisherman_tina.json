@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17302488531512117
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "hydreigon",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "lonely",
+      "ability": "soundproof",
+      "moveset": [
+        "thunderpunch",
+        "watergun",
+        "nastyplot",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "lax",
+      "ability": "flashfire",
+      "moveset": [
+        "psybeam",
+        "outrage",
+        "swordsdance",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "moonblast",
+        "megakick",
+        "crunch",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

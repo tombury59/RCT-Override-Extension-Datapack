@@ -1,0 +1,50 @@
+{
+  "name": "Swimmer Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1839356182159667
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "naughty",
+      "ability": "innerfocus",
+      "moveset": [
+        "tackle",
+        "recover",
+        "energyball",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "toxic",
+        "shadowclaw",
+        "stoneedge",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

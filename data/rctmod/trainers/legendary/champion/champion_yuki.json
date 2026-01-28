@@ -1,0 +1,110 @@
+{
+  "name": "Champion Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11533420593632498
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 98,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "airslash",
+        "detect",
+        "shadowclaw",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 99,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "closecombat",
+        "stoneedge",
+        "dazzlinggleam",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "mild",
+      "ability": "keeneye",
+      "moveset": [
+        "stealthrock",
+        "earthquake",
+        "thunderbolt",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "mild",
+      "ability": "flashfire",
+      "moveset": [
+        "outrage",
+        "megakick",
+        "rest",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 97,
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "blizzard",
+        "wildcharge",
+        "shadowclaw",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "flareblitz",
+        "roar",
+        "ironhead",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

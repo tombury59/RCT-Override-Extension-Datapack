@@ -1,0 +1,95 @@
+{
+  "name": "Champion Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14704716748172858
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "rash",
+      "ability": "compoundeyes",
+      "moveset": [
+        "wildcharge",
+        "quickattack",
+        "toxic",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "serious",
+      "ability": "syncronize",
+      "moveset": [
+        "moonblast",
+        "roar",
+        "hyperbeam",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "mild",
+      "ability": "soundproof",
+      "moveset": [
+        "fireblast",
+        "ironhead",
+        "whirlwind",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "relaxed",
+      "ability": "compoundeyes",
+      "moveset": [
+        "detect",
+        "closecombat",
+        "pound",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "FEMALE",
+      "level": 97,
+      "nature": "jolly",
+      "ability": "compoundeyes",
+      "moveset": [
+        "hyperbeam",
+        "flamethrower",
+        "calmmind",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

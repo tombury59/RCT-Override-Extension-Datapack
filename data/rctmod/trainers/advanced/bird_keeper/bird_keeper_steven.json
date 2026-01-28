@@ -1,0 +1,50 @@
+{
+  "name": "Bird Keeper Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15009514249258454
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "timid",
+      "ability": "syncronize",
+      "moveset": [
+        "hyperbeam",
+        "thunder",
+        "swordsdance",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "quirky",
+      "ability": "pressure",
+      "moveset": [
+        "icepunch",
+        "closecombat",
+        "detect",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

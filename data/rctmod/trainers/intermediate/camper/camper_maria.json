@@ -1,0 +1,65 @@
+{
+  "name": "Camper Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1771216986520276
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "relaxed",
+      "ability": "static",
+      "moveset": [
+        "substitute",
+        "stoneedge",
+        "tackle",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "whirlwind",
+        "icebeam",
+        "quickattack",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "mild",
+      "ability": "syncronize",
+      "moveset": [
+        "earthquake",
+        "thunderbolt",
+        "flareblitz",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

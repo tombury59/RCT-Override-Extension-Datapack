@@ -1,0 +1,110 @@
+{
+  "name": "Gym Leader Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15211657476660348
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latias",
+      "gender": "MALE",
+      "level": 83,
+      "nature": "modest",
+      "ability": "rockhead",
+      "moveset": [
+        "crunch",
+        "fireblast",
+        "icepunch",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "rash",
+      "ability": "thickfat",
+      "moveset": [
+        "airslash",
+        "megapunch",
+        "thrash",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "quiet",
+      "ability": "innerfocus",
+      "moveset": [
+        "growth",
+        "wildcharge",
+        "firepunch",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 82,
+      "nature": "relaxed",
+      "ability": "immunity",
+      "moveset": [
+        "thunderbolt",
+        "shadowclaw",
+        "protect",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 84,
+      "nature": "mild",
+      "ability": "thickfat",
+      "moveset": [
+        "megakick",
+        "vinewhip",
+        "substitute",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "quickattack",
+        "swordsdance",
+        "solarbeam",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

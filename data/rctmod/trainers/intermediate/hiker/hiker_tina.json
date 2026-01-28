@@ -1,0 +1,65 @@
+{
+  "name": "Hiker Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15747621122994054
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "reshiram",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "naive",
+      "ability": "syncronize",
+      "moveset": [
+        "stealthrock",
+        "hydropump",
+        "earthquake",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "gentle",
+      "ability": "immunity",
+      "moveset": [
+        "takedown",
+        "pound",
+        "sleeppowder",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "calm",
+      "ability": "compoundeyes",
+      "moveset": [
+        "fireblast",
+        "firepunch",
+        "gigaimpact",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

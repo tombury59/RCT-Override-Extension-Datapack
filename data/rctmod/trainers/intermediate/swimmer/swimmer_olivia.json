@@ -1,0 +1,65 @@
+{
+  "name": "Swimmer Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1921564085043843
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "trickroom",
+        "scratch",
+        "icepunch",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "hardy",
+      "ability": "levitate",
+      "moveset": [
+        "zenheadbutt",
+        "thunder",
+        "recover",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "serious",
+      "ability": "flashfire",
+      "moveset": [
+        "outrage",
+        "detect",
+        "thunder",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

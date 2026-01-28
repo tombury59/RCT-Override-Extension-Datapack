@@ -1,0 +1,80 @@
+{
+  "name": "Gym Leader Karen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14236855255863745
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 84,
+      "nature": "bashful",
+      "ability": "rockhead",
+      "moveset": [
+        "flashcannon",
+        "thunderpunch",
+        "tailwind",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "modest",
+      "ability": "rockhead",
+      "moveset": [
+        "flashcannon",
+        "tackle",
+        "growth",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "MALE",
+      "level": 83,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "surf",
+        "agility",
+        "tackle",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "bold",
+      "ability": "torrent",
+      "moveset": [
+        "zenheadbutt",
+        "outrage",
+        "tailwind",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

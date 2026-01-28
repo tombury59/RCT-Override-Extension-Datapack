@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11023641655491288
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "bodyslam",
+        "megapunch",
+        "rest",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "flareblitz",
+        "whirlwind",
+        "bodyslam",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "docile",
+      "ability": "compoundeyes",
+      "moveset": [
+        "stoneedge",
+        "growth",
+        "megakick",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "modest",
+      "ability": "soundproof",
+      "moveset": [
+        "willowisp",
+        "dazzlinggleam",
+        "gigaimpact",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "docile",
+      "ability": "waterabsorb",
+      "moveset": [
+        "stunspore",
+        "outrage",
+        "psybeam",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Gym Leader Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11238820007454754
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "magneton",
+      "gender": "FEMALE",
+      "level": 83,
+      "nature": "naughty",
+      "ability": "keeneye",
+      "moveset": [
+        "outrage",
+        "moonblast",
+        "willowisp",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 81,
+      "nature": "bold",
+      "ability": "intimidate",
+      "moveset": [
+        "trickroom",
+        "quickattack",
+        "dragonpulse",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17133441310340763
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": [
+        "shadowclaw",
+        "toxic",
+        "thunderbolt",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "impish",
+      "ability": "swarm",
+      "moveset": [
+        "bodyslam",
+        "nastyplot",
+        "scratch",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "gentle",
+      "ability": "static",
+      "moveset": [
+        "stunspore",
+        "flareblitz",
+        "dragonrush",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

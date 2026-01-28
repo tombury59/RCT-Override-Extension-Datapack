@@ -1,0 +1,95 @@
+{
+  "name": "Ruin Maniac Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16600082739243427
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "reshiram",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "lonely",
+      "ability": "thickfat",
+      "moveset": [
+        "thunder",
+        "dragonrush",
+        "shadowclaw",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "blizzard",
+        "takedown",
+        "willowisp",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "naughty",
+      "ability": "blaze",
+      "moveset": [
+        "icepunch",
+        "hydropump",
+        "whirlwind",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "naughty",
+      "ability": "levitate",
+      "moveset": [
+        "tailwind",
+        "dragonpulse",
+        "firepunch",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "quirky",
+      "ability": "syncronize",
+      "moveset": [
+        "dazzlinggleam",
+        "crunch",
+        "ironhead",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

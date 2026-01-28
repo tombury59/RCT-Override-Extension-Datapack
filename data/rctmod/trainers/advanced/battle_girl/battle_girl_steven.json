@@ -1,0 +1,80 @@
+{
+  "name": "Battle Girl Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19181846029032232
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "lonely",
+      "ability": "flashfire",
+      "moveset": [
+        "thunderpunch",
+        "stoneedge",
+        "toxic",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "tackle",
+        "bodyslam",
+        "detect",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "serious",
+      "ability": "pressure",
+      "moveset": [
+        "ironhead",
+        "blizzard",
+        "nastyplot",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "careful",
+      "ability": "intimidate",
+      "moveset": [
+        "agility",
+        "scratch",
+        "megakick",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

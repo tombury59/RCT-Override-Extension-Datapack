@@ -1,0 +1,80 @@
+{
+  "name": "Veteran Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15929696645417815
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "quirky",
+      "ability": "keeneye",
+      "moveset": [
+        "vinewhip",
+        "willowisp",
+        "thunderpunch",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "flareblitz",
+        "swordsdance",
+        "crunch",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aggron",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": [
+        "tackle",
+        "psychic",
+        "shadowclaw",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "jolly",
+      "ability": "levitate",
+      "moveset": [
+        "trickroom",
+        "dragonrush",
+        "wildcharge",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

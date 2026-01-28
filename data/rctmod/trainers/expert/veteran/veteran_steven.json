@@ -1,0 +1,80 @@
+{
+  "name": "Veteran Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12512697038409865
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "togekiss",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "naughty",
+      "ability": "sturdy",
+      "moveset": [
+        "doubleedge",
+        "stoneedge",
+        "sleeppowder",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 65,
+      "nature": "docile",
+      "ability": "levitate",
+      "moveset": [
+        "blizzard",
+        "thunderpunch",
+        "ironhead",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "naughty",
+      "ability": "rockhead",
+      "moveset": [
+        "vinewhip",
+        "earthquake",
+        "thrash",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "naughty",
+      "ability": "overgrow",
+      "moveset": [
+        "moonblast",
+        "stoneedge",
+        "shadowclaw",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

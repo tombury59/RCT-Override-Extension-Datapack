@@ -1,0 +1,80 @@
+{
+  "name": "Lass Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13772034995609111
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "rash",
+      "ability": "static",
+      "moveset": [
+        "flareblitz",
+        "roar",
+        "stoneedge",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "careful",
+      "ability": "keeneye",
+      "moveset": [
+        "dragonrush",
+        "crunch",
+        "moonblast",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "bodyslam",
+        "gigaimpact",
+        "thundershock",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "hasty",
+      "ability": "overgrow",
+      "moveset": [
+        "megapunch",
+        "substitute",
+        "solarbeam",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

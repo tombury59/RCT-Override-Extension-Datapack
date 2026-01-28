@@ -1,0 +1,65 @@
+{
+  "name": "Lass Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11169328197678781
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "sassy",
+      "ability": "syncronize",
+      "moveset": [
+        "tackle",
+        "whirlwind",
+        "flareblitz",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "serious",
+      "ability": "static",
+      "moveset": [
+        "crunch",
+        "growth",
+        "pound",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "naive",
+      "ability": "immunity",
+      "moveset": [
+        "ironhead",
+        "detect",
+        "dragonpulse",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

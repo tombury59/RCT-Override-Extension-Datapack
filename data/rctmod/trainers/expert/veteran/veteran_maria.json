@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1993257780303863
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aggron",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "impish",
+      "ability": "swarm",
+      "moveset": [
+        "tackle",
+        "ember",
+        "tailwind",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "nastyplot",
+        "takedown",
+        "thunderpunch",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "suicune",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "lax",
+      "ability": "swarm",
+      "moveset": [
+        "calmmind",
+        "dazzlinggleam",
+        "stoneedge",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "thrash",
+        "focusblast",
+        "growth",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "modest",
+      "ability": "effectspore",
+      "moveset": [
+        "thunderpunch",
+        "trickroom",
+        "shadowball",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

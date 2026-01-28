@@ -1,0 +1,65 @@
+{
+  "name": "Pok\u00e9mon Ranger Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17937098559879672
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "palkia",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "docile",
+      "ability": "static",
+      "moveset": [
+        "willowisp",
+        "blizzard",
+        "scratch",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "relaxed",
+      "ability": "effectspore",
+      "moveset": [
+        "pound",
+        "fireblast",
+        "agility",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "closecombat",
+        "focusblast",
+        "zenheadbutt",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Camper Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19097639726037163
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "quiet",
+      "ability": "flashfire",
+      "moveset": [
+        "dazzlinggleam",
+        "tackle",
+        "dragonrush",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "lonely",
+      "ability": "static",
+      "moveset": [
+        "closecombat",
+        "scratch",
+        "calmmind",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "docile",
+      "ability": "torrent",
+      "moveset": [
+        "megapunch",
+        "focusblast",
+        "substitute",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

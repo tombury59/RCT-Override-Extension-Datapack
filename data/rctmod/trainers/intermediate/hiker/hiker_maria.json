@@ -1,0 +1,50 @@
+{
+  "name": "Hiker Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1593572898165931
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "rash",
+      "ability": "flashfire",
+      "moveset": [
+        "toxic",
+        "pound",
+        "doubleedge",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "bold",
+      "ability": "sturdy",
+      "moveset": [
+        "dazzlinggleam",
+        "detect",
+        "megapunch",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

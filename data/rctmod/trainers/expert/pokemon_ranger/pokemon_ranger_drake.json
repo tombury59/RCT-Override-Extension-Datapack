@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Ranger Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1918423748559153
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "calm",
+      "ability": "pressure",
+      "moveset": [
+        "growth",
+        "bodyslam",
+        "focusblast",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "timid",
+      "ability": "pressure",
+      "moveset": [
+        "flamethrower",
+        "thrash",
+        "agility",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rayquaza",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "confusion",
+        "thrash",
+        "trickroom",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "bashful",
+      "ability": "intimidate",
+      "moveset": [
+        "gigaimpact",
+        "trickroom",
+        "darkpulse",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "quirky",
+      "ability": "static",
+      "moveset": [
+        "rest",
+        "zenheadbutt",
+        "psychic",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

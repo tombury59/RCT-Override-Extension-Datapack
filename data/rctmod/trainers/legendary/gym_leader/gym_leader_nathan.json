@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16462372567158085
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "blastoise",
+      "gender": "MALE",
+      "level": 81,
+      "nature": "gentle",
+      "ability": "compoundeyes",
+      "moveset": [
+        "stoneedge",
+        "growth",
+        "doubleedge",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 81,
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "blizzard",
+        "earthquake",
+        "zenheadbutt",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 81,
+      "nature": "calm",
+      "ability": "compoundeyes",
+      "moveset": [
+        "ironhead",
+        "ember",
+        "toxic",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "registeel",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "careful",
+      "ability": "pressure",
+      "moveset": [
+        "thunder",
+        "quickattack",
+        "willowisp",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "docile",
+      "ability": "waterabsorb",
+      "moveset": [
+        "whirlwind",
+        "ironhead",
+        "thunderbolt",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

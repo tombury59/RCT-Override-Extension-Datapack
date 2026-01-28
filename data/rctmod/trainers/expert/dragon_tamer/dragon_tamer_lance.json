@@ -1,0 +1,110 @@
+{
+  "name": "Dragon Tamer Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10584580339917524
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "timid",
+      "ability": "syncronize",
+      "moveset": [
+        "roar",
+        "ember",
+        "takedown",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "bashful",
+      "ability": "pressure",
+      "moveset": [
+        "psychic",
+        "rest",
+        "wildcharge",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "tailwind",
+        "hyperbeam",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "adamant",
+      "ability": "static",
+      "moveset": [
+        "detect",
+        "darkpulse",
+        "stoneedge",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "adamant",
+      "ability": "soundproof",
+      "moveset": [
+        "nastyplot",
+        "crunch",
+        "zenheadbutt",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "bashful",
+      "ability": "swarm",
+      "moveset": [
+        "tackle",
+        "rest",
+        "dragonpulse",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

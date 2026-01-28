@@ -1,0 +1,80 @@
+{
+  "name": "Ace Trainer Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19963114831525205
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "serious",
+      "ability": "overgrow",
+      "moveset": [
+        "nastyplot",
+        "icepunch",
+        "airslash",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "hasty",
+      "ability": "blaze",
+      "moveset": [
+        "bodyslam",
+        "shadowball",
+        "detect",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "bashful",
+      "ability": "rockhead",
+      "moveset": [
+        "thundershock",
+        "thunderpunch",
+        "trickroom",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "impish",
+      "ability": "overgrow",
+      "moveset": [
+        "confusion",
+        "tailwind",
+        "thunderpunch",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

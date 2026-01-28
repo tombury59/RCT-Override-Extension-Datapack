@@ -1,0 +1,35 @@
+{
+  "name": "Hiker Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1074613213726312
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "sassy",
+      "ability": "blaze",
+      "moveset": [
+        "toxic",
+        "icebeam",
+        "tackle",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

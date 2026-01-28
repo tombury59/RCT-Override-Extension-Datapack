@@ -1,0 +1,50 @@
+{
+  "name": "Swimmer Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1013566350015187
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "relaxed",
+      "ability": "immunity",
+      "moveset": [
+        "growth",
+        "moonblast",
+        "stoneedge",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "bashful",
+      "ability": "effectspore",
+      "moveset": [
+        "calmmind",
+        "gigaimpact",
+        "quickattack",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

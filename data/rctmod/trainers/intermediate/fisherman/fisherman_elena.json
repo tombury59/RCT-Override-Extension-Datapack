@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13797762070875527
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "serious",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thunderpunch",
+        "tailwind",
+        "fireblast",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "willowisp",
+        "thrash",
+        "shadowclaw",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "jolly",
+      "ability": "compoundeyes",
+      "moveset": [
+        "calmmind",
+        "confusion",
+        "megapunch",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

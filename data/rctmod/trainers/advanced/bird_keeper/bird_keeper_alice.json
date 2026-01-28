@@ -1,0 +1,80 @@
+{
+  "name": "Bird Keeper Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13742557143577908
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rattata",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "hardy",
+      "ability": "static",
+      "moveset": [
+        "focusblast",
+        "hyperbeam",
+        "trickroom",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "lonely",
+      "ability": "syncronize",
+      "moveset": [
+        "agility",
+        "stoneedge",
+        "psybeam",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "lonely",
+      "ability": "syncronize",
+      "moveset": [
+        "darkpulse",
+        "pound",
+        "thunderwave",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "naughty",
+      "ability": "thickfat",
+      "moveset": [
+        "thundershock",
+        "dragonrush",
+        "thrash",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

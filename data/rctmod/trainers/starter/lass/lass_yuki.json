@@ -1,0 +1,50 @@
+{
+  "name": "Lass Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16652038948023956
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gardevoir",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "watergun",
+        "tackle",
+        "stunspore",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "naive",
+      "ability": "levitate",
+      "moveset": [
+        "thunderbolt",
+        "quickattack",
+        "gigaimpact",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

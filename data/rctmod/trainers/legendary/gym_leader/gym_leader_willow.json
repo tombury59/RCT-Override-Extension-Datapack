@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18034614188283044
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "moltres",
+      "gender": "FEMALE",
+      "level": 83,
+      "nature": "relaxed",
+      "ability": "static",
+      "moveset": [
+        "psychic",
+        "whirlwind",
+        "firepunch",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 84,
+      "nature": "jolly",
+      "ability": "soundproof",
+      "moveset": [
+        "pound",
+        "energyball",
+        "stoneedge",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 83,
+      "nature": "hasty",
+      "ability": "soundproof",
+      "moveset": [
+        "tailwind",
+        "psychic",
+        "gigaimpact",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "naive",
+      "ability": "compoundeyes",
+      "moveset": [
+        "firepunch",
+        "whirlwind",
+        "dragonpulse",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "MALE",
+      "level": 87,
+      "nature": "docile",
+      "ability": "effectspore",
+      "moveset": [
+        "dazzlinggleam",
+        "sleeppowder",
+        "takedown",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

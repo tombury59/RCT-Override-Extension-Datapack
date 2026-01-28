@@ -1,0 +1,95 @@
+{
+  "name": "Psychic Olivia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19766872858227694
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "rash",
+      "ability": "keeneye",
+      "moveset": [
+        "ironhead",
+        "firepunch",
+        "vinewhip",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "agility",
+        "stoneedge",
+        "gigaimpact",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": [
+        "megapunch",
+        "closecombat",
+        "trickroom",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "lonely",
+      "ability": "static",
+      "moveset": [
+        "roar",
+        "icebeam",
+        "tackle",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "lax",
+      "ability": "sturdy",
+      "moveset": [
+        "closecombat",
+        "icepunch",
+        "airslash",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

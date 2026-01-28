@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17354863044111613
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "doubleedge",
+        "growth",
+        "takedown",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "naughty",
+      "ability": "sturdy",
+      "moveset": [
+        "tackle",
+        "swordsdance",
+        "thunder",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 82,
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "detect",
+        "fireblast",
+        "thunderpunch",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "modest",
+      "ability": "blaze",
+      "moveset": [
+        "gigaimpact",
+        "focusblast",
+        "hyperbeam",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "quiet",
+      "ability": "blaze",
+      "moveset": [
+        "thunderbolt",
+        "calmmind",
+        "firepunch",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Hiker Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10940904147865768
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "bashful",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thundershock",
+        "sleeppowder",
+        "flareblitz",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "relaxed",
+      "ability": "overgrow",
+      "moveset": [
+        "quickattack",
+        "wildcharge",
+        "thunder",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "zenheadbutt",
+        "thunderpunch",
+        "sleeppowder",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

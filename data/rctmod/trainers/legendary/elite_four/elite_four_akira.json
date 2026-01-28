@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17495762468567522
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ho_oh",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "impish",
+      "ability": "waterabsorb",
+      "moveset": [
+        "focusblast",
+        "scratch",
+        "megapunch",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "lonely",
+      "ability": "effectspore",
+      "moveset": [
+        "protect",
+        "flamethrower",
+        "pound",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "quirky",
+      "ability": "soundproof",
+      "moveset": [
+        "stunspore",
+        "gigaimpact",
+        "megakick",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 94,
+      "nature": "bashful",
+      "ability": "immunity",
+      "moveset": [
+        "doubleedge",
+        "thunderpunch",
+        "substitute",
+        "dragonpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 91,
+      "nature": "impish",
+      "ability": "soundproof",
+      "moveset": [
+        "tailwind",
+        "bodyslam",
+        "megakick",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "rash",
+      "ability": "swarm",
+      "moveset": [
+        "confusion",
+        "protect",
+        "tackle",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

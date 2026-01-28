@@ -1,0 +1,80 @@
+{
+  "name": "Cooltrainer Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14737123637390756
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "naive",
+      "ability": "voltabsorb",
+      "moveset": [
+        "megapunch",
+        "ironhead",
+        "toxic",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "careful",
+      "ability": "effectspore",
+      "moveset": [
+        "zenheadbutt",
+        "solarbeam",
+        "thunderwave",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "sassy",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "ironhead",
+        "willowisp",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "naive",
+      "ability": "voltabsorb",
+      "moveset": [
+        "trickroom",
+        "pound",
+        "dragonpulse",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

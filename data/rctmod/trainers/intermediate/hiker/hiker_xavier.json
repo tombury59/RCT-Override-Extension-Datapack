@@ -1,0 +1,80 @@
+{
+  "name": "Hiker Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.174148576702574
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "calm",
+      "ability": "swarm",
+      "moveset": [
+        "thunder",
+        "outrage",
+        "toxic",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "confusion",
+        "gigaimpact",
+        "wildcharge",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "modest",
+      "ability": "swarm",
+      "moveset": [
+        "outrage",
+        "closecombat",
+        "substitute",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "bashful",
+      "ability": "blaze",
+      "moveset": [
+        "dragonpulse",
+        "calmmind",
+        "zenheadbutt",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

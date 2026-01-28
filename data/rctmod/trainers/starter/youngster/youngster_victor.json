@@ -1,0 +1,50 @@
+{
+  "name": "Youngster Victor",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14979324926616588
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "docile",
+      "ability": "rockhead",
+      "moveset": [
+        "closecombat",
+        "megapunch",
+        "substitute",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "modest",
+      "ability": "intimidate",
+      "moveset": [
+        "megakick",
+        "ember",
+        "stunspore",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

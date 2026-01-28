@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Ranger Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15425009117148325
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "watergun",
+        "bodyslam",
+        "ironhead",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "careful",
+      "ability": "syncronize",
+      "moveset": [
+        "scratch",
+        "ironhead",
+        "protect",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regice",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "watergun",
+        "megapunch",
+        "icepunch",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "hasty",
+      "ability": "thickfat",
+      "moveset": [
+        "hyperbeam",
+        "dragonrush",
+        "calmmind",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "brave",
+      "ability": "rockhead",
+      "moveset": [
+        "bodyslam",
+        "stealthrock",
+        "thrash",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "naughty",
+      "ability": "voltabsorb",
+      "moveset": [
+        "hyperbeam",
+        "ironhead",
+        "hydropump",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

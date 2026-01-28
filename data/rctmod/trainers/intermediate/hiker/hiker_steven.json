@@ -1,0 +1,50 @@
+{
+  "name": "Hiker Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12274026075660144
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "vulpix",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "energyball",
+        "shadowclaw",
+        "toxic",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_m",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "impish",
+      "ability": "compoundeyes",
+      "moveset": [
+        "tailwind",
+        "fireblast",
+        "firepunch",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

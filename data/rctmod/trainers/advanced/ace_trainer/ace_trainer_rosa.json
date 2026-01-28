@@ -1,0 +1,95 @@
+{
+  "name": "Ace Trainer Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1575651659309002
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "magneton",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "hardy",
+      "ability": "effectspore",
+      "moveset": [
+        "dragonrush",
+        "tailwind",
+        "psybeam",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "quiet",
+      "ability": "effectspore",
+      "moveset": [
+        "closecombat",
+        "willowisp",
+        "crunch",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "sassy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thundershock",
+        "stealthrock",
+        "takedown",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "rash",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "thunderpunch",
+        "protect",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "rest",
+        "dragonrush",
+        "shadowclaw",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

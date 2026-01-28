@@ -1,0 +1,80 @@
+{
+  "name": "Battle Girl Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14017513733231962
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "bashful",
+      "ability": "soundproof",
+      "moveset": [
+        "gigaimpact",
+        "tackle",
+        "swordsdance",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "hasty",
+      "ability": "intimidate",
+      "moveset": [
+        "gigaimpact",
+        "stoneedge",
+        "solarbeam",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "lonely",
+      "ability": "levitate",
+      "moveset": [
+        "bodyslam",
+        "outrage",
+        "thundershock",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "lonely",
+      "ability": "innerfocus",
+      "moveset": [
+        "nastyplot",
+        "doubleedge",
+        "shadowball",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

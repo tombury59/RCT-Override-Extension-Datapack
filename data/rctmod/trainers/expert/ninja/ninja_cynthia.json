@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Cynthia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10379720962547191
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "calm",
+      "ability": "rockhead",
+      "moveset": [
+        "whirlwind",
+        "energyball",
+        "hyperbeam",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "bashful",
+      "ability": "effectspore",
+      "moveset": [
+        "calmmind",
+        "shadowclaw",
+        "thunderbolt",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "calm",
+      "ability": "keeneye",
+      "moveset": [
+        "solarbeam",
+        "thunderpunch",
+        "shadowclaw",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "gigaimpact",
+        "detect",
+        "icebeam",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "naughty",
+      "ability": "effectspore",
+      "moveset": [
+        "icebeam",
+        "doubleedge",
+        "bodyslam",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

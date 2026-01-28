@@ -1,0 +1,95 @@
+{
+  "name": "Dragon Tamer Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15767919434590907
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latias",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "megakick",
+        "agility",
+        "outrage",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "hardy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "stunspore",
+        "icebeam",
+        "firepunch",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "bold",
+      "ability": "torrent",
+      "moveset": [
+        "takedown",
+        "nastyplot",
+        "watergun",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 78,
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "confusion",
+        "hyperbeam",
+        "thrash",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "quirky",
+      "ability": "syncronize",
+      "moveset": [
+        "focusblast",
+        "dragonrush",
+        "wildcharge",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

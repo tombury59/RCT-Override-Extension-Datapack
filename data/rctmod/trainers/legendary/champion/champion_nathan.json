@@ -1,0 +1,65 @@
+{
+  "name": "Champion Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13260425433041
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "mild",
+      "ability": "waterabsorb",
+      "moveset": [
+        "energyball",
+        "scratch",
+        "zenheadbutt",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 99,
+      "nature": "modest",
+      "ability": "thickfat",
+      "moveset": [
+        "doubleedge",
+        "stealthrock",
+        "surf",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "rash",
+      "ability": "static",
+      "moveset": [
+        "substitute",
+        "dragonpulse",
+        "earthquake",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

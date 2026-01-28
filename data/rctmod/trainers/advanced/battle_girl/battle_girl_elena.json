@@ -1,0 +1,80 @@
+{
+  "name": "Battle Girl Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10072531498460402
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "darkpulse",
+        "stoneedge",
+        "bodyslam",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latios",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "jolly",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thrash",
+        "swordsdance",
+        "flamethrower",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "hardy",
+      "ability": "effectspore",
+      "moveset": [
+        "airslash",
+        "quickattack",
+        "takedown",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "bold",
+      "ability": "torrent",
+      "moveset": [
+        "thunder",
+        "rest",
+        "dragonrush",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

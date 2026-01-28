@@ -1,0 +1,50 @@
+{
+  "name": "Scientist Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1629904913586685
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "serious",
+      "ability": "syncronize",
+      "moveset": [
+        "thunderpunch",
+        "ember",
+        "gigaimpact",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "jolly",
+      "ability": "effectspore",
+      "moveset": [
+        "detect",
+        "blizzard",
+        "wildcharge",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

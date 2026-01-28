@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.188662402272024
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "brave",
+      "ability": "soundproof",
+      "moveset": [
+        "psybeam",
+        "closecombat",
+        "gigaimpact",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "naughty",
+      "ability": "static",
+      "moveset": [
+        "surf",
+        "flareblitz",
+        "stunspore",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "brave",
+      "ability": "keeneye",
+      "moveset": [
+        "earthquake",
+        "closecombat",
+        "thunderwave",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 61,
+      "nature": "adamant",
+      "ability": "immunity",
+      "moveset": [
+        "ironhead",
+        "vinewhip",
+        "wildcharge",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "hardy",
+      "ability": "immunity",
+      "moveset": [
+        "takedown",
+        "tailwind",
+        "dragonpulse",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

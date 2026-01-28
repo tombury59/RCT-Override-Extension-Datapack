@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Breeder Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10042384959604317
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lugia",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "quiet",
+      "ability": "static",
+      "moveset": [
+        "nastyplot",
+        "takedown",
+        "flashcannon",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmeleon",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "quiet",
+      "ability": "effectspore",
+      "moveset": [
+        "roar",
+        "thundershock",
+        "icepunch",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "naughty",
+      "ability": "swarm",
+      "moveset": [
+        "fireblast",
+        "scratch",
+        "willowisp",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "impish",
+      "ability": "effectspore",
+      "moveset": [
+        "rest",
+        "thunderbolt",
+        "hyperbeam",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "brave",
+      "ability": "flashfire",
+      "moveset": [
+        "agility",
+        "firepunch",
+        "darkpulse",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "sassy",
+      "ability": "immunity",
+      "moveset": [
+        "crunch",
+        "thundershock",
+        "stealthrock",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

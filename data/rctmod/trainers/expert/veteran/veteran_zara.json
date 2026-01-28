@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18162798915119263
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "solarbeam",
+        "roar",
+        "bodyslam",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "impish",
+      "ability": "pressure",
+      "moveset": [
+        "shadowball",
+        "dragonrush",
+        "tailwind",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "careful",
+      "ability": "immunity",
+      "moveset": [
+        "takedown",
+        "moonblast",
+        "swordsdance",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 61,
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "dragonpulse",
+        "thrash",
+        "growth",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "serious",
+      "ability": "innerfocus",
+      "moveset": [
+        "outrage",
+        "wildcharge",
+        "sleeppowder",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

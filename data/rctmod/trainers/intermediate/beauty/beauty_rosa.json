@@ -1,0 +1,80 @@
+{
+  "name": "Beauty Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12982351968991945
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "quiet",
+      "ability": "levitate",
+      "moveset": [
+        "dragonrush",
+        "stunspore",
+        "zenheadbutt",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "sassy",
+      "ability": "syncronize",
+      "moveset": [
+        "flashcannon",
+        "stealthrock",
+        "thunderpunch",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "bold",
+      "ability": "compoundeyes",
+      "moveset": [
+        "ironhead",
+        "ember",
+        "agility",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "naughty",
+      "ability": "overgrow",
+      "moveset": [
+        "ironhead",
+        "thunder",
+        "dragonrush",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

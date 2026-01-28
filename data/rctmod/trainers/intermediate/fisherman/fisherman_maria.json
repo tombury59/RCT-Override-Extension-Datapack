@@ -1,0 +1,35 @@
+{
+  "name": "Fisherman Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11327431672194338
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aggron",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "impish",
+      "ability": "overgrow",
+      "moveset": [
+        "shadowclaw",
+        "tackle",
+        "watergun",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

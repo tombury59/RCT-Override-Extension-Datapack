@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19392391713344564
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "typhlosion",
+      "gender": "MALE",
+      "level": 83,
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "scratch",
+        "ironhead",
+        "airslash",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "serious",
+      "ability": "blaze",
+      "moveset": [
+        "psybeam",
+        "scratch",
+        "pound",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "MALE",
+      "level": 87,
+      "nature": "bashful",
+      "ability": "compoundeyes",
+      "moveset": [
+        "roar",
+        "hyperbeam",
+        "energyball",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "docile",
+      "ability": "compoundeyes",
+      "moveset": [
+        "firepunch",
+        "megapunch",
+        "recover",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "careful",
+      "ability": "levitate",
+      "moveset": [
+        "hyperbeam",
+        "psybeam",
+        "whirlwind",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

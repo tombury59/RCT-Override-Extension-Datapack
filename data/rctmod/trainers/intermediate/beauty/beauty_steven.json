@@ -1,0 +1,50 @@
+{
+  "name": "Beauty Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19171199911505338
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "mild",
+      "ability": "intimidate",
+      "moveset": [
+        "dazzlinggleam",
+        "bodyslam",
+        "dragonrush",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "careful",
+      "ability": "compoundeyes",
+      "moveset": [
+        "scratch",
+        "quickattack",
+        "thunderwave",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

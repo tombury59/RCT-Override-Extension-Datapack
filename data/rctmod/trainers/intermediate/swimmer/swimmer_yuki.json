@@ -1,0 +1,95 @@
+{
+  "name": "Swimmer Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14382121921427415
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "sandslash",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "naive",
+      "ability": "immunity",
+      "moveset": [
+        "doubleedge",
+        "recover",
+        "thrash",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "brave",
+      "ability": "torrent",
+      "moveset": [
+        "blizzard",
+        "megakick",
+        "stoneedge",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "adamant",
+      "ability": "keeneye",
+      "moveset": [
+        "protect",
+        "takedown",
+        "dragonpulse",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "bold",
+      "ability": "keeneye",
+      "moveset": [
+        "ironhead",
+        "thundershock",
+        "recover",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "ironhead",
+        "watergun",
+        "thunderwave",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

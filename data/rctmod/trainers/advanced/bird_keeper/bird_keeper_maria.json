@@ -1,0 +1,65 @@
+{
+  "name": "Bird Keeper Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1474628085390117
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "naive",
+      "ability": "thickfat",
+      "moveset": [
+        "megakick",
+        "recover",
+        "vinewhip",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "lonely",
+      "ability": "static",
+      "moveset": [
+        "flareblitz",
+        "fireblast",
+        "zenheadbutt",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raikou",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "impish",
+      "ability": "voltabsorb",
+      "moveset": [
+        "bodyslam",
+        "outrage",
+        "swordsdance",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

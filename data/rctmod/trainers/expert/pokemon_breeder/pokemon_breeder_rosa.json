@@ -1,0 +1,95 @@
+{
+  "name": "Pok\u00e9mon Breeder Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1883201971955822
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "blastoise",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "sassy",
+      "ability": "rockhead",
+      "moveset": [
+        "hydropump",
+        "rest",
+        "dragonrush",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "rash",
+      "ability": "voltabsorb",
+      "moveset": [
+        "calmmind",
+        "takedown",
+        "focusblast",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "docile",
+      "ability": "swarm",
+      "moveset": [
+        "earthquake",
+        "closecombat",
+        "thunderwave",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "calm",
+      "ability": "intimidate",
+      "moveset": [
+        "hydropump",
+        "wildcharge",
+        "pound",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "docile",
+      "ability": "voltabsorb",
+      "moveset": [
+        "thunderwave",
+        "stoneedge",
+        "shadowball",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

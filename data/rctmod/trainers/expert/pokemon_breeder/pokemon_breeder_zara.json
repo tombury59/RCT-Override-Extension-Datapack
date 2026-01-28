@@ -1,0 +1,80 @@
+{
+  "name": "Pok\u00e9mon Breeder Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13194982005195682
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "hasty",
+      "ability": "immunity",
+      "moveset": [
+        "calmmind",
+        "darkpulse",
+        "closecombat",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "gentle",
+      "ability": "sturdy",
+      "moveset": [
+        "doubleedge",
+        "focusblast",
+        "thunderwave",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": [
+        "flareblitz",
+        "ember",
+        "tackle",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "docile",
+      "ability": "immunity",
+      "moveset": [
+        "trickroom",
+        "vinewhip",
+        "shadowclaw",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

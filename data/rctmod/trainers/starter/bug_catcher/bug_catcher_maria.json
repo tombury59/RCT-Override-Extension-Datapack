@@ -1,0 +1,95 @@
+{
+  "name": "Bug Catcher Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1679210513048301
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "zapdos",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "adamant",
+      "ability": "static",
+      "moveset": [
+        "darkpulse",
+        "scratch",
+        "agility",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blastoise",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "quiet",
+      "ability": "waterabsorb",
+      "moveset": [
+        "tailwind",
+        "thunderpunch",
+        "solarbeam",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "lonely",
+      "ability": "torrent",
+      "moveset": [
+        "willowisp",
+        "crunch",
+        "moonblast",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "quirky",
+      "ability": "levitate",
+      "moveset": [
+        "hydropump",
+        "thunderwave",
+        "firepunch",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "impish",
+      "ability": "syncronize",
+      "moveset": [
+        "whirlwind",
+        "flashcannon",
+        "crunch",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

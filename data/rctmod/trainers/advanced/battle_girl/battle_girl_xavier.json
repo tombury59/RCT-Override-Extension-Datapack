@@ -1,0 +1,50 @@
+{
+  "name": "Battle Girl Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17172350952715087
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "quiet",
+      "ability": "waterabsorb",
+      "moveset": [
+        "closecombat",
+        "dragonpulse",
+        "growth",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lugia",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "sassy",
+      "ability": "torrent",
+      "moveset": [
+        "psybeam",
+        "willowisp",
+        "takedown",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

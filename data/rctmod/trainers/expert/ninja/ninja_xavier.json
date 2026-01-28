@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1692463048156151
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "hasty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "icepunch",
+        "toxic",
+        "psychic",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "adamant",
+      "ability": "keeneye",
+      "moveset": [
+        "airslash",
+        "quickattack",
+        "nastyplot",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "quirky",
+      "ability": "keeneye",
+      "moveset": [
+        "earthquake",
+        "shadowball",
+        "dragonrush",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "dazzlinggleam",
+        "tailwind",
+        "scratch",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "bold",
+      "ability": "compoundeyes",
+      "moveset": [
+        "protect",
+        "firepunch",
+        "flareblitz",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

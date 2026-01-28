@@ -1,0 +1,80 @@
+{
+  "name": "Beauty Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11786113327400966
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "lonely",
+      "ability": "soundproof",
+      "moveset": [
+        "agility",
+        "vinewhip",
+        "icepunch",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "gentle",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "darkpulse",
+        "megakick",
+        "willowisp"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "gentle",
+      "ability": "overgrow",
+      "moveset": [
+        "shadowclaw",
+        "wildcharge",
+        "focusblast",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "calm",
+      "ability": "immunity",
+      "moveset": [
+        "stealthrock",
+        "thrash",
+        "scratch",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

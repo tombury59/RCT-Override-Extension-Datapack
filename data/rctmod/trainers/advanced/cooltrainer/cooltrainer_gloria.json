@@ -1,0 +1,50 @@
+{
+  "name": "Cooltrainer Gloria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19604964129423846
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "articuno",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "careful",
+      "ability": "rockhead",
+      "moveset": [
+        "dragonrush",
+        "agility",
+        "gigaimpact",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "serious",
+      "ability": "soundproof",
+      "moveset": [
+        "swordsdance",
+        "takedown",
+        "surf",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

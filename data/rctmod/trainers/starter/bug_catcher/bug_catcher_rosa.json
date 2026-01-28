@@ -1,0 +1,50 @@
+{
+  "name": "Bug Catcher Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16447940628848873
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "megapunch",
+        "vinewhip",
+        "agility",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "modest",
+      "ability": "thickfat",
+      "moveset": [
+        "ember",
+        "gigaimpact",
+        "zenheadbutt",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

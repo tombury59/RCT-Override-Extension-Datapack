@@ -1,0 +1,95 @@
+{
+  "name": "Camper Tina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10228112999340776
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "nidoran_f",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "timid",
+      "ability": "soundproof",
+      "moveset": [
+        "shadowclaw",
+        "darkpulse",
+        "toxic",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "quirky",
+      "ability": "static",
+      "moveset": [
+        "solarbeam",
+        "quickattack",
+        "firepunch",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "adamant",
+      "ability": "voltabsorb",
+      "moveset": [
+        "tackle",
+        "detect",
+        "icepunch",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "icebeam",
+        "agility",
+        "ironhead",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "toxic",
+        "flareblitz",
+        "hyperbeam",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Ninja Diana",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1305905892508757
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "gentle",
+      "ability": "intimidate",
+      "moveset": [
+        "detect",
+        "crunch",
+        "watergun",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "jolly",
+      "ability": "immunity",
+      "moveset": [
+        "bodyslam",
+        "agility",
+        "confusion",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "naive",
+      "ability": "waterabsorb",
+      "moveset": [
+        "nastyplot",
+        "crunch",
+        "icebeam",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "moonblast",
+        "shadowclaw",
+        "nastyplot",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

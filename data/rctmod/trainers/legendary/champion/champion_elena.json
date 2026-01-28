@@ -1,0 +1,110 @@
+{
+  "name": "Champion Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13126488923262866
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "suicune",
+      "gender": "FEMALE",
+      "level": 94,
+      "nature": "naughty",
+      "ability": "syncronize",
+      "moveset": [
+        "gigaimpact",
+        "stunspore",
+        "zenheadbutt",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 96,
+      "nature": "quiet",
+      "ability": "keeneye",
+      "moveset": [
+        "agility",
+        "firepunch",
+        "dazzlinggleam",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "entei",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "willowisp",
+        "takedown",
+        "icepunch",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 96,
+      "nature": "adamant",
+      "ability": "syncronize",
+      "moveset": [
+        "icepunch",
+        "takedown",
+        "growth",
+        "vinewhip"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "hasty",
+      "ability": "blaze",
+      "moveset": [
+        "energyball",
+        "calmmind",
+        "ironhead",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "hasty",
+      "ability": "swarm",
+      "moveset": [
+        "outrage",
+        "sleeppowder",
+        "flareblitz",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Picnicker Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.16254574484113388
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "hasty",
+      "ability": "intimidate",
+      "moveset": [
+        "protect",
+        "megakick",
+        "megapunch",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "bold",
+      "ability": "immunity",
+      "moveset": [
+        "megakick",
+        "recover",
+        "icebeam",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

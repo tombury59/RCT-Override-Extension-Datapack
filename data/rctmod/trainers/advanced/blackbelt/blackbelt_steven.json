@@ -1,0 +1,80 @@
+{
+  "name": "Blackbelt Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13892849162489407
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "brave",
+      "ability": "intimidate",
+      "moveset": [
+        "whirlwind",
+        "focusblast",
+        "tackle",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "jolteon",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "docile",
+      "ability": "pressure",
+      "moveset": [
+        "energyball",
+        "doubleedge",
+        "scratch",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "megapunch",
+        "earthquake",
+        "energyball",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "quiet",
+      "ability": "pressure",
+      "moveset": [
+        "swordsdance",
+        "megapunch",
+        "airslash",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

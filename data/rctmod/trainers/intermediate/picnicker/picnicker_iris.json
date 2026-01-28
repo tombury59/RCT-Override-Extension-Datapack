@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Iris",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1395636050256058
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "naive",
+      "ability": "keeneye",
+      "moveset": [
+        "takedown",
+        "swordsdance",
+        "zenheadbutt",
+        "flashcannon"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "careful",
+      "ability": "compoundeyes",
+      "moveset": [
+        "growth",
+        "stoneedge",
+        "shadowball",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zekrom",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "hardy",
+      "ability": "flashfire",
+      "moveset": [
+        "zenheadbutt",
+        "shadowclaw",
+        "recover",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

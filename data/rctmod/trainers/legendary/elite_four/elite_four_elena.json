@@ -1,0 +1,95 @@
+{
+  "name": "Elite Four Elena",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14541543918137384
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "suicune",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "gentle",
+      "ability": "torrent",
+      "moveset": [
+        "thunder",
+        "outrage",
+        "stunspore",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "bold",
+      "ability": "immunity",
+      "moveset": [
+        "calmmind",
+        "tackle",
+        "thrash",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "closecombat",
+        "airslash",
+        "pound",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "quiet",
+      "ability": "sturdy",
+      "moveset": [
+        "ironhead",
+        "whirlwind",
+        "tackle",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "calm",
+      "ability": "thickfat",
+      "moveset": [
+        "agility",
+        "flareblitz",
+        "airslash",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

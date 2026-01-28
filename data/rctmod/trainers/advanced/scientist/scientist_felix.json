@@ -1,0 +1,65 @@
+{
+  "name": "Scientist Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18023851628242335
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "timid",
+      "ability": "pressure",
+      "moveset": [
+        "dazzlinggleam",
+        "dragonrush",
+        "tailwind",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "hasty",
+      "ability": "swarm",
+      "moveset": [
+        "fireblast",
+        "rest",
+        "firepunch",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "naive",
+      "ability": "thickfat",
+      "moveset": [
+        "shadowclaw",
+        "doubleedge",
+        "trickroom",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

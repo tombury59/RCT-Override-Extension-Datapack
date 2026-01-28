@@ -1,0 +1,95 @@
+{
+  "name": "Ruin Maniac Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12035266364946784
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lugia",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "jolly",
+      "ability": "syncronize",
+      "moveset": [
+        "swordsdance",
+        "ember",
+        "thrash",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "icepunch",
+        "crunch",
+        "recover",
+        "fireblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "oddish",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "jolly",
+      "ability": "waterabsorb",
+      "moveset": [
+        "psybeam",
+        "calmmind",
+        "outrage",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "careful",
+      "ability": "levitate",
+      "moveset": [
+        "zenheadbutt",
+        "firepunch",
+        "stunspore",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "moltres",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "modest",
+      "ability": "soundproof",
+      "moveset": [
+        "psychic",
+        "shadowclaw",
+        "gigaimpact",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

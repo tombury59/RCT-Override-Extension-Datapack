@@ -1,0 +1,80 @@
+{
+  "name": "Bird Keeper Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11315201116239489
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "quiet",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thunderpunch",
+        "closecombat",
+        "darkpulse",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "calm",
+      "ability": "overgrow",
+      "moveset": [
+        "dazzlinggleam",
+        "megapunch",
+        "recover",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "bold",
+      "ability": "immunity",
+      "moveset": [
+        "shadowclaw",
+        "stunspore",
+        "focusblast",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "arcanine",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "naughty",
+      "ability": "pressure",
+      "moveset": [
+        "rest",
+        "takedown",
+        "hyperbeam",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

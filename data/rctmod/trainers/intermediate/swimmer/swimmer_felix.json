@@ -1,0 +1,95 @@
+{
+  "name": "Swimmer Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15174129237710063
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "naughty",
+      "ability": "soundproof",
+      "moveset": [
+        "wildcharge",
+        "watergun",
+        "tailwind",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "careful",
+      "ability": "swarm",
+      "moveset": [
+        "bodyslam",
+        "protect",
+        "flareblitz",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "careful",
+      "ability": "pressure",
+      "moveset": [
+        "ironhead",
+        "shadowclaw",
+        "swordsdance",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "naughty",
+      "ability": "immunity",
+      "moveset": [
+        "takedown",
+        "hyperbeam",
+        "darkpulse",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "scratch",
+        "stealthrock",
+        "dazzlinggleam",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

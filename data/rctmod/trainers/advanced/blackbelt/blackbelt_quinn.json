@@ -1,0 +1,80 @@
+{
+  "name": "Blackbelt Quinn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14350879038520054
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "thunderwave",
+        "psychic",
+        "thrash",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "bashful",
+      "ability": "effectspore",
+      "moveset": [
+        "bodyslam",
+        "earthquake",
+        "darkpulse",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "quiet",
+      "ability": "static",
+      "moveset": [
+        "hydropump",
+        "dragonrush",
+        "doubleedge",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "lonely",
+      "ability": "intimidate",
+      "moveset": [
+        "roar",
+        "dazzlinggleam",
+        "outrage",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

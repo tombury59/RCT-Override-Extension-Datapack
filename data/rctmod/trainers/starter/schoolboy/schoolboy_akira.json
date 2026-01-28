@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1327049678039431
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "calm",
+      "ability": "torrent",
+      "moveset": [
+        "gigaimpact",
+        "bodyslam",
+        "darkpulse",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "lax",
+      "ability": "thickfat",
+      "moveset": [
+        "crunch",
+        "vinewhip",
+        "flareblitz",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

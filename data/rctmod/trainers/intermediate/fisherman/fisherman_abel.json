@@ -1,0 +1,65 @@
+{
+  "name": "Fisherman Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12798218930474023
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "growth",
+        "thunderbolt",
+        "stoneedge",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "jolly",
+      "ability": "levitate",
+      "moveset": [
+        "stoneedge",
+        "protect",
+        "hydropump",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "relaxed",
+      "ability": "overgrow",
+      "moveset": [
+        "willowisp",
+        "airslash",
+        "hyperbeam",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

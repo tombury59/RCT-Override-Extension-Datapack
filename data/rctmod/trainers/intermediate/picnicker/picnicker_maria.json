@@ -1,0 +1,50 @@
+{
+  "name": "Picnicker Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15289086559341095
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "wildcharge",
+        "rest",
+        "ironhead",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "rash",
+      "ability": "voltabsorb",
+      "moveset": [
+        "tackle",
+        "flamethrower",
+        "swordsdance",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Picnicker Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11311719985703526
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "quiet",
+      "ability": "intimidate",
+      "moveset": [
+        "shadowball",
+        "wildcharge",
+        "outrage",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "bold",
+      "ability": "innerfocus",
+      "moveset": [
+        "outrage",
+        "calmmind",
+        "airslash",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "brave",
+      "ability": "voltabsorb",
+      "moveset": [
+        "megakick",
+        "earthquake",
+        "blizzard",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

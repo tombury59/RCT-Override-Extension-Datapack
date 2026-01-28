@@ -1,0 +1,80 @@
+{
+  "name": "Bird Keeper Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.17583223878140955
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmeleon",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "lonely",
+      "ability": "sturdy",
+      "moveset": [
+        "gigaimpact",
+        "thunderbolt",
+        "calmmind",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "quiet",
+      "ability": "blaze",
+      "moveset": [
+        "quickattack",
+        "tackle",
+        "protect",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "careful",
+      "ability": "syncronize",
+      "moveset": [
+        "zenheadbutt",
+        "outrage",
+        "airslash",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwag",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "rest",
+        "fireblast",
+        "firepunch",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

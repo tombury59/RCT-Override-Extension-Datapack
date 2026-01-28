@@ -1,0 +1,95 @@
+{
+  "name": "Ninja Ulrich",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1973205456070775
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charmander",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "gentle",
+      "ability": "static",
+      "moveset": [
+        "nastyplot",
+        "flareblitz",
+        "fireblast",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "brave",
+      "ability": "overgrow",
+      "moveset": [
+        "tailwind",
+        "thunderpunch",
+        "hydropump",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "docile",
+      "ability": "immunity",
+      "moveset": [
+        "dragonrush",
+        "recover",
+        "stoneedge",
+        "shadowball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snorlax",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "relaxed",
+      "ability": "immunity",
+      "moveset": [
+        "surf",
+        "tackle",
+        "icepunch",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "hasty",
+      "ability": "flashfire",
+      "moveset": [
+        "megakick",
+        "stunspore",
+        "dragonpulse",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Ninja Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11839940432822232
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "hasty",
+      "ability": "pressure",
+      "moveset": [
+        "flareblitz",
+        "swordsdance",
+        "focusblast",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "naive",
+      "ability": "torrent",
+      "moveset": [
+        "confusion",
+        "toxic",
+        "hyperbeam",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "relaxed",
+      "ability": "thickfat",
+      "moveset": [
+        "sleeppowder",
+        "icebeam",
+        "stoneedge",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bulbasaur",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "adamant",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "thundershock",
+        "wildcharge",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "quiet",
+      "ability": "compoundeyes",
+      "moveset": [
+        "shadowball",
+        "wildcharge",
+        "tackle",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "hasty",
+      "ability": "voltabsorb",
+      "moveset": [
+        "outrage",
+        "quickattack",
+        "icebeam",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

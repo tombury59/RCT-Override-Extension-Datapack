@@ -1,0 +1,80 @@
+{
+  "name": "Elite Four Xavier",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10546960752842123
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "gentle",
+      "ability": "voltabsorb",
+      "moveset": [
+        "bodyslam",
+        "tackle",
+        "stunspore",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "psychic",
+        "crunch",
+        "whirlwind",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 94,
+      "nature": "hardy",
+      "ability": "rockhead",
+      "moveset": [
+        "flashcannon",
+        "megakick",
+        "agility",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "relaxed",
+      "ability": "compoundeyes",
+      "moveset": [
+        "crunch",
+        "dazzlinggleam",
+        "tackle",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

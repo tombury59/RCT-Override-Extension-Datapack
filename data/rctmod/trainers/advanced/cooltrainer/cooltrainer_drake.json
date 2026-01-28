@@ -1,0 +1,65 @@
+{
+  "name": "Cooltrainer Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11577028685436117
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "hasty",
+      "ability": "voltabsorb",
+      "moveset": [
+        "pound",
+        "zenheadbutt",
+        "whirlwind",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "lax",
+      "ability": "rockhead",
+      "moveset": [
+        "vinewhip",
+        "stealthrock",
+        "flareblitz",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "impish",
+      "ability": "swarm",
+      "moveset": [
+        "megapunch",
+        "ember",
+        "doubleedge",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

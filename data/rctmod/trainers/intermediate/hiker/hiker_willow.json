@@ -1,0 +1,65 @@
+{
+  "name": "Hiker Willow",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1395542917364496
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "calmmind",
+        "dragonpulse",
+        "zenheadbutt",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "takedown",
+        "icebeam",
+        "megakick",
+        "sleeppowder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "timid",
+      "ability": "intimidate",
+      "moveset": [
+        "megapunch",
+        "darkpulse",
+        "protect",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

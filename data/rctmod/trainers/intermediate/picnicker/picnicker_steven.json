@@ -1,0 +1,95 @@
+{
+  "name": "Picnicker Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12562787946870246
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "quiet",
+      "ability": "flashfire",
+      "moveset": [
+        "thrash",
+        "shadowclaw",
+        "tailwind",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "docile",
+      "ability": "syncronize",
+      "moveset": [
+        "energyball",
+        "stealthrock",
+        "hyperbeam",
+        "scratch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "typhlosion",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "modest",
+      "ability": "soundproof",
+      "moveset": [
+        "hyperbeam",
+        "growth",
+        "earthquake",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "quiet",
+      "ability": "sturdy",
+      "moveset": [
+        "dragonrush",
+        "trickroom",
+        "solarbeam",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "quiet",
+      "ability": "swarm",
+      "moveset": [
+        "blizzard",
+        "dragonrush",
+        "nastyplot",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

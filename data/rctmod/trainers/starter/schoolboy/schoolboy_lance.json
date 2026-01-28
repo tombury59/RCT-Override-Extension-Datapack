@@ -1,0 +1,65 @@
+{
+  "name": "Schoolboy Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18436198267048517
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "bashful",
+      "ability": "keeneye",
+      "moveset": [
+        "bodyslam",
+        "calmmind",
+        "hyperbeam",
+        "flamethrower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "sassy",
+      "ability": "blaze",
+      "moveset": [
+        "outrage",
+        "surf",
+        "firepunch",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "gentle",
+      "ability": "pressure",
+      "moveset": [
+        "megakick",
+        "ironhead",
+        "agility",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

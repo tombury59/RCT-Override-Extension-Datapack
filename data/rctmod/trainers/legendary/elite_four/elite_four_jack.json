@@ -1,0 +1,110 @@
+{
+  "name": "Elite Four Jack",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1284263435253865
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "entei",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "rash",
+      "ability": "compoundeyes",
+      "moveset": [
+        "doubleedge",
+        "thunderpunch",
+        "thunder",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 95,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "closecombat",
+        "pound",
+        "willowisp",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gardevoir",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "impish",
+      "ability": "voltabsorb",
+      "moveset": [
+        "firepunch",
+        "fireblast",
+        "shadowclaw",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 94,
+      "nature": "modest",
+      "ability": "torrent",
+      "moveset": [
+        "quickattack",
+        "fireblast",
+        "dragonrush",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "squirtle",
+      "gender": "MALE",
+      "level": 91,
+      "nature": "mild",
+      "ability": "static",
+      "moveset": [
+        "scratch",
+        "flamethrower",
+        "closecombat",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "hasty",
+      "ability": "blaze",
+      "moveset": [
+        "tackle",
+        "icepunch",
+        "willowisp",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

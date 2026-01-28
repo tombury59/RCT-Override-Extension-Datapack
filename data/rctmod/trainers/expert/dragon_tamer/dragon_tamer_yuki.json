@@ -1,0 +1,65 @@
+{
+  "name": "Dragon Tamer Yuki",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13086811684670477
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "mild",
+      "ability": "intimidate",
+      "moveset": [
+        "thunderpunch",
+        "hydropump",
+        "thunderwave",
+        "wildcharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "rash",
+      "ability": "effectspore",
+      "moveset": [
+        "thrash",
+        "scratch",
+        "solarbeam",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tyranitar",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "serious",
+      "ability": "rockhead",
+      "moveset": [
+        "willowisp",
+        "watergun",
+        "icepunch",
+        "gigaimpact"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

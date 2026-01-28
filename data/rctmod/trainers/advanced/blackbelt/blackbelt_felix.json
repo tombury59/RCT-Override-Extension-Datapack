@@ -1,0 +1,80 @@
+{
+  "name": "Blackbelt Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.13476950431632817
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mewtwo",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "quiet",
+      "ability": "static",
+      "moveset": [
+        "willowisp",
+        "dragonrush",
+        "hyperbeam",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "bold",
+      "ability": "sturdy",
+      "moveset": [
+        "ironhead",
+        "surf",
+        "protect",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoran_f",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "lax",
+      "ability": "blaze",
+      "moveset": [
+        "thunderbolt",
+        "crunch",
+        "icepunch",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "hasty",
+      "ability": "syncronize",
+      "moveset": [
+        "focusblast",
+        "shadowclaw",
+        "growth",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

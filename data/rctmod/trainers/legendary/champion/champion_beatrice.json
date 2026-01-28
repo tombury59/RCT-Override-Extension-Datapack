@@ -1,0 +1,95 @@
+{
+  "name": "Champion Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1500627786384578
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "gender": "MALE",
+      "level": 98,
+      "nature": "bashful",
+      "ability": "innerfocus",
+      "moveset": [
+        "hydropump",
+        "growth",
+        "pound",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "FEMALE",
+      "level": 98,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "crunch",
+        "darkpulse",
+        "sleeppowder",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 98,
+      "nature": "serious",
+      "ability": "waterabsorb",
+      "moveset": [
+        "flareblitz",
+        "hyperbeam",
+        "swordsdance",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "bold",
+      "ability": "sturdy",
+      "moveset": [
+        "outrage",
+        "roar",
+        "stoneedge",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pidgey",
+      "gender": "MALE",
+      "level": 98,
+      "nature": "timid",
+      "ability": "thickfat",
+      "moveset": [
+        "tackle",
+        "fireblast",
+        "quickattack",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Pok\u00e9mon Ranger Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12673257194019652
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "entei",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "bashful",
+      "ability": "compoundeyes",
+      "moveset": [
+        "firepunch",
+        "substitute",
+        "quickattack",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "hardy",
+      "ability": "keeneye",
+      "moveset": [
+        "takedown",
+        "recover",
+        "dazzlinggleam",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Bug Catcher Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19193397979537313
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 9,
+      "nature": "brave",
+      "ability": "waterabsorb",
+      "moveset": [
+        "earthquake",
+        "thunder",
+        "growth",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

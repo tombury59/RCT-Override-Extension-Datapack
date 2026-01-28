@@ -1,0 +1,110 @@
+{
+  "name": "Dragon Tamer Hector",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10389814569988166
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "quickattack",
+        "earthquake",
+        "focusblast",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "quiet",
+      "ability": "torrent",
+      "moveset": [
+        "bodyslam",
+        "substitute",
+        "confusion",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "naive",
+      "ability": "blaze",
+      "moveset": [
+        "vinewhip",
+        "earthquake",
+        "calmmind",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "lax",
+      "ability": "voltabsorb",
+      "moveset": [
+        "earthquake",
+        "rest",
+        "moonblast",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "serious",
+      "ability": "immunity",
+      "moveset": [
+        "whirlwind",
+        "thrash",
+        "icepunch",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "serious",
+      "ability": "overgrow",
+      "moveset": [
+        "rest",
+        "bodyslam",
+        "focusblast",
+        "outrage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

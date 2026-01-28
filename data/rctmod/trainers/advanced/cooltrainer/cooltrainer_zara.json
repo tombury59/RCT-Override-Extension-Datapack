@@ -1,0 +1,65 @@
+{
+  "name": "Cooltrainer Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1733141771207094
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "ho_oh",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "brave",
+      "ability": "intimidate",
+      "moveset": [
+        "scratch",
+        "stealthrock",
+        "closecombat",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "rash",
+      "ability": "levitate",
+      "moveset": [
+        "hydropump",
+        "toxic",
+        "shadowclaw",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "modest",
+      "ability": "pressure",
+      "moveset": [
+        "icepunch",
+        "energyball",
+        "ironhead",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Hiker Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14634277688236508
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "docile",
+      "ability": "levitate",
+      "moveset": [
+        "dragonrush",
+        "psybeam",
+        "stealthrock",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vulpix",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "docile",
+      "ability": "levitate",
+      "moveset": [
+        "megapunch",
+        "tailwind",
+        "flashcannon",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "sassy",
+      "ability": "pressure",
+      "moveset": [
+        "shadowclaw",
+        "trickroom",
+        "blizzard",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "serperior",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "naughty",
+      "ability": "keeneye",
+      "moveset": [
+        "megapunch",
+        "sleeppowder",
+        "gigaimpact",
+        "focusblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "scratch",
+        "stealthrock",
+        "shadowclaw",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

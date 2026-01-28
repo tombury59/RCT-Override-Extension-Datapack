@@ -1,0 +1,50 @@
+{
+  "name": "Fisherman Carlos",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12283463002987159
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "adamant",
+      "ability": "compoundeyes",
+      "moveset": [
+        "tackle",
+        "calmmind",
+        "pound",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "docile",
+      "ability": "torrent",
+      "moveset": [
+        "icepunch",
+        "moonblast",
+        "calmmind",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

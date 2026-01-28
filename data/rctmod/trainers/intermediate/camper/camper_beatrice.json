@@ -1,0 +1,65 @@
+{
+  "name": "Camper Beatrice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.14013409938949328
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "thrash",
+        "flareblitz",
+        "detect",
+        "dazzlinggleam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "volcarona",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "docile",
+      "ability": "torrent",
+      "moveset": [
+        "pound",
+        "thunderwave",
+        "gigaimpact",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "quiet",
+      "ability": "soundproof",
+      "moveset": [
+        "thunderwave",
+        "outrage",
+        "psybeam",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

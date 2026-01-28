@@ -1,0 +1,35 @@
+{
+  "name": "Lass Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.11988185315309074
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "excadrill",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "naive",
+      "ability": "soundproof",
+      "moveset": [
+        "doubleedge",
+        "shadowclaw",
+        "protect",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

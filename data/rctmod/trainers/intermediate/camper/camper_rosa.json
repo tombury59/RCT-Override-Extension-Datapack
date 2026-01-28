@@ -1,0 +1,65 @@
+{
+  "name": "Camper Rosa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1919523931435261
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "hyperbeam",
+        "pound",
+        "substitute",
+        "solarbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "rash",
+      "ability": "syncronize",
+      "moveset": [
+        "calmmind",
+        "ironhead",
+        "psybeam",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "hasty",
+      "ability": "flashfire",
+      "moveset": [
+        "icepunch",
+        "watergun",
+        "scratch",
+        "growth"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Pok\u00e9mon Ranger Akira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.18845516786700933
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "alakazam",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "brave",
+      "ability": "torrent",
+      "moveset": [
+        "blizzard",
+        "wildcharge",
+        "thunderwave",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "relaxed",
+      "ability": "soundproof",
+      "moveset": [
+        "thunderbolt",
+        "swordsdance",
+        "closecombat",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "reshiram",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "bashful",
+      "ability": "keeneye",
+      "moveset": [
+        "crunch",
+        "stoneedge",
+        "dazzlinggleam",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "naughty",
+      "ability": "effectspore",
+      "moveset": [
+        "nastyplot",
+        "flashcannon",
+        "zenheadbutt",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "quirky",
+      "ability": "torrent",
+      "moveset": [
+        "outrage",
+        "closecombat",
+        "psychic",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "hasty",
+      "ability": "levitate",
+      "moveset": [
+        "tackle",
+        "whirlwind",
+        "surf",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

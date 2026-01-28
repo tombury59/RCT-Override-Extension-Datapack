@@ -1,0 +1,50 @@
+{
+  "name": "Schoolboy Zara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15668882293084935
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "hardy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "fireblast",
+        "protect",
+        "pound",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "careful",
+      "ability": "keeneye",
+      "moveset": [
+        "closecombat",
+        "earthquake",
+        "thunder",
+        "substitute"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12095623740012595
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "reshiram",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "hasty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "darkpulse",
+        "earthquake",
+        "agility",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "regirock",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "timid",
+      "ability": "intimidate",
+      "moveset": [
+        "vinewhip",
+        "toxic",
+        "stoneedge",
+        "megapunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 81,
+      "nature": "modest",
+      "ability": "rockhead",
+      "moveset": [
+        "swordsdance",
+        "psybeam",
+        "thunderpunch",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "bashful",
+      "ability": "soundproof",
+      "moveset": [
+        "stealthrock",
+        "icepunch",
+        "psychic",
+        "hyperbeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "effectspore",
+      "moveset": [
+        "thrash",
+        "thundershock",
+        "protect",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

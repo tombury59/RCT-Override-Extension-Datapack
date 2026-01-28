@@ -1,0 +1,80 @@
+{
+  "name": "Lass Maria",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10589619443878072
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 6,
+      "nature": "mild",
+      "ability": "flashfire",
+      "moveset": [
+        "psybeam",
+        "ironhead",
+        "tailwind",
+        "megakick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "rash",
+      "ability": "soundproof",
+      "moveset": [
+        "crunch",
+        "thunder",
+        "whirlwind",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "docile",
+      "ability": "thickfat",
+      "moveset": [
+        "gigaimpact",
+        "thrash",
+        "stealthrock",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 11,
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "vinewhip",
+        "zenheadbutt",
+        "sleeppowder",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

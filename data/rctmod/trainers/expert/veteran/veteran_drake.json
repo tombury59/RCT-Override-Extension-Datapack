@@ -1,0 +1,95 @@
+{
+  "name": "Veteran Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.10212084710229452
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raikou",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "quiet",
+      "ability": "waterabsorb",
+      "moveset": [
+        "trickroom",
+        "wildcharge",
+        "crunch",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "sleeppowder",
+        "dragonpulse",
+        "shadowclaw",
+        "flareblitz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "lonely",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thunderpunch",
+        "outrage",
+        "detect",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "naive",
+      "ability": "innerfocus",
+      "moveset": [
+        "firepunch",
+        "tailwind",
+        "ember",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "hardy",
+      "ability": "soundproof",
+      "moveset": [
+        "shadowclaw",
+        "psychic",
+        "closecombat",
+        "roar"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

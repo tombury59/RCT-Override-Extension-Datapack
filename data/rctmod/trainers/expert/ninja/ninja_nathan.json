@@ -1,0 +1,110 @@
+{
+  "name": "Ninja Nathan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.19599258489730537
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "naughty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "dragonrush",
+        "thunder",
+        "flareblitz",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "palkia",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "blizzard",
+        "gigaimpact",
+        "growth",
+        "icepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "careful",
+      "ability": "effectspore",
+      "moveset": [
+        "crunch",
+        "trickroom",
+        "dragonrush",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "lonely",
+      "ability": "blaze",
+      "moveset": [
+        "crunch",
+        "dragonrush",
+        "recover",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "lax",
+      "ability": "immunity",
+      "moveset": [
+        "swordsdance",
+        "psybeam",
+        "closecombat",
+        "firepunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zapdos",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "bashful",
+      "ability": "torrent",
+      "moveset": [
+        "firepunch",
+        "hydropump",
+        "roar",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Gym Leader Eric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.12505117384059083
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "lax",
+      "ability": "blaze",
+      "moveset": [
+        "ironhead",
+        "quickattack",
+        "fireblast",
+        "detect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 84,
+      "nature": "bold",
+      "ability": "voltabsorb",
+      "moveset": [
+        "rest",
+        "outrage",
+        "closecombat",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 81,
+      "nature": "docile",
+      "ability": "pressure",
+      "moveset": [
+        "airslash",
+        "zenheadbutt",
+        "toxic",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dialga",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "hasty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "flareblitz",
+        "substitute",
+        "psychic",
+        "thunderpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "serious",
+      "ability": "static",
+      "moveset": [
+        "detect",
+        "psychic",
+        "scratch",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}
