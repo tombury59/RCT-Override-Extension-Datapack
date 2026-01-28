@@ -1,0 +1,187 @@
+{
+  "name": "Blackbelt Bruno",
+  "trainer_class": "BLACKBELT",
+  "win_money_base": 2458,
+  "ai": {
+    "intelligence": 0.9,
+    "switch_chance": 0.75
+  },
+  "team": [
+    {
+      "pokemon": "scream_tail",
+      "level": 81,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "voltabsorb",
+      "nature": "bold",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "rockyhelmet"
+    },
+    {
+      "pokemon": "iron_crown",
+      "level": 81,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "magicguard",
+      "nature": "timid",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choicespecs"
+    },
+    {
+      "pokemon": "flygon",
+      "level": 81,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "blaze",
+      "nature": "adamant",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choicespecs"
+    },
+    {
+      "pokemon": "greninja",
+      "level": 81,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "multiscale",
+      "nature": "impish",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "weaknesspolicy"
+    },
+    {
+      "pokemon": "slither_wing",
+      "level": 83,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "compoundeyes",
+      "nature": "bold",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "assaultvest"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "count": 3
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 4916
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.81
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:rare_candy",
+      "count": 3
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:master_ball",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "name": "Dragon Tamer Drake",
+  "trainer_class": "DRAGON_TAMER",
+  "win_money_base": 2440,
+  "ai": {
+    "intelligence": 0.9,
+    "switch_chance": 0.75
+  },
+  "team": [
+    {
+      "pokemon": "urshifu",
+      "level": 78,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "waterabsorb",
+      "nature": "calm",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choicescarf"
+    },
+    {
+      "pokemon": "drampa",
+      "level": 82,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "overgrow",
+      "nature": "bold",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choicescarf"
+    },
+    {
+      "pokemon": "kommo-o",
+      "level": 78,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "blaze",
+      "nature": "calm",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choicescarf"
+    },
+    {
+      "pokemon": "mimikyu",
+      "level": 82,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "pressure",
+      "nature": "timid",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choiceband"
+    },
+    {
+      "pokemon": "volcarona",
+      "level": 81,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "sturdy",
+      "nature": "adamant",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choicespecs"
+    },
+    {
+      "pokemon": "raging_bolt",
+      "level": 82,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "multiscale",
+      "nature": "careful",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "assaultvest"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "count": 3
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 4880
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.8
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:rare_candy",
+      "count": 3
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:master_ball",
+      "count": 1
+    }
+  ]
+}

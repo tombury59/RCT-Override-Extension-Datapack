@@ -1,0 +1,187 @@
+{
+  "name": "Elite Four Sidney",
+  "trainer_class": "ELITE_FOUR",
+  "win_money_base": 2458,
+  "ai": {
+    "intelligence": 0.9,
+    "switch_chance": 0.75
+  },
+  "team": [
+    {
+      "pokemon": "aegislash",
+      "level": 81,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "flashfire",
+      "nature": "calm",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choiceband"
+    },
+    {
+      "pokemon": "urshifu",
+      "level": 83,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "swarm",
+      "nature": "timid",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "rockyhelmet"
+    },
+    {
+      "pokemon": "talonflame",
+      "level": 83,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "waterabsorb",
+      "nature": "timid",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "airballoon"
+    },
+    {
+      "pokemon": "roaring_moon",
+      "level": 79,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "flashfire",
+      "nature": "bold",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choicespecs"
+    },
+    {
+      "pokemon": "slaking",
+      "level": 82,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "voltabsorb",
+      "nature": "modest",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choiceband"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "count": 3
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 4916
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.81
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:rare_candy",
+      "count": 3
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:master_ball",
+      "count": 1
+    }
+  ]
+}

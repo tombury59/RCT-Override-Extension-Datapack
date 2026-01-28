@@ -1,0 +1,217 @@
+{
+  "name": "Veteran Harold",
+  "trainer_class": "VETERAN",
+  "win_money_base": 2422,
+  "ai": {
+    "intelligence": 0.9,
+    "switch_chance": 0.75
+  },
+  "team": [
+    {
+      "pokemon": "turtonator",
+      "level": 80,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "multiscale",
+      "nature": "timid",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "leftovers"
+    },
+    {
+      "pokemon": "snorlax",
+      "level": 79,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "magicguard",
+      "nature": "timid",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choicespecs"
+    },
+    {
+      "pokemon": "corviknight",
+      "level": 78,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "flashfire",
+      "nature": "adamant",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choicespecs"
+    },
+    {
+      "pokemon": "flygon",
+      "level": 80,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "overgrow",
+      "nature": "modest",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "assaultvest"
+    },
+    {
+      "pokemon": "baxcalibur",
+      "level": 78,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "overgrow",
+      "nature": "timid",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "rockyhelmet"
+    },
+    {
+      "pokemon": "spectrier",
+      "level": 77,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "voltabsorb",
+      "nature": "calm",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "lifeorb"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "count": 3
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 4844
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.79
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:rare_candy",
+      "count": 3
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:master_ball",
+      "count": 1
+    }
+  ]
+}

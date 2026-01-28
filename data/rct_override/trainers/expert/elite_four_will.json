@@ -1,0 +1,217 @@
+{
+  "name": "Elite Four Will",
+  "trainer_class": "ELITE_FOUR",
+  "win_money_base": 2512,
+  "ai": {
+    "intelligence": 0.9,
+    "switch_chance": 0.75
+  },
+  "team": [
+    {
+      "pokemon": "snorlax",
+      "level": 83,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "pressure",
+      "nature": "calm",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "weaknesspolicy"
+    },
+    {
+      "pokemon": "iron_valiant",
+      "level": 86,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "intimidate",
+      "nature": "modest",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choicespecs"
+    },
+    {
+      "pokemon": "altaria",
+      "level": 82,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "blaze",
+      "nature": "jolly",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "airballoon"
+    },
+    {
+      "pokemon": "roaring_moon",
+      "level": 84,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "flashfire",
+      "nature": "bold",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "assaultvest"
+    },
+    {
+      "pokemon": "volcarona",
+      "level": 84,
+      "gender": "female",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "sturdy",
+      "nature": "adamant",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "choiceband"
+    },
+    {
+      "pokemon": "goodra",
+      "level": 84,
+      "gender": "male",
+      "moves": [
+        "tackle",
+        "scratch",
+        "pound",
+        "quickattack"
+      ],
+      "ability": "levitate",
+      "nature": "modest",
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defense": 31,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 31
+      },
+      "held_item": "assaultvest"
+    }
+  ],
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "count": 3
+    }
+  ],
+  "defeat_actions": [
+    {
+      "type": "give_money",
+      "amount": 5024
+    },
+    {
+      "type": "give_exp",
+      "multiplier": 1.8399999999999999
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:rare_candy",
+      "count": 3
+    },
+    {
+      "type": "give_item",
+      "item": "cobblemon:master_ball",
+      "count": 1
+    }
+  ]
+}

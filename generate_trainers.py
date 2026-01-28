@@ -78,6 +78,17 @@ POKEMON_BY_LEVEL = {
         "dracovish", "arctovish", "duraludon", "dragapult"
     ],
     
+    # Niveau 75-85 (Expert)
+    "expert": [
+        "dragonite", "tyranitar", "salamence", "metagross", "garchomp", "hydreigon",
+        "goodra", "kommo-o", "dragapult", "baxcalibur", "kingdra", "flygon", "haxorus",
+        "duraludon", "altaria", "noivern", "turtonator", "drampa", "snorlax", "slaking",
+        "milotic", "togekiss", "lucario", "zoroark", "chandelure", "volcarona", "aegislash",
+        "greninja", "talonflame", "sylveon", "mimikyu", "toxtricity", "grimmsnarl", "corviknight",
+        "dragapult", "urshifu", "calyrex", "spectrier", "glastrier", "enamorus", "iron_valiant",
+        "roaring_moon", "walking_wake", "raging_bolt", "iron_crown", "scream_tail", "slither_wing"
+    ],
+    
     # Niveau 85-100 (Légendaire)
     "legendary": [
         "articuno", "zapdos", "moltres", "dragonite", "mewtwo", "mew", "raikou", "entei",
@@ -197,6 +208,7 @@ class TrainerGenerator:
             "starter": self.output_dir / "starter",
             "intermediate": self.output_dir / "intermediate",
             "advanced": self.output_dir / "advanced",
+            "expert": self.output_dir / "expert",
             "legendary": self.output_dir / "legendary"
         }
         for dir_path in self.category_dirs.values():
@@ -323,12 +335,12 @@ class TrainerGenerator:
             }
             
             # Ajoute EVs/IVs pour niveaux élevés
-            if category in ["intermediate", "advanced", "legendary"]:
+            if category in ["intermediate", "advanced", "expert", "legendary"]:
                 mon["evs"] = self.generate_evs(category)
                 mon["ivs"] = self.generate_ivs(category)
             
             # Ajoute un item tenu pour niveaux moyens/élevés
-            if category in ["intermediate", "advanced", "legendary"]:
+            if category in ["intermediate", "advanced", "expert", "legendary"]:
                 mon["held_item"] = self.get_held_item(category)
             
             team.append(mon)
@@ -348,7 +360,7 @@ class TrainerGenerator:
         if category == "intermediate":
             return {"hp": 100, "attack": 100, "defense": 0, "special_attack": 100,
                     "special_defense": 4, "speed": 100}
-        elif category in ["advanced", "legendary"]:
+        elif category in ["advanced", "expert", "legendary"]:
             return {"hp": 252, "attack": 252, "defense": 0, "special_attack": 0,
                     "special_defense": 4, "speed": 252}
         return {}
@@ -358,7 +370,7 @@ class TrainerGenerator:
         if category == "intermediate":
             return {"hp": 24, "attack": 24, "defense": 24, "special_attack": 24,
                     "special_defense": 24, "speed": 24}
-        elif category in ["advanced", "legendary"]:
+        elif category in ["advanced", "expert", "legendary"]:
             return {"hp": 31, "attack": 31, "defense": 31, "special_attack": 31,
                     "special_defense": 31, "speed": 31}
         return {}
@@ -370,6 +382,8 @@ class TrainerGenerator:
             "intermediate": ["sitrusberry", "lumberry", "choiceband", "choicescarf", "lifeorb"],
             "advanced": ["leftovers", "lifeorb", "choiceband", "choicescarf", "choicespecs",
                          "focussash", "assaultvest", "lumberry", "weaknesspolicy"],
+            "expert": ["leftovers", "lifeorb", "choiceband", "choicescarf", "choicespecs",
+                       "focussash", "assaultvest", "weaknesspolicy", "airballoon", "rockyhelmet"],
             "legendary": ["leftovers", "lifeorb", "choiceband", "choicescarf", "choicespecs",
                           "focussash", "assaultvest", "weaknesspolicy", "lumberry", "sitrusberry"]
         }
@@ -381,6 +395,7 @@ class TrainerGenerator:
         ai_config = {
             "starter": {"intelligence": 0.3, "switch_chance": 0.1},
             "intermediate": {"intelligence": 0.6, "switch_chance": 0.35},
+            "expert": {"intelligence": 0.9, "switch_chance": 0.75},
             "advanced": {"intelligence": 0.8, "switch_chance": 0.6},
             "legendary": {"intelligence": 1.0, "switch_chance": 0.9}
         }
@@ -389,6 +404,7 @@ class TrainerGenerator:
         team_sizes = {
             "starter": [1, 2, 3],
             "intermediate": [3, 3, 4],
+            "expert": [5, 6, 6],
             "advanced": [4, 5, 6],
             "legendary": [6, 6, 6]
         }
@@ -399,6 +415,7 @@ class TrainerGenerator:
         # Win money selon niveau
         win_money = {
             "starter": 50 + level * 5,
+            "expert": 1000 + level * 18,
             "intermediate": 250 + level * 10,
             "advanced": 500 + level * 15,
             "legendary": 2000 + level * 20
@@ -407,6 +424,7 @@ class TrainerGenerator:
         # Potions selon catégorie
         potions = {
             "starter": {"item": "cobblemon:potion", "count": 1},
+            "expert": {"item": "cobblemon:full_restore", "count": 3},
             "intermediate": {"item": "cobblemon:hyper_potion", "count": 2},
             "advanced": {"item": "cobblemon:max_potion", "count": 2},
             "legendary": {"item": "cobblemon:full_restore", "count": 5}
@@ -426,11 +444,18 @@ class TrainerGenerator:
         }
         
         # Ajoute des récompenses spéciales pour catégories élevées
-        if category in ["advanced", "legendary"]:
+        if category in ["advanced", "expert", "legendary"]:
             trainer["defeat_actions"].append({
                 "type": "give_item",
                 "item": "cobblemon:rare_candy",
-                "count": 2 if category == "advanced" else 5
+                "count": 2 if category == "advanced" else (3 if category == "expert" else 5)
+            })
+        
+        if category in ["expert", "legendary"]:
+            trainer["defeat_actions"].append({
+                "type": "give_item",
+                "item": "cobblemon:master_ball",
+                "count": 1
             })
         
         if category == "legendary":
@@ -507,6 +532,12 @@ def main():
     # generator.generate_category("advanced", "DRAGON_TAMER", 8, 67)
     # generator.generate_category("advanced", "BLACKBELT", 7, 66)
     # generator.generate_category("advanced", "ELITE_FOUR", 5, 71)
+    
+    # EXPERT TRAINERS (niveau 75-85) - NOUVEAUX !
+    generator.generate_category("expert", "VETERAN", 10, 78)
+    generator.generate_category("expert", "DRAGON_TAMER", 8, 80)
+    generator.generate_category("expert", "BLACKBELT", 7, 79)
+    generator.generate_category("expert", "ELITE_FOUR", 10, 82)
     
     # LEGENDARY TRAINERS (niveau 85-100) 
     # generator.generate_category("legendary", "CHAMPION", 15, 92)
